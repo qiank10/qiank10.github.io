@@ -1,5 +1,5 @@
 ---
-title: "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)"
+title: "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)"
 date: "2026-8-1"
 image: teaser.png
 categories: ["graduate"]
