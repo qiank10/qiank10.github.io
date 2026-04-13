@@ -1,0 +1,185 @@
+---
+title: "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)"
+date: "2026-8-1"
+image: teaser.png
+categories: ["graduate"]
+---
+
+## Course Information
+
+- Co-Instructors: 
+  - [Rider Foley](https://engineering.virginia.edu/faculty/rider-w-foley)
+  - [Kun Qian](https://kunqian.info/)
+- Lecture time: 12:30pm-1:45pm MoWe
+- Location: Rice Hall 340
+- Office hours: 
+	- TBD
+
+## Course Description
+
+This course is designed to develop cross-competency in the technical, analytical, and professional capabilities necessary for the emerging field of Cyber-Physical Systems (CPS). It provides convergence learning activities based around the applications, technologies, and system designs of CPS as well as exploring the ethical, social, and policy dimensions of CPS work. The course also emphasizes the importance of communication as a necessary skill.
+
+## Course Overview
+
+CPS as a discipline integrates the cyber, physical and social worlds. The responsibilities of CPS professionals are then to sense, analyze and actuate upon the world with efficient, safe, secure and efficacious engineered systems. To do this effectively, CPS professionals need to develop cross-competency in technical, analytical and professional capabilities that are necessary for the efficacious and safe functioning of CPS systems. CPS is an inherently interdisciplinary discipline and practicing engineers must build systems and create knowledge at the inter-section of multiple knowledge domains. The best way to learn to do this is by participating in convergence learning activities that integrate an interdisciplinary CPS perspective from the onset. 
+
+Bridging the physical and cyber worlds requires CPS engineers to scalably capture data about the physical world, derive understanding from that data, and then actuate in the physical world based on that understanding. This closed-loop operation is a fundamental aspect of CPS, but requires wirelessly connected, low power, and embedded devices to realize at the large scales that CPS applications require. CPS engineers must understand the principles of how real-world data is collected, and be able to prototype their own designs in a controlled environment. Test-beds provide the environment to simulate real-world conditions and enable engineers to carefully observe the impact of their designs, changes and interventions.
+
+CPS engineers also need to understand the role policy plays in shaping the possibilities of CPS systems and how technical standards can be utilized in achieving societally desirable goals of safety and resiliency. They must be able to perform critical analyses of systems with an eye towards, safety, ethics, compliance and human welfare. As all engineered systems reconfigure social relationships and hierarchies in ways that can have profound and important long-term societal implications. CPS engineers must have the analytical skills to describe and understand the interaction of their design on various human agents including users, regulators, non-users and various publics.
+
+CPS as a discipline is at the forefront of engineering new cyber-physical capabilities that could have significant effects on entire industries and job categories and engineers need to be prepared to participate in debates about the future that they are shaping from an informed and ethical perspective. 
+
+This course is designed to teach these necessary competencies.
+
+## Course Objective
+
+At the end of this course, you will be able to do the following:
+
+- Understand the fundamentals of wireless sensor networks and the tradeoffs of different designs concerning power, communication, reliability, update rate, latency, and ease-of-use. 
+- Describe and critically comment on social and policy debates surrounding the field of CPS.
+- Be capable of building a wireless sensor node and applying it to an existing CPS test-bed.
+- Understand the principles of user centered design and how users and non-users are implicated in design.
+- Understand the IEEE Ethically Aligned Design Framework and how to utilize it to design cyber-physical systems.
+
+## Grading
+
+Here is a breakdown of grading weights for each assessment in the class.
+
+- Assignments A-F: 50%
+- Participation (In-Class): 10%
+- Homework: 10%
+- In-Class Assignments: 10%
+- Final Presentation: 20%
+
+## Assessments
+
+Your progress in the course will be assessed on all the dimensions described in the course objectives above. We will release detailed instructions for each assessment on Canvas as we progress throughout the semester.
+
+- **A. Develop an Application using a test-bed data source:**: TWorking in teams, you will use the existing data streams from a real-world test-bed to prototype an application.
+- **B. Build a Wireless Sensor:**: Working in teams, you will develop a wireless sensor to monitor a new data stream of interest to your group. The sensor will collect information from sensors, process that information locally, and transmit the results wirelessly.
+- **C. Connect Your Sensor with Users:**: Working in teams, you will apply your experience developing embedded devices and leveraging data streams to prototype an end-to-end CPS application.
+- **D. IEEE EAD Discussions:**: You will lead a discussion session on one component of the IEEE EAD document.
+- **E. Case study using EAD framework**: In this project, you will work in teams to develop a case study of a CPS system utilizing the IEEE Ethically Aligned Design Framework.
+- **F. Policy and Regulation Review:** In this project you review recent regulation concerning CPS-related technology, what the challenges are with regulating the technology, and what you recommend for future policy.
+- **Participation:** This course can be truly transformational in your course of study here at SEAS. However, the level of benefit you will receive is directly proportional to your level of engagement and effort. Active participation is therefore essential to getting the most out of the course. As CPS engineers work in groups, you will need to apply all that we will teach you about group work to ensure that your groups are high-functioning groups.
+- **H. Homework:** Technical lectures will be accompanied by a homework assignment to be done individually.
+- **I. In-Class Assignments:**  Ethics presentations, peer-review, and final project application design.
+- **J. Final Presentation:** Your team will present the motivation, technical details, social, ethical, and policy implications, and results of a proposed cyber-physical system. The final will provide an opportunity to highlight you new integrated understanding of CPS projects and the different kinds of expertise required of a CPS engineer.
+
+## Honor
+
+We trust every student in this course to fully comply with all of the provisions of the University's Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia.
+
+## Prerequisites
+
+No formal prerequisites.
+
+## Course Schedule
+
+The schedule is subject to change.
+
+| Dates | Topic | Notes |
+|:---:|:---:|:---:|
+| Tue 08/25 | Courses begin |  |
+| Wed 08/26 | Introduction |  |
+| Mon 08/31 |  |  |
+| Wed 09/02 |  |  |
+| Mon 09/07 |  |  |
+| Wed 09/09 |  |  |
+| Mon 09/14 |  |  |
+| Wed 09/16 |  |  |
+| Mon 09/21 |  |  |
+| Wed 09/23 |  |  |
+| Mon 09/28 |  |  |
+| Wed 09/30 |  |  |
+| Mon 10/05 | No class |  |
+| Wed 10/07 |  |  |
+| Mon 10/12 |  |  |
+| Wed 10/14 |  |  |
+| Mon 10/19 |  |  |
+| Wed 10/21 |  |  |
+| Mon 10/26 |  |  |
+| Wed 10/28 |  |  |
+| Mon 11/02 |  |  |
+| Wed 11/04 |  |  |
+| Mon 11/09 |  |  |
+| Wed 11/11 |  |  |
+| Mon 11/16 |  |  |
+| Wed 11/18 |  |  |
+| Mon 11/23 |  |  |
+| Wed 11/25 | No class |  |
+| Mon 11/30 |  |  |
+| Wed 12/02 |  |  |
+| Mon 12/07 |  |  |
+| Fri 12/08 | Courses end |  |
+| TBD | Final Presentation |  |
+
+## Attendance Policy
+
+Attendance is required for all classes and is considered part of your practice of professionalism. If you are sick please do not come to class. You may join over zoom or make up the content later. If you are unable to come to class please let us know. Certain class sessions cannot be easily made up and we need to know in advance if you cannot attend so we can make arrangements.
+
+## Late Work Policy
+
+Late or missing work will lose points. To protect yourself from computer crashes, always make and keep a hard copy of each assignment. Remember that we grade the document as it appears on Canvas. Please make sure to turn in your work correctly (i.e. not a Word doc. or a rough draft) and on time by the deadline and to check Canvas to verify that it was submitted. Any late or missing work will lose significant points regardless of the reason (and even if you can produce an electronic time-stamped document that shows you haven not made any changes since before the deadline). It is your responsibility to make sure your work is turned in correctly and on time.
+
+While we anticipate that all students will pass this course, it is possible to fail the course. First, you can fail the course if you do not turn in all of the assignments and/or the quality of your work is below what we deem as the acceptable minimum. Second, we have the option to fail you if you do not submit any or all of the assignments on the due dates. And third, you can fail if you have an inordinate number of class absences, excused or unexcused.
+
+## Honor/Academic Integrity Policy
+
+The School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University's Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.
+
+If you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.
+
+## Class Recording
+
+Lectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor.
+
+## Use of Generative AI
+
+You may use generative AI tools as just that: tools. Just like you would use a calculator to perform mathematical operations, matplotlib to create graphs, or a spellchecker to fix spelling errors, you may use generative AI tools for mechanical operations such as proofreading or rephrasing. You may also use generative AI tools as a type of search engine to help you generate ideas and explore design spaces. You may NOT use generative AI to write prose in this course. All writing you submit MUST be your own.
+
+## Students with Disabilities or Learning Needs
+
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters\@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the [SDAC website](https://sdac.studenthealth.virginia.edu). If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
+
+## Religious Accommodations
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
+
+Students who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at [uvaeocr\@virginia.edu](mailto:uvaeocr@virginia.edu) or 434-924-3200.
+
+## Harassment, Discrimination, and Interpersonal Violence
+The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](https://www.virginia.edu/sexualviolence) that describes reporting options and resources available.
+
+The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation.  [UVA prohibits discrimination and harassment](https://uvapolicy.virginia.edu/policy/HRM-009) based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. [UVA policy](https://uvapolicy.virginia.edu/policy/HRM-010) also prohibits retaliation for reporting such behavior.
+
+If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to [Just Report It](https://justreportit.virginia.edu) (justreportit.virginia.edu) or contact EOCR ([uvaeocr\@virginia.edu](mailto:uvaeocr@virginia.edu)), the office of Equal Opportunity and Civil Rights.
+
+If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services ("CAPS") and [Women’s Center Counseling Staff and Confidential Advocates](https://womenscenter.virginia.edu/counseling/our-counseling-services) (for students of all genders).
+
+As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community.
+
+## Support for Your Career Development
+Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations.
+
+## Student support team
+You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
+
+**Learning**
+
+- Lisa Lampe ([ll4uu\@virginia.edu](mailto:ll4uu@virginia.edu)), Assistant Dean for Undergraduate Affairs
+- Georgina Nembhard ([gnembhard\@virginia.edu](mailto:gnembhard@virginia.edu)), Director of Student Success
+- Courtney MacMasters ([cmacmasters\@virginia.edu](mailto:cmacmasters@virginia.edu)), Accessibility Specialist
+
+[Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes.
+
+**Health and Wellbeing**
+
+- Kelly Garrett ([mwu5gs\@virginia.edu](mailto:mwu5gs@virginia.edu)), Assistant Dean of Students, Student Safety and Support  
+- Elizabeth Ramirez-Weaver ([er2tn\@virginia.edu](mailto:er2tn@virginia.edu)), CAPS counselor\*
+- Katie Fowler ([rfk2xj\@virginia.edu](mailto:rfk2xj@virginia.edu)), CAPS counselor\*
+
+\*You may schedule time with the CAPS counselors through [Student Health](https://www.studenthealth.virginia.edu/getting-started-caps). When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.
+
+**Community and Identity**
+
+The Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.

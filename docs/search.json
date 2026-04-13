@@ -858,6 +858,146 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2026)\n\n\n\n\n\nAug, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2026)\n\n\n\n\n\nJan, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2025)\n\n\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2025)\n\n\n\n\n\nJan, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2024)\n\n\n\n\n\nAug, 2024\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)\n\n\n\n\n\nAug, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2026)\n\n\n\n\n\nAug, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2026)\n\n\n\n\n\nJan, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2025)\n\n\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2025)\n\n\n\n\n\nJan, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2024)\n\n\n\n\n\nAug, 2024\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html",
+    "href": "courses/uva-cps1-cpste/fall2026.html",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "",
+    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#course-information",
+    "href": "courses/uva-cps1-cpste/fall2026.html#course-information",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "",
+    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#course-description",
+    "href": "courses/uva-cps1-cpste/fall2026.html#course-description",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Course Description",
+    "text": "Course Description\nThis course is designed to develop cross-competency in the technical, analytical, and professional capabilities necessary for the emerging field of Cyber-Physical Systems (CPS). It provides convergence learning activities based around the applications, technologies, and system designs of CPS as well as exploring the ethical, social, and policy dimensions of CPS work. The course also emphasizes the importance of communication as a necessary skill."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#course-overview",
+    "href": "courses/uva-cps1-cpste/fall2026.html#course-overview",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Course Overview",
+    "text": "Course Overview\nCPS as a discipline integrates the cyber, physical and social worlds. The responsibilities of CPS professionals are then to sense, analyze and actuate upon the world with efficient, safe, secure and efficacious engineered systems. To do this effectively, CPS professionals need to develop cross-competency in technical, analytical and professional capabilities that are necessary for the efficacious and safe functioning of CPS systems. CPS is an inherently interdisciplinary discipline and practicing engineers must build systems and create knowledge at the inter-section of multiple knowledge domains. The best way to learn to do this is by participating in convergence learning activities that integrate an interdisciplinary CPS perspective from the onset.\nBridging the physical and cyber worlds requires CPS engineers to scalably capture data about the physical world, derive understanding from that data, and then actuate in the physical world based on that understanding. This closed-loop operation is a fundamental aspect of CPS, but requires wirelessly connected, low power, and embedded devices to realize at the large scales that CPS applications require. CPS engineers must understand the principles of how real-world data is collected, and be able to prototype their own designs in a controlled environment. Test-beds provide the environment to simulate real-world conditions and enable engineers to carefully observe the impact of their designs, changes and interventions.\nCPS engineers also need to understand the role policy plays in shaping the possibilities of CPS systems and how technical standards can be utilized in achieving societally desirable goals of safety and resiliency. They must be able to perform critical analyses of systems with an eye towards, safety, ethics, compliance and human welfare. As all engineered systems reconfigure social relationships and hierarchies in ways that can have profound and important long-term societal implications. CPS engineers must have the analytical skills to describe and understand the interaction of their design on various human agents including users, regulators, non-users and various publics.\nCPS as a discipline is at the forefront of engineering new cyber-physical capabilities that could have significant effects on entire industries and job categories and engineers need to be prepared to participate in debates about the future that they are shaping from an informed and ethical perspective.\nThis course is designed to teach these necessary competencies."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#course-objective",
+    "href": "courses/uva-cps1-cpste/fall2026.html#course-objective",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Course Objective",
+    "text": "Course Objective\nAt the end of this course, you will be able to do the following:\n\nUnderstand the fundamentals of wireless sensor networks and the tradeoffs of different designs concerning power, communication, reliability, update rate, latency, and ease-of-use.\nDescribe and critically comment on social and policy debates surrounding the field of CPS.\nBe capable of building a wireless sensor node and applying it to an existing CPS test-bed.\nUnderstand the principles of user centered design and how users and non-users are implicated in design.\nUnderstand the IEEE Ethically Aligned Design Framework and how to utilize it to design cyber-physical systems."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#grading",
+    "href": "courses/uva-cps1-cpste/fall2026.html#grading",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Grading",
+    "text": "Grading\nHere is a breakdown of grading weights for each assessment in the class.\n\nAssignments A-F: 50%\nParticipation (In-Class): 10%\nHomework: 10%\nIn-Class Assignments: 10%\nFinal Presentation: 20%"
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#assessments",
+    "href": "courses/uva-cps1-cpste/fall2026.html#assessments",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Assessments",
+    "text": "Assessments\nYour progress in the course will be assessed on all the dimensions described in the course objectives above. We will release detailed instructions for each assessment on Canvas as we progress throughout the semester.\n\nA. Develop an Application using a test-bed data source:: TWorking in teams, you will use the existing data streams from a real-world test-bed to prototype an application.\nB. Build a Wireless Sensor:: Working in teams, you will develop a wireless sensor to monitor a new data stream of interest to your group. The sensor will collect information from sensors, process that information locally, and transmit the results wirelessly.\nC. Connect Your Sensor with Users:: Working in teams, you will apply your experience developing embedded devices and leveraging data streams to prototype an end-to-end CPS application.\nD. IEEE EAD Discussions:: You will lead a discussion session on one component of the IEEE EAD document.\nE. Case study using EAD framework: In this project, you will work in teams to develop a case study of a CPS system utilizing the IEEE Ethically Aligned Design Framework.\nF. Policy and Regulation Review: In this project you review recent regulation concerning CPS-related technology, what the challenges are with regulating the technology, and what you recommend for future policy.\nParticipation: This course can be truly transformational in your course of study here at SEAS. However, the level of benefit you will receive is directly proportional to your level of engagement and effort. Active participation is therefore essential to getting the most out of the course. As CPS engineers work in groups, you will need to apply all that we will teach you about group work to ensure that your groups are high-functioning groups.\nH. Homework: Technical lectures will be accompanied by a homework assignment to be done individually.\nI. In-Class Assignments: Ethics presentations, peer-review, and final project application design.\nJ. Final Presentation: Your team will present the motivation, technical details, social, ethical, and policy implications, and results of a proposed cyber-physical system. The final will provide an opportunity to highlight you new integrated understanding of CPS projects and the different kinds of expertise required of a CPS engineer."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#honor",
+    "href": "courses/uva-cps1-cpste/fall2026.html#honor",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Honor",
+    "text": "Honor\nWe trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#prerequisites",
+    "href": "courses/uva-cps1-cpste/fall2026.html#prerequisites",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nNo formal prerequisites."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#course-schedule",
+    "href": "courses/uva-cps1-cpste/fall2026.html#course-schedule",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Course Schedule",
+    "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/25\nCourses begin\n\n\n\nWed 08/26\nIntroduction\n\n\n\nMon 08/31\n\n\n\n\nWed 09/02\n\n\n\n\nMon 09/07\n\n\n\n\nWed 09/09\n\n\n\n\nMon 09/14\n\n\n\n\nWed 09/16\n\n\n\n\nMon 09/21\n\n\n\n\nWed 09/23\n\n\n\n\nMon 09/28\n\n\n\n\nWed 09/30\n\n\n\n\nMon 10/05\nNo class\n\n\n\nWed 10/07\n\n\n\n\nMon 10/12\n\n\n\n\nWed 10/14\n\n\n\n\nMon 10/19\n\n\n\n\nWed 10/21\n\n\n\n\nMon 10/26\n\n\n\n\nWed 10/28\n\n\n\n\nMon 11/02\n\n\n\n\nWed 11/04\n\n\n\n\nMon 11/09\n\n\n\n\nWed 11/11\n\n\n\n\nMon 11/16\n\n\n\n\nWed 11/18\n\n\n\n\nMon 11/23\n\n\n\n\nWed 11/25\nNo class\n\n\n\nMon 11/30\n\n\n\n\nWed 12/02\n\n\n\n\nMon 12/07\n\n\n\n\nFri 12/08\nCourses end\n\n\n\nTBD\nFinal Presentation"
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#attendance-policy",
+    "href": "courses/uva-cps1-cpste/fall2026.html#attendance-policy",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nAttendance is required for all classes and is considered part of your practice of professionalism. If you are sick please do not come to class. You may join over zoom or make up the content later. If you are unable to come to class please let us know. Certain class sessions cannot be easily made up and we need to know in advance if you cannot attend so we can make arrangements."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#late-work-policy",
+    "href": "courses/uva-cps1-cpste/fall2026.html#late-work-policy",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Late Work Policy",
+    "text": "Late Work Policy\nLate or missing work will lose points. To protect yourself from computer crashes, always make and keep a hard copy of each assignment. Remember that we grade the document as it appears on Canvas. Please make sure to turn in your work correctly (i.e. not a Word doc. or a rough draft) and on time by the deadline and to check Canvas to verify that it was submitted. Any late or missing work will lose significant points regardless of the reason (and even if you can produce an electronic time-stamped document that shows you haven not made any changes since before the deadline). It is your responsibility to make sure your work is turned in correctly and on time.\nWhile we anticipate that all students will pass this course, it is possible to fail the course. First, you can fail the course if you do not turn in all of the assignments and/or the quality of your work is below what we deem as the acceptable minimum. Second, we have the option to fail you if you do not submit any or all of the assignments on the due dates. And third, you can fail if you have an inordinate number of class absences, excused or unexcused."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#honoracademic-integrity-policy",
+    "href": "courses/uva-cps1-cpste/fall2026.html#honoracademic-integrity-policy",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Honor/Academic Integrity Policy",
+    "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#class-recording",
+    "href": "courses/uva-cps1-cpste/fall2026.html#class-recording",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Class Recording",
+    "text": "Class Recording\nLectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#use-of-generative-ai",
+    "href": "courses/uva-cps1-cpste/fall2026.html#use-of-generative-ai",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Use of Generative AI",
+    "text": "Use of Generative AI\nYou may use generative AI tools as just that: tools. Just like you would use a calculator to perform mathematical operations, matplotlib to create graphs, or a spellchecker to fix spelling errors, you may use generative AI tools for mechanical operations such as proofreading or rephrasing. You may also use generative AI tools as a type of search engine to help you generate ideas and explore design spaces. You may NOT use generative AI to write prose in this course. All writing you submit MUST be your own."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#students-with-disabilities-or-learning-needs",
+    "href": "courses/uva-cps1-cpste/fall2026.html#students-with-disabilities-or-learning-needs",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Students with Disabilities or Learning Needs",
+    "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#religious-accommodations",
+    "href": "courses/uva-cps1-cpste/fall2026.html#religious-accommodations",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Religious Accommodations",
+    "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#harassment-discrimination-and-interpersonal-violence",
+    "href": "courses/uva-cps1-cpste/fall2026.html#harassment-discrimination-and-interpersonal-violence",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Harassment, Discrimination, and Interpersonal Violence",
+    "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#support-for-your-career-development",
+    "href": "courses/uva-cps1-cpste/fall2026.html#support-for-your-career-development",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Support for Your Career Development",
+    "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
+  },
+  {
+    "objectID": "courses/uva-cps1-cpste/fall2026.html#student-support-team",
+    "href": "courses/uva-cps1-cpste/fall2026.html#student-support-team",
+    "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
+    "section": "Student support team",
+    "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
   }
 ]

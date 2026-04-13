@@ -3,6 +3,7 @@ title: Teaching
 listing:
     - id: courses
       contents:
+        - courses/uva-cps1-cpste/*.qmd
         - courses/uva-cs6501-wsiot/*.qmd
         - courses/uva-csece4501-wiot/*.qmd
       type: default

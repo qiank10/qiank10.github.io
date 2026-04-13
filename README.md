@@ -1,1 +1,1 @@
-# Kun Qian's Personal Webpage Powered by Quarto
+# Kun Qian's Personal/Lab Website Powered by Quarto
