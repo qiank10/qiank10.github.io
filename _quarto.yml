@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Kun Qian"
@@ -44,5 +45,3 @@ format:
 
 language: 
   search-text-placeholder: Search
-
-
