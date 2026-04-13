@@ -9,75 +9,75 @@
   title: "FR3 (6-24 GHz) SDR"
   description: "Pi-Radio SDR platform with 2x2 MIMO"
   date: "2025-2"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/pi-radio.png"
   categories: ["Communication"]
 
 - path: "https://www.sivers-semiconductors.com/wireless/evk02004/"
   title: "28 GHz SDR"
   description: "Sivers EVK02004 SDR platform with 4x4 phased array"
   date: "2025-1"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/sivers.png"
   categories: ["Communication"]
 
 - path: "https://www.eravant.com/60-to-90-ghz-25-db-isolation-wr-12-waveguide-e-band-reflective-spst-pin-diode-switch"
   title: "77 GHz RF Backscatter Prototype"
   description: "Eravant 77 GHz RF switch and waveguide"
   date: "2024-10"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/eravant.png"
   categories: ["Communication", "Sensing"]
 
 - path: "https://www.ettus.com/all-products/ub210-kit/"
   title: "Sub-6 GHz SDR"
   description: "USRP B210 with 2x2 MIMO"
   date: "2024-6"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/usrp-b210.png"
   categories: ["Communication", "Sensing"]
 
 - path: "https://mikrotik.com/product/wap_60g_ap"
   title: "WiGig AP (60 GHz)"
   description: "Mikrotik wAP 60G AP with 6x6 phased array"
   date: "2024-5"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/mikrotik.png"
   categories: ["Communication", "Sensing"]
 
 - path: "https://www.impinj.com/zh-cn/products/readers/impinj-speedway"
   title: "RFID Reader"
   description: "Impinj R420 UHF RFID Reader with 4 distributable antennas"
   date: "2024-5"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/rfid.png"
   categories: ["Communication", "Sensing"]
 
 - path: "https://www.digikey.com/en/products/detail/texas-instruments/MMWCAS-RF-EVM/10661739"
   title: "77 GHz Radar"
   description: "TI's 77 GHz Cascaded radar with 12T16R"
   date: "2024-5"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/ti-cascaded.png"
   categories: ["Sensing"]
 
 - path: "https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/eval-tinyrad.html"
   title: "24 GHz Radar"
   description: "TINYRAD 24 GHz radar with 2T4R"
   date: "2024-4"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/tinyrad.png"
   categories: ["Sensing"]
 
 - path: "https://www.ti.com/tool/IWR1843BOOST"
   title: "77 GHz Radar"
   description: "TI's 77 GHz Single-chip radar with 3T4R"
   date: "2024-4"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/ti-single.png"
   categories: ["Communication", "Sensing"]
 
 - path: "https://www.infineon.com/evaluation-board/DEMO-BGT60TR13C"
   title: "60 GHz IoT Radar"
   description: "Infineon BGT60TR13C 60 GHz radar with 1T3R"
   date: "2024-3"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/infineon.png"
   categories: ["Sensing"]
 
 - path: "https://ps.zpj.io/"
   title: "Wi-Fi CSI Testbed"
   description: "PicoScenes Wi-Fi 6/6E testbed with 2x2 MIMO for ISAC research"
   date: "2024-3"
-  image: "equipment/images/equipment_default.png"
+  image: "equipment/images/picoscenes.png"
   categories: ["Communication", "Sensing"]
