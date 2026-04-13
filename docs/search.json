@@ -289,133 +289,133 @@
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html",
     "href": "courses/uva-cs6501-wsiot/fall2025.html",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "",
     "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Olsson Hall 001\nOffice hours:\n\nMo: 2:00-3:00pm\nTu: 3:00-4:00pm"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#course-information",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#course-information",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "",
     "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Olsson Hall 001\nOffice hours:\n\nMo: 2:00-3:00pm\nTu: 3:00-4:00pm"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#course-description",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#course-description",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Course Description",
     "text": "Course Description\nWireless sensing technologies repurpose wireless signals to sense the physical environment and gain situational awareness. Formed by pervasive, wirelessly connected devices, the Internet of Things can be transformed into a universal sensor network with wireless sensing, enabling ambient intelligence in various scenarios, such as smart homes, intelligent transportation, and smart factories. This course covers the basic principles and cutting-edge applications of wireless sensing. The evaluation will be based on participation, homework and lab assignments, paper presentation, and the course project."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#course-objective",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#course-objective",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Course Objective",
     "text": "Course Objective\nBy the end of the course, you will be able to\n\nexplain, analyze, and compare different wireless sensors.\ndevelop hands-on skills using common wireless sensors.\nidentify requirements for a wireless sensor for a specific application.\nlearn state-of-the-art research on wireless sensing.\nwork effectively in a group to build wireless sensing systems while overcoming challenges."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#grading",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#grading",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Grading",
     "text": "Grading\n\nQuizzes: 10%\nHomework: 10%\nLabs: 30%\nSeminar: 30%\n\nPaper presentation: 25%\nPaper discussion: 5%\n\nFinal Project: 20%"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#assessments",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#assessments",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Assessments",
     "text": "Assessments\n\nQuizzes: These in-class quick formative assessments will help students stay accountable to the material and highlight the most important aspects from the last lecture/class. Quiz grading is 50% completion and 50% correctness. The end-of-semester quiz score is calculated out of 50% of total possible points. (approx. 10 quizzes, 10%)\nHomework: Homework will get students familiarize with MATLAB coding, basic signal processing, and WiFi PHY. (2 homework assignment, 10%)\nLabs: Labs will give students hands-on experience developing and debugging wireless sensing hardware. Labs will be largely structured and are formative assessments. Students will generate some output, such as a plot or paragraph description for light grading. (2 labs, 30%)\nPresentation: Paper presentation will drive students to explore the cutting-edge research on various wireless sensing topics. Each student will read two papers on one topics, present them during the classes, and answer questions from the audience. (1 presentation and participation in presentations of other students, 30%)\nFinal Project: The final project will have students use wireless sensing hardware to develop their own sensing applications, and measure its performance. (1 project, 30%)"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#honor",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#honor",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Honor",
     "text": "Honor\nWe trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#prerequisites",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#prerequisites",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Prerequisites",
     "text": "Prerequisites\nNo formal prerequisites, but prior knowledge in signal processing, computer networks (e.g., equivalence of CS 4457), and machine learning is highly recommended."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#course-schedule",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#course-schedule",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Course Schedule",
     "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/26\nSemester begin\n\n\n\nWed 08/27\nIntroduction\n\n\n\nMon 09/01\nSignal Processing\n\n\n\nWed 09/03\nWireless Networking\n\n\n\nMon 09/08\nWiFi PHY\n\n\n\nWed 09/10\nWiFi CSI\n\n\n\nMon 09/15\nWiFi Lab\n\n\n\nWed 09/17\nRadar\n\n\n\nMon 09/22\nRadar Lab\n\n\n\nWed 09/24\nSensing Principles\n\n\n\nMon 09/29\nSensing Application\n\n\n\nWed 10/01\nMachine Learning for Wireless Sensing\n\n\n\nMon 10/06\nSensing-Assisted Communication\n\n\n\nWed 10/08\nSensing Security\n\n\n\nMon 10/13\nNo class\n\n\n\nWed 10/15\nProject Discussion\n\n\n\nMon 10/20\nSeminar\n\n\n\nWed 10/22\nSeminar\n\n\n\nMon 10/27\nSeminar\n\n\n\nWed 10/29\nSeminar\n\n\n\nMon 11/03\nSeminar\n\n\n\nWed 11/05\nSeminar\n\n\n\nMon 11/10\nSeminar\n\n\n\nWed 11/12\nSeminar\n\n\n\nMon 11/17\nSeminar\n\n\n\nWed 11/19\nSeminar\n\n\n\nMon 11/24\nSeminar\n\n\n\nWed 11/26\nNo class\n\n\n\nMon 12/01\nProject Workshop\n\n\n\nWed 12/03\nProject Workshop\n\n\n\nMon 12/08\nProject Demo\n\n\n\nFri 12/19\nSemester end"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#attendance-policy",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#attendance-policy",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Attendance Policy",
     "text": "Attendance Policy\nThis class heavily centers on group work and in-class hands-on practice to help you learn the course material. For this to be valuable, attendance is required."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#late-work-policy",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#late-work-policy",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Late Work Policy",
     "text": "Late Work Policy\nThere are various deliverables in this class. We expect you to complete each deliverable by its due date, but we realize that is not always possible. Some assignments can be turned in late.\n\nQuizzes: quizzes are due immediately after they are given and will not be accepted late.\nHomeworks: You have 10 late days to use throughout the semester for homework assignments. We will automatically apply the late days if you submit the homework late. After you run out of late days, there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the lab will not be accepted.\nLabs: Your group have 10 late days to use throughout the semester for lab assignments. We will automatically apply the late days if you submit the lab late. After you run out of late days, there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the lab will not be accepted.\nPresentation: paper presentation is due immediately before the presentation date and will not be accepted late.\nFinal project: final project is due after the demo session during the final exam week and will not be accepted late."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#honoracademic-integrity-policy",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#honoracademic-integrity-policy",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Honor/Academic Integrity Policy",
     "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.\nSpecific directions for this course:\n\nQuizzes must be done individually.\nHomeworks must be done individually.\nFor the labs, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.\nPaper presentation must be done individually.\nFor the course project, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#class-recording",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#class-recording",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Class Recording",
     "text": "Class Recording\nLectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#use-of-generative-ai",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#use-of-generative-ai",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Use of Generative AI",
     "text": "Use of Generative AI\nGenerative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. This policy governs all such tools, including those released during our semester together. You may use generative AI tools on assignments in this course. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, and include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#students-with-disabilities-or-learning-needs",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#students-with-disabilities-or-learning-needs",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Students with Disabilities or Learning Needs",
     "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#religious-accommodations",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#religious-accommodations",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Religious Accommodations",
     "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#harassment-discrimination-and-interpersonal-violence",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#harassment-discrimination-and-interpersonal-violence",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Harassment, Discrimination, and Interpersonal Violence",
     "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#support-for-your-career-development",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#support-for-your-career-development",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Support for Your Career Development",
     "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2025.html#student-support-team",
     "href": "courses/uva-cs6501-wsiot/fall2025.html#student-support-team",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2025)",
     "section": "Student support team",
     "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
   },
@@ -429,238 +429,238 @@
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html",
     "href": "courses/uva-cs6501-wsiot/fall2024.html",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "",
     "text": "Instructor: Kun Qian\nTA: Md. Khairul Islam\nLecture time: 11:00am-12:15pm MoWe\nLocation: Rice 032\nOffice hours:\n\nMo 4:00-5:00pm\nWe 4:00-5:00pm\nBy appointment"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#course-information",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#course-information",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "",
     "text": "Instructor: Kun Qian\nTA: Md. Khairul Islam\nLecture time: 11:00am-12:15pm MoWe\nLocation: Rice 032\nOffice hours:\n\nMo 4:00-5:00pm\nWe 4:00-5:00pm\nBy appointment"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#course-description",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#course-description",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Course Description",
     "text": "Course Description\nWireless sensing technologies repurpose wireless signals for sensing physical environment and gaining situational awareness. Formed by pervasive wirelessly connected devices, the Internet of Things can be turned into a universal sensor network with wireless sensing, enabling the vision of ambient intelligence. This course covers the wireless sensing basics (e.g., radar, Wi-Fi) and cutting-edge applications (e.g., motion tracking, activity recognition, environmental sensing). The evaluation will be based on the homework assignments, mid-term exam, and course project."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#prerequisites",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#prerequisites",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Prerequisites",
     "text": "Prerequisites\nNo formal prerequisites, but prior knowledge in programming, computer networks (e.g., equivalence of CS 4457) and machine learning are highly recommended."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#course-schedule",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#course-schedule",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Course Schedule",
     "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/27\nSemester begin\n\n\n\nWed 08/28\nIntro\n\n\n\n\nRadar\n\n\n\nMon 09/02\nRadar equation\n\n\n\nWed 09/04\nRF simulation lab\n\n\n\nMon 09/09\nRadar signal processing\n\n\n\nWed 09/11\nArray signal processing\n\n\n\nMon 09/16\nRadar lab\n\n\n\n\nWi-Fi\n\n\n\nWed 09/18\nOFDM\n\n\n\nMon 09/23\nSynchronization\nHW1 due\n\n\nWed 09/25\nMIMO\nHW2 due\n\n\nMon 09/30\nCSI\nHW3 due\n\n\nWed 10/02\nWi-Fi Lab\n\n\n\n\nOther Sensors\n\n\n\nMon 10/07\nCmWave\n\n\n\nWed 10/09\nMmWave\nHW4 due\n\n\nMon 10/14\nNo class (Fall break)\n\n\n\nWed 10/16\nMetasurface\nHW5 due\n\n\nMon 10/21\nDemo/Review\nProject team/proposal due\n\n\nWed 10/23\nMidterm exam\n\n\n\n\nApplications\n\n\n\nMon 10/28\nIndoor localization\n\n\n\nWed 10/30\nMotion tracking\n\n\n\nMon 11/04\nActivity recognition\n\n\n\nWed 11/06\nActivity recognition (cont.)\n\n\n\nMon 11/11\nVehicular sensing\n\n\n\nWed 11/13\nSensing-assisted comm\n\n\n\nMon 11/18\nSensing security\n\n\n\nWed 11/20\nProject work time\n\n\n\nMon 11/25\nTA Lecture\n\n\n\nWed 11/27\nNo class (Thanksgiving)\n\n\n\nMon 12/02\nProject work time\n\n\n\nWed 12/06\nProject presentation\n\n\n\nTue 12/17\nSemester end\nProject report due"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#grading",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#grading",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Grading",
     "text": "Grading\n\nHomework: 25%\n\n5 assignments, 5% each\n\nExam: 30%\nProject: 45%\n\nProposal: 5%\nPresentation: 10%\nReport: 30%\n\n\nLate Policy\nAll assignments are due via Canvas at 11:59pm on the due date.\n\nGrace period: 12 hours (intended to cover real issues, e.g., internet issues, server down)\n10% penalty per day late"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#attendance-absences",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#attendance-absences",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Attendance & Absences",
     "text": "Attendance & Absences\nAttendance is required for this course. Considering any unexpected situations through the whole semester, your first three absences (for whatever reason) will not affect your grade. After three absences, every additional absence (no matter the reason for the absence) will reduce your overall participation grade by one full letter grade."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#communication-and-logistics",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#communication-and-logistics",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Communication and Logistics",
     "text": "Communication and Logistics\nThere is no textbook for the course that you need to purchase. We will distribute materials as needed.\nThere are several sites for the course that you can utilize:\n\nCanvas: Announcements, assignment submissions, course materials and recordings, Zoom links\nPiazza: Long-form questions, notes, private messages for faculty/TA, regrade request\nZoom: Online office hours and meetings, quick chat, off-topic discussion\n\nPlease direct all course-related questions to Canvas or Piazza (or go to office hours). If you want to discuss other topics or have personal/team issues that can and should only be handled by a professor, please email me directly (xts4uh)."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#honoracademic-integrity-policy",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#honoracademic-integrity-policy",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Honor/Academic Integrity Policy",
     "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.\nFor this course, homework, quizzes, and exams must be done individually. Studying in groups is encouraged. Course project is done in teams of three and are highly collaborative. Each team must write and submit their own code and reports. Consulting with the internet or other written resources is acceptable and encouraged."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#use-of-generative-ai",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#use-of-generative-ai",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Use of Generative AI",
     "text": "Use of Generative AI\nGenerative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. Well-known examples include ChatGPT for text and DALL•E for images. This policy governs all such tools, including those released during our semester together. You may use generative AI tools on assignments in this course when I explicitly permit you to do so. Otherwise, you should refrain from using such tools. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, following the pattern for computer software given in the specified style guide. Additionally, please include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#students-with-disabilities-or-learning-needs",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#students-with-disabilities-or-learning-needs",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Students with Disabilities or Learning Needs",
     "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#religious-accommodations",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#religious-accommodations",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Religious Accommodations",
     "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#harassment-discrimination-and-interpersonal-violence",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#harassment-discrimination-and-interpersonal-violence",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Harassment, Discrimination, and Interpersonal Violence",
     "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#support-for-your-career-development",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#support-for-your-career-development",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Support for Your Career Development",
     "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2024.html#student-support-team",
     "href": "courses/uva-cs6501-wsiot/fall2024.html#student-support-team",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2024)",
     "section": "Student support team",
     "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html",
     "href": "courses/uva-cs6501-wsiot/fall2026.html",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "",
     "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-information",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#course-information",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "",
     "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-description",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#course-description",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Course Description",
     "text": "Course Description\nWireless sensing technologies repurpose wireless signals to sense the physical environment and gain situational awareness. Formed by pervasive, wirelessly connected devices, the Internet of Things can be transformed into a universal sensor network with wireless sensing, enabling ambient intelligence in various scenarios, such as smart homes, intelligent transportation, and smart factories. This course covers the basic principles and cutting-edge applications of wireless sensing. The evaluation will be based on participation, homework and lab assignments, paper presentation, and the course project."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-objective",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#course-objective",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Course Objective",
     "text": "Course Objective\nBy the end of the course, you will be able to\n\nexplain, analyze, and compare different wireless sensors.\ndevelop hands-on skills using common wireless sensors.\nidentify requirements for a wireless sensor for a specific application.\nlearn state-of-the-art research on wireless sensing.\nwork effectively in a group to build wireless sensing systems while overcoming challenges."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#grading",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#grading",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Grading",
     "text": "Grading\n\nQuizzes: 10%\nLabs: 40%\nSeminar: 30%\n\nLead: 25%\nDiscussion: 5%\n\nFinal Project: 20%"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#assessments",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#assessments",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Assessments",
     "text": "Assessments\n\nQuizzes: These in-class quick formative assessments will help students stay accountable to the material and highlight the most important aspects from the last lecture/class. Quiz grading is 50% completion and 50% correctness. The end-of-semester quiz score is calculated out of 50% of total possible points. (approx. 10 quizzes, 10%)\nHomework: Homework will get students familiarize with MATLAB coding, basic signal processing, and WiFi PHY. (2 homework assignment, 10%)\nLabs: Labs will give students hands-on experience on MATLAB coding, signal processing, wireless PHY designing, and developing wireless sensing hardware. Labs will be largely structured and are formative assessments. Students will generate some output, such as a plot or paragraph description for light grading. (5 labs, 40%)\nSeminar: Seminars will drive students to explore the cutting-edge research on various wireless sensing topics. Each student will host at least one seminar session, present pre-selected papers, and lead discussions of the class. (1 leading session and participation in other sessions, 30%)\nFinal Project: The final project will have students use wireless sensing hardware to develop their own sensing applications, and measure its performance. (1 project, 20%)"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#honor",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#honor",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Honor",
     "text": "Honor\nWe trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#prerequisites",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#prerequisites",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Prerequisites",
     "text": "Prerequisites\nNo formal prerequisites, but prior knowledge in signal processing, computer networks (e.g., equivalence of CS 4457), and machine learning is highly recommended."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-schedule",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#course-schedule",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Course Schedule",
     "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/25\nCourses begin\n\n\n\nWed 08/26\nIntroduction\n\n\n\nMon 08/31\n[Lab] MATLAB\n\n\n\nWed 09/02\nSignal Processing\n\n\n\nMon 09/07\n[Lab] Signal Processing\n\n\n\nWed 09/09\nWireless Fundamentals\n\n\n\nMon 09/14\nWiFi\n\n\n\nWed 09/16\n[Lab] WiFi\n\n\n\nMon 09/21\nWiFi CSI\n\n\n\nWed 09/23\n[Lab] WiFi Sensing\n\n\n\nMon 09/28\nRadar\n\n\n\nWed 09/30\n[Lab] Radar Sensing\n\n\n\nMon 10/05\nNo class\n\n\n\nWed 10/07\nIndoor Localization\n\n\n\nMon 10/12\n[Seminar] Indoor Localization\n\n\n\nWed 10/14\nActivity Recognition\n\n\n\nMon 10/19\n[Seminar] Activity Recognition\n\n\n\nWed 10/21\nEnvironmental Sensing\n\n\n\nMon 10/26\n[Seminar] Environmental Sensing\n\n\n\nWed 10/28\nChannel Knowledge Map\n\n\n\nMon 11/02\n[Seminar] Channel Knowledge Map\n\n\n\nWed 11/04\nEgocentric Sensing\n\n\n\nMon 11/09\n[Seminar] Egocentric Sensing\n\n\n\nWed 11/11\nBackscatter and Metasurface\n\n\n\nMon 11/16\n[Seminar] Backscatter and Metasurface\n\n\n\nWed 11/18\nSensing Security\n\n\n\nMon 11/23\n[Seminar] Sensing Security\n\n\n\nWed 11/25\nNo class\n\n\n\nMon 11/30\nProject Workshop\n\n\n\nWed 12/02\nProject Workshop\n\n\n\nMon 12/07\nProject Demo\n\n\n\nFri 12/08\nCourses end"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#attendance-policy",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#attendance-policy",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Attendance Policy",
     "text": "Attendance Policy\nThis class heavily centers on group work, in-class hands-on practice, and seminar discussions to help you learn the course material. For this to be valuable, attendance is required."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#late-work-policy",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#late-work-policy",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Late Work Policy",
     "text": "Late Work Policy\nThere are various deliverables in this class. We expect you to complete each deliverable by its due date, but we realize that is not always possible. Some assignments can be turned in late.\n\nQuizzes: quizzes are due immediately after they are given and will not be accepted late.\nLabs: Your group have 10 late days to use throughout the semester for lab assignments. We will automatically apply the late days if you submit the lab late. After you run out of late days, there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the lab will not be accepted.\nSeminar: Seminar presentation is due immediately before the seminar date and will not be accepted late.\nFinal project: final project is due after the demo session and will not be accepted late."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#honoracademic-integrity-policy",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#honoracademic-integrity-policy",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Honor/Academic Integrity Policy",
     "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.\nSpecific directions for this course:\n\nQuizzes must be done individually.\nHomeworks must be done individually.\nFor the labs, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.\nPaper presentation must be done individually.\nFor the course project, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#class-recording",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#class-recording",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Class Recording",
     "text": "Class Recording\nLectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#use-of-generative-ai",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#use-of-generative-ai",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Use of Generative AI",
     "text": "Use of Generative AI\nGenerative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. This policy governs all such tools, including those released during our semester together. You could use generative AI tools on assignments in this course. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, and include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#students-with-disabilities-or-learning-needs",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#students-with-disabilities-or-learning-needs",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Students with Disabilities or Learning Needs",
     "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#religious-accommodations",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#religious-accommodations",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Religious Accommodations",
     "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#harassment-discrimination-and-interpersonal-violence",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#harassment-discrimination-and-interpersonal-violence",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Harassment, Discrimination, and Interpersonal Violence",
     "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#support-for-your-career-development",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#support-for-your-career-development",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Support for Your Career Development",
     "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#student-support-team",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#student-support-team",
-    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "Student support team",
     "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
   },
@@ -858,6 +858,6 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)\n\n\n\n\n\nAug, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2026)\n\n\n\n\n\nJan, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)\n\n\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2025)\n\n\n\n\n\nJan, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)\n\n\n\n\n\nAug, 2024\n\n\n\n\n\nNo matching items\n Back to top"
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2026)\n\n\n\n\n\nAug, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2026)\n\n\n\n\n\nJan, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2025)\n\n\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2025)\n\n\n\n\n\nJan, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensing for the Internet of Things (Fall 2024)\n\n\n\n\n\nAug, 2024\n\n\n\n\n\nNo matching items\n Back to top"
   }
 ]
