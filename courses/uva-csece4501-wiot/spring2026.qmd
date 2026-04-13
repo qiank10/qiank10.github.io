@@ -1,0 +1,207 @@
+---
+title: "CS4501: Wireless for the Internet of Things (Spring 2026)"
+date: "2026-1-1"
+image: teaser.png
+categories: ["undergraduate"]
+---
+
+<!-- Please check out our students' [course projects](spring2026-projects.qmd)! -->
+
+## Course Information
+
+- Instructor: Kun Qian
+- TA: Shunqiang Feng
+- Lecture time: 2:00pm-3:15pm TuTh
+- Location: Thornton Hall A120
+- Office hours: 
+    - Feng: 3:00pm-4:00pm Mo
+	- Qian: 10:00am-11:00am We
+    - Qian: 4:00pm-5:00pm Tr
+	- Feng: 1:00pm-2:00pm Fr
+	- By appointment
+
+## Course Description
+
+The Internet of Things (IoT) is a computing platform where a large number of devices form a network to monitor, control, and optimize some physical system. To be scalable, these devices communicate wirelessly, both with each other and to the Internet at large. But what wireless protocols are available for IoT devices? How do they work? And why are there so many? This course will provide a hands-on introduction to the world of wireless in the Internet of Things. Over the course of the semester we will explore what wireless options we have available, how they differ and what the tradeoffs are, and how major IoT wireless protocols work. We will also build networks of devices using real-world wireless protocols. Our goal is for you to be able to build your own wireless devices with a wireless protocol that meets your application requirements and device constraints.
+
+We will look at Bluetooth Low Energy, IEEE 802.15.4, Thread, NFC, LoRa, and Wi-Fi.
+
+## Course Objectives
+
+By the end of the course, you will be able to
+
+- explain, analyze, and compare different IoT wireless protocols.
+- analyze and model the power draw and spectrum utilization of wireless protocols.
+- develop hands-on skills using standards-compliant protocols.
+- identify requirements for a wireless protocol for a specific application.
+- recognize rationale for heterogeneity in wireless IoT protocols and how design choices impact both applications and users.
+- work effectively in a group to build IoT networks while overcoming challenges.
+
+## Grading
+
+- Quizzes: 5%
+- Labs: 20%
+- Postlabs: 30%
+- Exam: 15%
+- Homeworks: 10%
+- Final Project: 20%
+
+## Assessments
+
+- **Quizzes**: These in-class quick formative assessments will help students stay accountable to the material and highlight the most important aspects from the last lecture/class. Quiz grading is 50% completion and 50% correctness. The end-of-semester quiz score is calculated out of 75% of total possible points. (approx. 20 quizzes, 5%)
+- **Labs**: In-class labs will give students hands-on experience developing and debugging wireless networks. Labs will be largely structured and are formative assessments. Students will generate some output, such as a plot or paragraph description for light grading. (9 labs, 20%)
+- **Postlabs**: These assignments will build on the in-class lab work and require students to build various wireless networks and leverage the properties of the wireless protocols to meet given application requirements. The output will be working code that implements the required functionality. Additionally, there may be required data collection to complete. Not every in-class lab will have a corresponding postlab. (4 postlabs, 30%)
+- **Exams**: An in-class exam will assess student learning of key concepts on wireless protocols and how they relate to applications. (1 exam, 15%)
+- **Homework**: Homework will give students a chance to practice analyzing wireless protocols and matching protocols to applications. The homework will provide example questions that will be on the exam. (4 homework assignments, 10%)
+- **Final Project**: The final project will have students use wireless protocols to develop their own application and device, and measure its performance. (1 project, 20%)
+
+## Honor
+
+We trust every student in this course to fully comply with all of the provisions of the University's Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia.
+
+## Prerequisites
+
+- CS 2130 (CSO1) OR CS 2150 (Program and Data Representation)
+- CS 3130 (CSO2) OR ECE 3430 (Embedded) OR CS 4414 (OS) OR CS 3330 (Architecture) OR ECE 4750 (DSP) OR Instructor Approval
+
+## Helpful Resources
+
+While there is no textbook for this course, there are some references that are helpful for getting up to speed with C in an embedded context.
+
+- [Introduction to C Programming](http://cs.yale.edu/homes/aspnes/classes/223/notes.html#c)
+- [C Programming: Memory and Pointers](https://github.com/kalpak92/System-Programming/blob/master/2.%20Introduction%20to%20C%20Programming/C%20Programming%20-%20Part%203.md) (ignore anything with malloc())
+- [C Programming: Standard Library](https://github.com/kalpak92/System-Programming/blob/master/2.%20Introduction%20to%20C%20Programming/C%20Programming%20-%20Part%205.md)
+- [C Pointers and Registers](https://hackaday.com/2018/04/04/the-basics-and-pitfalls-of-pointers-in-c/)
+- [Endianness](https://embetronicx.com/tutorials/p_language/c/little-endian-and-big-endian/)
+
+## Related Courses
+
+- CS/ECE 4457 (Computer Networking): Focuses on the layered network stack and protocols used in the internet.
+- ECE 4784 (Wireless Communications): Focuses on the physical layer, including signaling and modulation.
+- ECE 4501 (Low Power Wireless Transceivers for IoT): Focuses more on radio hardware, as well as emerging techniques and research.
+
+## Course Schedule
+
+The schedule is subject to change.
+
+| Dates | Topic | Notes |
+|:---:|:---:|:---:|
+| Mon 01/12 | Semester begin |  |
+| Tue 01/13 | Introduction and Overview | HW1 |
+| Thu 01/15 | Networking Fundamentals | Prelab1 |
+| Tue 01/20 | [Lab] Wireshark |  |
+| Thu 01/22 | Wireless Fundamentals |  |
+| Tue 01/27 | BLE Intro | Prelab2 |
+| Thu 01/29 | BLE Advertisements | HW2 |
+| Tue 02/03 | [Lab] BLE Advertisements  |  |
+| Thu 02/05 | BLE Connections |  |
+| Tue 02/10 | [Lab] BLE Connections | Postlab2 |
+| Thu 02/12 | IEEE 802.15.4 Intro + MAC | Prelab3 |
+| Tue 02/17 | [Lab] IEEE 802.15.4 (1) |  |
+| Thu 02/19 | IEEE 802.15.4 Net + Mesh |  |
+| Tue 02/24 | [Lab] IEEE 802.15.4 (2) | Postlab3 |
+| Thu 02/26 | Thread + Routing | Prelab4 & HW3 |
+| Tue 03/03 | No class (Spring break) |  |
+| Thu 03/05 | No class (Spring break) |  |
+| Tue 03/10 | [Lab] Thread | Postlab4 |
+| Thu 03/12 | NFC | Prelab5 |
+| Tue 03/17 | [Lab] NFC |  |
+| Thu 03/19 | LPWAN + LoRa | Prelab6 |
+| Tue 03/24 | [Lab] LoRa | Postlab6 |
+| Thu 03/26 | Wi-Fi + Sensing | HW4 |
+| Tue 03/31 | [Lab] Wi-Fi |  |
+| Thu 04/02 | Exam Review |  |
+| Tue 04/07 | Exam |  |
+| Thu 04/09 | Final Project Discussion + Teledyne Talk |  |
+| Tue 04/14 | Meeting with Groups |  |
+| Thu 04/16 | Workshop |  |
+| Tue 04/21 | Workshop |  |
+| Thu 04/23 | Workshop |  |
+| Tue 04/28 | Workshop |  |
+| Mon 05/01 | Class Demo Day |  |
+| Fri 05/08 | Semester end |  |
+
+## Attendance Policy
+
+This class heavily centers on group work and in-class hands-on practice to help you learn the course material. For this to be valuable, attendance is required.
+
+## Late Work Policy
+
+There are various deliverables in this class. We expect you to complete each deliverable by its due date, but we realize that is not always possible. Some assignments can be turned in late.
+
+- Pre-labs: These are always due at the start of the lab session they are assigned for. It is critical that these are completed in advance to make the lab productive and increase the benefit of the lab to you. Pre-labs cannot be submitted late.
+- Labs: Labs are due one week after the corresponding lab session. You may submit up to one week late for a 50% score penalty. After that it will not be accepted.
+- Postlabs: Your group has 5 late days to use throughout the semester for postlabs. We will automatically apply the late days if you submit the postlab late. After you run out of late days, there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the postlab will not be accepted.
+- Homework: You may submit one day late for a 10% score penalty or two days late for a 20% score penalty. After that the homework will not be accepted. This ensures we can release the solutions promptly.
+- Quizzes: quizzes are due immediately after they are given and will not be accepted late.
+
+Due dates might be occasionally postponed due to unexpected issues. Updates will be posted on Piazza.
+
+## Honor/Academic Integrity Policy
+
+The School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University's Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.
+
+If you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.
+
+Specific directions for this course:
+
+- In-class labs are done in teams of three and are highly collaborative. You are not only allowed to talk with other teams during the lab, you are explicitly encouraged to. One rule: hands on your own keyboards, no typing for anyone else.
+- The pre-labs and lab reports must be done by your group with all your own work.
+- For the postlabs, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.
+- Exams must be done individually. Studying in groups is encouraged.
+- Homework must be done individually.
+- Quizzes must be done individually.
+
+## Class Recording
+
+Lectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor. 
+
+## Use of Generative AI
+
+Generative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. This policy governs all such tools, including those released during our semester together. You could use generative AI tools on assignments in this course. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, and include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record.
+
+## Students with Disabilities or Learning Needs
+
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters\@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the [SDAC website](https://sdac.studenthealth.virginia.edu). If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
+
+## Religious Accommodations
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
+
+Students who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at [uvaeocr\@virginia.edu](mailto:uvaeocr@virginia.edu) or 434-924-3200.
+
+## Harassment, Discrimination, and Interpersonal Violence
+The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](https://www.virginia.edu/sexualviolence) that describes reporting options and resources available.
+
+The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation.  [UVA prohibits discrimination and harassment](https://uvapolicy.virginia.edu/policy/HRM-009) based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. [UVA policy](https://uvapolicy.virginia.edu/policy/HRM-010) also prohibits retaliation for reporting such behavior.
+
+If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to [Just Report It](https://justreportit.virginia.edu) (justreportit.virginia.edu) or contact EOCR ([uvaeocr\@virginia.edu](mailto:uvaeocr@virginia.edu)), the office of Equal Opportunity and Civil Rights.
+
+If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services ("CAPS") and [Women’s Center Counseling Staff and Confidential Advocates](https://womenscenter.virginia.edu/counseling/our-counseling-services) (for students of all genders).
+
+As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community.
+
+## Support for Your Career Development
+Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations.
+
+## Student support team
+You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
+
+**Learning**
+
+- Lisa Lampe ([ll4uu\@virginia.edu](mailto:ll4uu@virginia.edu)), Assistant Dean for Undergraduate Affairs
+- Georgina Nembhard ([gnembhard\@virginia.edu](mailto:gnembhard@virginia.edu)), Director of Student Success
+- Courtney MacMasters ([cmacmasters\@virginia.edu](mailto:cmacmasters@virginia.edu)), Accessibility Specialist
+
+[Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes.
+
+**Health and Wellbeing**
+
+- Kelly Garrett ([mwu5gs\@virginia.edu](mailto:mwu5gs@virginia.edu)), Assistant Dean of Students, Student Safety and Support  
+- Elizabeth Ramirez-Weaver ([er2tn\@virginia.edu](mailto:er2tn@virginia.edu)), CAPS counselor\*
+- Katie Fowler ([rfk2xj\@virginia.edu](mailto:rfk2xj@virginia.edu)), CAPS counselor\*
+
+\*You may schedule time with the CAPS counselors through [Student Health](https://www.studenthealth.virginia.edu/getting-started-caps). When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.
+
+**Community and Identity**
+
+The Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.

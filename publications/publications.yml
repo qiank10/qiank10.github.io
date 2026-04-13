@@ -1,0 +1,280 @@
+- path: "../research.html#selected-publications"
+  title: "BeamFormer: Transformer-based Beam Management for 6G Networks"
+  authors: "<u>Shunqiang Feng</u>, Swastik Kanjilal, <b>Kun Qian</b>, Ish Jain"
+  publication: "ACM MobiSys 2026"
+  date: "2026-04-06"
+  categories: ["Conference"]
+  url_pdf: ""
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/10.1145/3711875.3729155"
+  title: "Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing"
+  authors: "<b>Kun Qian</b>, Parth Pathak"
+  publication: "ACM MobiSys 2025"
+  date: "2025-04-07"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/scl/fi/19m337suohip7r0jzqztw/MobiSys25_SCR_paper.pdf?rlkey=xmp6ykhvocd32vxmjh1ja0q3y&st=ic3ca7cr&dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html"
+  title: "Radio Frequency Ray Tracing with Neural Object Representation for Enhanced RF Modeling"
+  authors: "Xingyu Chen, Zihao Feng, <b>Kun Qian</b>, Xinyu Zhang"
+  publication: "IEEE/CVF CVPR 2025"
+  date: "2025-04-01"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/scl/fi/7kp5niv1pvwz4pfj9kf0l/CVPR25_RFScape_paper.pdf?rlkey=51q6wbbdba6730q8cmkjiv097&st=cmcjsads&dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/10.1145/3666025.3699351"
+  title: "RFCanvas: Modeling RF Channel by Fusing Visual Priors and Few-shot RF Measurements"
+  authors: "Xingyu Chen, Zihao Feng, Ke Sun, <b>Kun Qian</b>, Xinyu Zhang"
+  publication: "ACM SenSys 2024"
+  date: "2024-10-01"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/scl/fi/fd05dya06xa6baleoo11n/SenSys24_RFCanvas_paper.pdf?rlkey=yel1uhb5dde00xemr3455dan8&st=g5l9ino4&dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/abs/10.1145/3631442"
+  title: "KeyStub: A Passive RFID-based Keypad Interface Using Resonant Stubs"
+  authors: "John Nolan, <b>Kun Qian</b>, Xinyu Zhang"
+  publication: "ACM IMWUT 2024"
+  date: "2024-01-01"
+  categories: ["Journal"]
+  url_pdf: "https://www.dropbox.com/scl/fi/fxam06y9wxewr62c2gjn8/IMWUT24_KeyStub_paper.pdf?rlkey=j0babpdzms2qrv3qb4nw2oz8e&dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/10.1145/3625687.3625803"
+  title: "Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding"
+  authors: "Timothy Woodford, <b>Kun Qian</b>, Xinyu Zhang"
+  publication: "ACM SenSys 2023"
+  date: "2023-11-01"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/scl/fi/6va1l07fdwte6sfsxljda/SenSys23_Metasight_paper.pdf?rlkey=m86jz9vbvy7hjucvdpo8xvo77&st=l75ip4tf&dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/10.1145/3625687.3625788"
+  title: "NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems"
+  authors: "Kai Zheng, <b>Kun Qian</b>, Timothy Woodford, Xinyu Zhang"
+  publication: "ACM SenSys 2023"
+  date: "2023-11-01"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/scl/fi/xa5euch8cj9ld1xcxvhjj/SenSys23_NeuroRadar_paper.pdf?rlkey=x0aniow8m06hdpcqjh0bkeble&st=w6folv4a&dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/10.1145/3570361.3592526"
+  title: "UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing"
+  authors: "<b>Kun Qian</b>, Lulu Yao, Kai Zheng, Xinyu Zhang, Tse Nga Ng"
+  publication: "ACM MobiCom 2023"
+  date: "2023-10-01"
+  categories: ["Journal"]
+  url_pdf: "https://www.dropbox.com/s/91n3wbd6k9wxiaf/MobiCom23_UniScatter_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/scl/fi/zqp4gf1ep9j845x0cydwt/MobiCom23_UniScatter_slides.pptx?rlkey=anydwszk0wegw9puat0j5ovkn&dl=0"
+
+- path: "https://www.usenix.org/Conference/nsdi23/presentation/yang-zheng"
+  title: "SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing"
+  authors: "Zheng Yang, Yi Zhang, <b>Kun Qian</b>, Chenshu Wu"
+  publication: "USENIX NSDI 2023"
+  date: "2023-04-17"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/7eh49ospi5np30q/NSDI23_SLNet_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/abs/10.1145/3495243.3517024"
+  title: "MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion"
+  authors: "<b>Kun Qian</b>, Lulu Yao, Xinyu Zhang, Tse Nga Ng"
+  publication: "ACM MobiCom 2022"
+  date: "2022-10-01"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/si98zg5l7h5ymao/MobiCom22_MilliMirror_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/s/yu1ypja7bjs7yjo/MobiCom22_MilliMirror_slides.pptx?dl=0"
+
+- path: "https://dl.acm.org/doi/abs/10.1145/3432221"
+  title: "3D Point Cloud Generation with Millimeter-Wave Radar"
+  authors: "<b>Kun Qian</b>, Zhaoyuan He, Xinyu Zhang"
+  publication: "ACM IMWUT 2021"
+  date: "2021-09-11"
+  categories: ["Journal"]
+  url_pdf: "https://www.dropbox.com/s/eonykw3mu91j5rf/UbiComp21_MilliPoint_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/s/nhabz3o4318b26o/UbiComp21_MilliPoint_slides.pptx?dl=0"
+
+- path: "https://dl.acm.org/doi/10.1145/3452296.3472896"
+  title: "RoS: Passive Smart Surface for Roadside-to-Vehicle Communication"
+  authors: "<b>Kun Qian</b>, John Nolan, Xinyu Zhang"
+  publication: "ACM SIGCOMM 2021"
+  date: "2021-08-23"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/hjb92zty0wjfw2d/SIGCOMM21_RoS_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/scl/fi/hjq7pou9a2g5z0jlk02c2/SIGCOMM21_RoS_slides.pptx"
+
+- path: "https://ieeexplore.ieee.org/document/9516988"
+  title: "Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
+  authors: "Yi Zhang, Yue Zheng, <b>Kun Qian</b>, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang"
+  publication: "IEEE TPAMI 2021"
+  date: "2021-08-01"
+  categories: ["Journal"]
+  url_pdf: "https://www.dropbox.com/s/d1htz1i81w2w9si/TPAMI21_Widar3.0_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://ieeexplore.ieee.org/document/9578621"
+  title: "Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals"
+  authors: "<b>Kun Qian</b>, Shilin Zhu, Xinyu Zhang, Li Erran Li"
+  publication: "IEEE/CVF CVPR 2021"
+  date: "2021-06-19"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/gl8mveo1i8w9re9/CVPR21_MVDNet_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/s/wl3k3wsce1sfcfd/CVPR21_MVDNet_slides.pptx?dl=0"
+
+- path: "https://www.usenix.org/Conference/nsdi21/presentation/qian"
+  title: "AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel"
+  authors: "<b>Kun Qian</b>, Yumeng Lu, Zheng Yang, Kai Zhang, Kehong Huang, Xinjun Cai, Chenshu Wu, Yunhao Liu"
+  publication: "USENIX NSDI 2021"
+  date: "2021-04-12"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/4z5c4tabshved46/NSDI21_AirCode_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/s/n6y3q5s7mmypenz/NSDI21_AirCode_slides.pptx?dl=0"
+
+- path: "https://dl.acm.org/doi/10.1145/3372224.3380892"
+  title: "M-Cube: A Millimeter-Wave Massive MIMO Software Radio"
+  authors: "Renjie Zhao, Timothy Woodford, Teng Wei, <b>Kun Qian</b>, Xinyu Zhang"
+  publication: "ACM MobiCom 2020"
+  date: "2020-09-21"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/jznef2lmwk9trgy/MobiCom20_MCube_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://ieeexplore.ieee.org/document/8397114"
+  title: "Passenger Demand Prediction with Cellular Footprints"
+  authors: "Jing Chu, Xu Wang, <b>Kun Qian</b>, Lina Yao, Fu Xiao, Jianbo Li, Zheng Yang"
+  publication: "IEEE TMC 2020"
+  date: "2020-06-26"
+  categories: ["Journal"]
+  url_pdf: "https://www.dropbox.com/s/17aoyqo3rkgp8e6/TMC20_FlowFlexDP_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/abs/10.1145/3351272"
+  title: "iVR: Integrated Vision and Radio Localization with Zero Human Effort"
+  authors: "Jingao Xu, Hengjie Chen, <b>Kun Qian</b>, Erqun Dong, Min Sun, Chenshu Wu, Li Zhang, Zheng Yang"
+  publication: "ACM IMWUT 2019"
+  date: "2019-09-09"
+  categories: ["Journal"]
+  url_pdf: "https://www.dropbox.com/s/gix5fjwveu3r0kj/IMWUT19_iVR_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/10.1145/3307334.3326081"
+  title: "Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi"
+  authors: "Yue Zheng, Yi Zhang, <b>Kun Qian</b>, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang"
+  publication: "ACM MobiSys 2019"
+  date: "2019-06-17"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/5g632rd4dy1tvbk/MobiSys19_Widar3.0_paper.pdf?dl=0"
+  url_code: "http://tns.thss.tsinghua.edu.cn/widar3.0/"
+  url_slides: "https://www.dropbox.com/s/g6bclo9r6gonpil/MobiSys19_Widar3.0_slides.pptx?dl=0"
+
+- path: "https://ieeexplore.ieee.org/document/8122023"
+  title: "Enabling Phased Array Signal Processing for Mobile WiFi Devices"
+  authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu"
+  publication: "IEEE TMC 2018"
+  date: "2018-08-01"
+  categories: ["Journal"]
+  url_pdf: "https://www.dropbox.com/s/v99yohc8vz5rxki/TMC18_DMUSIC_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/10.1145/3210240.3210314"
+  title: "Widar2.0: Passive Human Tracking with a Single Wi-Fi Link"
+  authors: "<b>Kun Qian</b>, Chenshu Wu, Yi Zhang, Guidong Zhang, Zheng Yang, Yunhao Liu"
+  publication: "ACM MobiSys 2018"
+  date: "2018-06-10"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/t931e50ppveqzoc/MobiSys18_Widar2.0_paper.pdf?dl=0"
+  url_code: "http://tns.thss.tsinghua.edu.cn/wifiradar"
+  url_slides: "https://www.dropbox.com/s/i2f30pzf7qrzajq/MobiSys18_Widar2.0_slides.pptx?dl=0"
+
+- path: "https://ieeexplore.ieee.org/document/8485978"
+  title: "Acousticcardiogram: Monitoring Heartbeats using Acoustic Signals on Smart Devices"
+  authors: "<b>Kun Qian</b>, Chenshu Wu, Fu Xiao, Yue Zheng, Yi Zhang, Zheng Yang"
+  publication: "IEEE INFOCOM 2018"
+  date: "2018-04-15"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/9myu7ct6tkkasd9/INFOCOM18_ACG_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/s/n1a9a3zxs2o22vo/INFOCOM18_ACG_slides.pptx?dl=0"
+
+- path: "https://dl.acm.org/doi/10.1145/3157677"
+  title: "Enabling Contactless Detection of Moving Humans with Dynamic Speeds Using CSI"
+  authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Fugui He, Tianzhang Xing"
+  publication: "ACM TECS 2018"
+  date: "2018-01-01"
+  categories: ["Journal"]
+  url_pdf: "https://www.dropbox.com/s/fxra3epbfvbkoe4/TECS18_PADS_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://dl.acm.org/doi/10.1145/3084041.3084067"
+  title: "Widar: Decimeter-Level Passive Tracking via Velocity Monitoring with Commodity Wi-Fi"
+  authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Kyle Jamieson"
+  publication: "ACM MobiHoc 2017"
+  date: "2017-07-10"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/3eg1zmwkql7t07j/MobiHoc17_Widar_paper.pdf?dl=0"
+  url_code: "http://tns.thss.tsinghua.edu.cn/wifiradar"
+  url_slides: "https://www.dropbox.com/s/eu30lbigqg1x9lr/MobiHoc17_Widar_slides.pptx?dl=0"
+
+- path: "https://dl.acm.org/doi/10.1145/3025453.3025678"
+  title: "Inferring Motion Direction using Commodity Wi-Fi for Interactive Exergames"
+  authors: "<b>Kun Qian</b>, Chenshu Wu, Zimu Zhou, Yue Zheng, Zheng Yang, Yunhao Liu"
+  publication: "ACM CHI 2017"
+  date: "2017-05-06"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/8vzkhh7fk3d0jlx/CHI17_WiDance_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/s/bg9o6213rf43z1t/CHI17_WiDance_slides.pptx?dl=0"
+
+- path: "https://ieeexplore.ieee.org/document/7524452"
+  title: "Tuning by Turning: Enabling Phased Array Signal Processing for WiFi with Inertial Sensors"
+  authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu"
+  publication: "IEEE INFOCOM 2016"
+  date: "2016-04-10"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/mpi43v0i5knjjxh/INFOCOM16_TuningbyTurning_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/s/e1at1cxqs5lqq8f/INFOCOM16_TuningByTurning_slides.pptx?dl=0"
+
+- path: "https://ieeexplore.ieee.org/document/7218588"
+  title: "PhaseU: Real-time LOS Identification with WiFi"
+  authors: "Chenshu Wu, Zheng Yang, Zimu Zhou, <b>Kun Qian</b>, Yunhao Liu, Mingyan Liu"
+  publication: "IEEE INFOCOM 2015"
+  date: "2015-04-26"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/d8nidi75wu71tdw/INFOCOM15_PhaseU_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: ""
+
+- path: "https://ieeexplore.ieee.org/document/7097784"
+  title: "PADS: Passive Detection of Moving Targets with Dynamic Speed using PHY Layer Information"
+  authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Zimu Zhou"
+  publication: "IEEE ICPADS 2014"
+  date: "2014-12-16"
+  categories: ["Conference"]
+  url_pdf: "https://www.dropbox.com/s/u63si4ubr8hn1a5/ICPADS14_PADS_paper.pdf?dl=0"
+  url_code: ""
+  url_slides: "https://www.dropbox.com/scl/fi/rpw1s9g3gs39skewany00/ICPADS14_PADS_slides.pptx?rlkey=eopc3aemk3pe803s9mv3kudyc&dl=0"
+

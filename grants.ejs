@@ -1,0 +1,10 @@
+```{=html}
+<div class="list publication-list">
+<% for (const item of items) { %>
+    <div class="publication-item" <%= metadataAttrs(item) %>>
+        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i>&ensp;<a href="<%= item.path %>"><%= item.title %></a></p>
+        <p class="publication-metadata"><%= item.agency %>, <b><%= item.role %></b>, <i><%= item.duration %></i></p>
+    </div>
+<% } %>
+</div>
+```

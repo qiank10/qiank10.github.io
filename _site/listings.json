@@ -1,0 +1,44 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news.html"
+    ]
+  },
+  {
+    "listing": "/teaching.html",
+    "items": [
+      "/courses/uva-cs6501-wsiot/fall2026.html",
+      "/courses/uva-csece4501-wiot/spring2026.html",
+      "/courses/uva-cs6501-wsiot/fall2025.html",
+      "/courses/uva-csece4501-wiot/spring2025.html",
+      "/courses/uva-cs6501-wsiot/fall2024.html"
+    ]
+  },
+  {
+    "listing": "/research.html",
+    "items": []
+  },
+  {
+    "listing": "/awards.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news.html"
+    ]
+  },
+  {
+    "listing": "/service.html",
+    "items": [
+      "/service.html"
+    ]
+  },
+  {
+    "listing": "/wink.html",
+    "items": [
+      "/wink.html"
+    ]
+  }
+]

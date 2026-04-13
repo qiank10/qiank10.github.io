@@ -1,0 +1,48 @@
+project:
+  type: website
+
+website:
+  title: "Kun Qian"
+  favicon: "files/icon/icon_wink.png"
+  navbar:
+    left:
+      - text: Home
+        href: index.qmd
+      - text: WINK Lab
+        href: wink.qmd
+      - text: Research
+        href: research.qmd
+      - text: Teaching
+        href: teaching.qmd
+      - text: Service
+        href: service.qmd
+      - text: Awards
+        href: awards.qmd
+    right:
+      - text: "{{< ai google-scholar >}}"
+        href: https://scholar.google.com/citations?user=fGNCS9oAAAAJ
+      - text: "{{< fa brands github >}}"
+        href: https://github.com/qiank10
+      - text: "{{< ai cv >}}"
+        href: "files/kunqian_cv.pdf"
+      - text: "{{< fa envelope >}}"
+        href: mailto:kunqian@virginia.edu
+      - text: "{{< fa heart >}}"
+        href: https://yifanzhou.info/
+    # logo: "files/icon/icon_wink.png"
+  search: 
+    location: navbar
+    type: overlay
+  back-to-top-navigation: true
+
+format:
+  html:
+    theme:
+      - cosmo
+    css: styles.css
+    toc: true
+
+language: 
+  search-text-placeholder: Search
+
+

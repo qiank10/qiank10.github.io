@@ -1,0 +1,17 @@
+- path: "https://klaw-2003.github.io/JianyuLuo/"
+  title: "Jianyu Luo"
+  description: "Computer Engineering"
+  date: "2025-8"
+  image: "people/images/jianyu_luo.png"
+
+- path: "https://scholar.google.com/citations?user=gdlyJr0AAAAJ&hl=en"
+  title: "Mohan Zhao"
+  description: "Computer Engineering"
+  date: "2025-1"
+  image: "people/images/people_default.png"
+
+- path: "https://shunqiang.site/"
+  title: "Shunqiang Feng"
+  description: "Computer Science"
+  date: "2025-1"
+  image: "people/images/shunqiang_feng.png"

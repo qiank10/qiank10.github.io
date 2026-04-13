@@ -1,0 +1,45 @@
+---
+title: "Professional Service"
+listing:
+    - id: eb
+      contents:
+        - service/eb.yml
+      type: table
+      fields: [title, date, subtitle]
+      field-display-names:
+        title: "Journal"
+        date: "Starting Date"
+        subtitle: "Role"
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+    - id: tpc
+      contents:
+        - service/tpc.yml
+      type: table
+      fields: [title, date, subtitle]
+      field-display-names:
+        title: "Conference"
+        date: "Conference Date"
+        subtitle: "Role"
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+date-format: "MMM, YYYY"
+page-navigation: false
+title-block-banner: false
+---
+
+## Editorial Board
+:::{#eb}
+:::
+
+## Technical Program Committee (TPC)
+:::{#tpc}
+:::

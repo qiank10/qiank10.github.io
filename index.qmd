@@ -1,0 +1,51 @@
+---
+title: "Kun Qian"
+subtitle: |
+    Assistant Professor \
+    University of Virginia
+image: "files/avatar/kunqian_2024.jpg"
+about:
+    id: pi-info
+    template: trestles
+    image-shape: round
+listing:
+    - id: latest-news
+      contents: 
+        - news/*.yml
+      type: grid
+      max-items: 3
+      fields: [image, date, title, description]
+      max-description-length: 500
+      sort:
+        - "date desc"
+        - "title desc"
+date-format: "MMM, YYYY"
+page-layout: full
+toc: false
+page-navigation: false
+title-block-banner: false
+---
+
+:::{#pi-info}
+
+Kun Qian is an Assistant Professor in the [Department of Computer Science](https://cs.virginia.edu) at the University of Virginia. He is also a faculty member of the UVA's [Link Lab](https://linklab.virginia.edu). Previously, he was a postdoctoral researcher at the University of California San Diego, where he worked with Prof. [Xinyu Zhang](http://xyzhang.ucsd.edu/). 
+
+His research interests lie in the wireless and mobile technologies that enable ambient intelligence and ubiquitous connectivity. He has designed wireless models, algorithms, and systems, with applications across a wide spectrum of physical-aware scenarios, including next-generation communication, smart IoT sensing, autonomous driving, and mobile computing.
+
+## Education
+
+- Tsinghua University | Sept 2014 - Jan 2019
+    - Ph.D. in Software Engineering 
+    - Advisors: Prof. [Yunhao Liu](https://people.gix.tsinghua.edu.cn/yunhao/en.html) and Prof. [Zheng Yang](https://tns.thss.tsinghua.edu.cn/~yangzheng/)
+
+- Tsinghua University | Sept 2010 - June 2014
+    - B.Sc. in Software Engineering
+
+:::
+
+## Latest News
+
+:::{#latest-news}
+:::
+
+<p align="right">[News Archive »](news.qmd)</p>

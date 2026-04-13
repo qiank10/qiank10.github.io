@@ -1,0 +1,11 @@
+- path: "../wink.qmd"
+  title: "Ninglan Lei"
+  description: "Computer Science"
+  date: "2025-8"
+  image: "people/images/people_default.png"
+
+- path: "../wink.qmd"
+  title: "Zaid Z Contractor"
+  description: "Computer Science"
+  date: "2024-8"
+  image: "people/images/people_default.png"

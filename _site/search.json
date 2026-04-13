@@ -1,0 +1,877 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Kun Qian",
+    "section": "",
+    "text": "Kun Qian is an Assistant Professor in the Department of Computer Science at the University of Virginia. He is also a faculty member of the UVA’s Link Lab. Previously, he was a postdoctoral researcher at the University of California San Diego, where he worked with Prof. Xinyu Zhang.\nHis research interests lie in the wireless and mobile technologies that enable ambient intelligence and ubiquitous connectivity. He has designed wireless models, algorithms, and systems, with applications across a wide spectrum of physical-aware scenarios, including next-generation communication, smart IoT sensing, autonomous driving, and mobile computing.\n\n\n\nTsinghua University | Sept 2014 - Jan 2019\n\nPh.D. in Software Engineering\nAdvisors: Prof. Yunhao Liu and Prof. Zheng Yang\n\nTsinghua University | Sept 2010 - June 2014\n\nB.Sc. in Software Engineering"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kun Qian",
+    "section": "",
+    "text": "Tsinghua University | Sept 2014 - Jan 2019\n\nPh.D. in Software Engineering\nAdvisors: Prof. Yunhao Liu and Prof. Zheng Yang\n\nTsinghua University | Sept 2010 - June 2014\n\nB.Sc. in Software Engineering"
+  },
+  {
+    "objectID": "index.html#latest-news",
+    "href": "index.html#latest-news",
+    "title": "Kun Qian",
+    "section": "Latest News",
+    "text": "Latest News\n\n\n\n\n\n\n\n\n\n\nNew Publication in MobiSys 2026\n\n\nOur recent work, BeamFormer, uses transformers to generate unseen beam measurements, thereby slashing the scanning beams for 6G gMIMO.\n\n\n\nApr, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvitation to Serve INFOCOM 2027 TPC\n\n\nI will serve as an TPC member for INFOCOM’27 (abstract due: 7/24/2026). Please consider submitting.\n\n\n\nApr, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nInvitation to Serve IMWUT Editorial Board\n\n\nI will serve as an Associate Editor for IMWUT since the May round. Please consider submitting.\n\n\n\nApr, 2026\n\n\n\n\n\n\nNo matching items\n\n\nNews Archive »"
+  },
+  {
+    "objectID": "index.html#courses-in-2026",
+    "href": "index.html#courses-in-2026",
+    "title": "Kun Qian",
+    "section": "Courses in 2026",
+    "text": "Courses in 2026\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)\n\n\n\nAug, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2026)\n\n\n\nJan, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)\n\n\n\nAug, 2025\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)\n\n\n\n\n\nAug, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2026)\n\n\n\n\n\nJan, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)\n\n\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS4501: Wireless for the Internet of Things (Spring 2025)\n\n\n\n\n\nJan, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nCS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)\n\n\n\n\n\nAug, 2024\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "BeamFormer: Transformer-based Beam Management for 6G Networks\n        Shunqiang Feng, Swastik Kanjilal, Kun Qian, Ish Jain\n        ACM MobiSys 2026\n        \n    \n\n    \n    \n    \n    \n         Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing\n        Kun Qian, Parth Pathak\n        ACM MobiSys 2025\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Radio Frequency Ray Tracing with Neural Object Representation for Enhanced RF Modeling\n        Xingyu Chen, Zihao Feng, Kun Qian, Xinyu Zhang\n        IEEE/CVF CVPR 2025\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         RFCanvas: Modeling RF Channel by Fusing Visual Priors and Few-shot RF Measurements\n        Xingyu Chen, Zihao Feng, Ke Sun, Kun Qian, Xinyu Zhang\n        ACM SenSys 2024\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         KeyStub: A Passive RFID-based Keypad Interface Using Resonant Stubs\n        John Nolan, Kun Qian, Xinyu Zhang\n        ACM IMWUT 2024\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding\n        Timothy Woodford, Kun Qian, Xinyu Zhang\n        ACM SenSys 2023\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems\n        Kai Zheng, Kun Qian, Timothy Woodford, Xinyu Zhang\n        ACM SenSys 2023\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing\n        Kun Qian, Lulu Yao, Kai Zheng, Xinyu Zhang, Tse Nga Ng\n        ACM MobiCom 2023\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing\n        Zheng Yang, Yi Zhang, Kun Qian, Chenshu Wu\n        USENIX NSDI 2023\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion\n        Kun Qian, Lulu Yao, Xinyu Zhang, Tse Nga Ng\n        ACM MobiCom 2022\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         3D Point Cloud Generation with Millimeter-Wave Radar\n        Kun Qian, Zhaoyuan He, Xinyu Zhang\n        ACM IMWUT 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         RoS: Passive Smart Surface for Roadside-to-Vehicle Communication\n        Kun Qian, John Nolan, Xinyu Zhang\n        ACM SIGCOMM 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi\n        Yi Zhang, Yue Zheng, Kun Qian, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang\n        IEEE TPAMI 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals\n        Kun Qian, Shilin Zhu, Xinyu Zhang, Li Erran Li\n        IEEE/CVF CVPR 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel\n        Kun Qian, Yumeng Lu, Zheng Yang, Kai Zhang, Kehong Huang, Xinjun Cai, Chenshu Wu, Yunhao Liu\n        USENIX NSDI 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         M-Cube: A Millimeter-Wave Massive MIMO Software Radio\n        Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, Xinyu Zhang\n        ACM MobiCom 2020\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Passenger Demand Prediction with Cellular Footprints\n        Jing Chu, Xu Wang, Kun Qian, Lina Yao, Fu Xiao, Jianbo Li, Zheng Yang\n        IEEE TMC 2020\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         iVR: Integrated Vision and Radio Localization with Zero Human Effort\n        Jingao Xu, Hengjie Chen, Kun Qian, Erqun Dong, Min Sun, Chenshu Wu, Li Zhang, Zheng Yang\n        ACM IMWUT 2019\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi\n        Yue Zheng, Yi Zhang, Kun Qian, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang\n        ACM MobiSys 2019\n        \n            \n                \n                     PDF \n                \n                \n                     Code \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Enabling Phased Array Signal Processing for Mobile WiFi Devices\n        Kun Qian, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu\n        IEEE TMC 2018\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Widar2.0: Passive Human Tracking with a Single Wi-Fi Link\n        Kun Qian, Chenshu Wu, Yi Zhang, Guidong Zhang, Zheng Yang, Yunhao Liu\n        ACM MobiSys 2018\n        \n            \n                \n                     PDF \n                \n                \n                     Code \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Acousticcardiogram: Monitoring Heartbeats using Acoustic Signals on Smart Devices\n        Kun Qian, Chenshu Wu, Fu Xiao, Yue Zheng, Yi Zhang, Zheng Yang\n        IEEE INFOCOM 2018\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Enabling Contactless Detection of Moving Humans with Dynamic Speeds Using CSI\n        Kun Qian, Chenshu Wu, Zheng Yang, Yunhao Liu, Fugui He, Tianzhang Xing\n        ACM TECS 2018\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Widar: Decimeter-Level Passive Tracking via Velocity Monitoring with Commodity Wi-Fi\n        Kun Qian, Chenshu Wu, Zheng Yang, Yunhao Liu, Kyle Jamieson\n        ACM MobiHoc 2017\n        \n            \n                \n                     PDF \n                \n                \n                     Code \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Inferring Motion Direction using Commodity Wi-Fi for Interactive Exergames\n        Kun Qian, Chenshu Wu, Zimu Zhou, Yue Zheng, Zheng Yang, Yunhao Liu\n        ACM CHI 2017\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Tuning by Turning: Enabling Phased Array Signal Processing for WiFi with Inertial Sensors\n        Kun Qian, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu\n        IEEE INFOCOM 2016\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         PhaseU: Real-time LOS Identification with WiFi\n        Chenshu Wu, Zheng Yang, Zimu Zhou, Kun Qian, Yunhao Liu, Mingyan Liu\n        IEEE INFOCOM 2015\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         PADS: Passive Detection of Moving Targets with Dynamic Speed using PHY Layer Information\n        Kun Qian, Chenshu Wu, Zheng Yang, Yunhao Liu, Zimu Zhou\n        IEEE ICPADS 2014\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "",
+    "text": "BeamFormer: Transformer-based Beam Management for 6G Networks\n        Shunqiang Feng, Swastik Kanjilal, Kun Qian, Ish Jain\n        ACM MobiSys 2026\n        \n    \n\n    \n    \n    \n    \n         Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing\n        Kun Qian, Parth Pathak\n        ACM MobiSys 2025\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Radio Frequency Ray Tracing with Neural Object Representation for Enhanced RF Modeling\n        Xingyu Chen, Zihao Feng, Kun Qian, Xinyu Zhang\n        IEEE/CVF CVPR 2025\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         RFCanvas: Modeling RF Channel by Fusing Visual Priors and Few-shot RF Measurements\n        Xingyu Chen, Zihao Feng, Ke Sun, Kun Qian, Xinyu Zhang\n        ACM SenSys 2024\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         KeyStub: A Passive RFID-based Keypad Interface Using Resonant Stubs\n        John Nolan, Kun Qian, Xinyu Zhang\n        ACM IMWUT 2024\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding\n        Timothy Woodford, Kun Qian, Xinyu Zhang\n        ACM SenSys 2023\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems\n        Kai Zheng, Kun Qian, Timothy Woodford, Xinyu Zhang\n        ACM SenSys 2023\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing\n        Kun Qian, Lulu Yao, Kai Zheng, Xinyu Zhang, Tse Nga Ng\n        ACM MobiCom 2023\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing\n        Zheng Yang, Yi Zhang, Kun Qian, Chenshu Wu\n        USENIX NSDI 2023\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion\n        Kun Qian, Lulu Yao, Xinyu Zhang, Tse Nga Ng\n        ACM MobiCom 2022\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         3D Point Cloud Generation with Millimeter-Wave Radar\n        Kun Qian, Zhaoyuan He, Xinyu Zhang\n        ACM IMWUT 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         RoS: Passive Smart Surface for Roadside-to-Vehicle Communication\n        Kun Qian, John Nolan, Xinyu Zhang\n        ACM SIGCOMM 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi\n        Yi Zhang, Yue Zheng, Kun Qian, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang\n        IEEE TPAMI 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals\n        Kun Qian, Shilin Zhu, Xinyu Zhang, Li Erran Li\n        IEEE/CVF CVPR 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         AIRCODE: Hidden Screen-Camera Communication on an Invisible and Inaudible Dual Channel\n        Kun Qian, Yumeng Lu, Zheng Yang, Kai Zhang, Kehong Huang, Xinjun Cai, Chenshu Wu, Yunhao Liu\n        USENIX NSDI 2021\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         M-Cube: A Millimeter-Wave Massive MIMO Software Radio\n        Renjie Zhao, Timothy Woodford, Teng Wei, Kun Qian, Xinyu Zhang\n        ACM MobiCom 2020\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Passenger Demand Prediction with Cellular Footprints\n        Jing Chu, Xu Wang, Kun Qian, Lina Yao, Fu Xiao, Jianbo Li, Zheng Yang\n        IEEE TMC 2020\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         iVR: Integrated Vision and Radio Localization with Zero Human Effort\n        Jingao Xu, Hengjie Chen, Kun Qian, Erqun Dong, Min Sun, Chenshu Wu, Li Zhang, Zheng Yang\n        ACM IMWUT 2019\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi\n        Yue Zheng, Yi Zhang, Kun Qian, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang\n        ACM MobiSys 2019\n        \n            \n                \n                     PDF \n                \n                \n                     Code \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Enabling Phased Array Signal Processing for Mobile WiFi Devices\n        Kun Qian, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu\n        IEEE TMC 2018\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Widar2.0: Passive Human Tracking with a Single Wi-Fi Link\n        Kun Qian, Chenshu Wu, Yi Zhang, Guidong Zhang, Zheng Yang, Yunhao Liu\n        ACM MobiSys 2018\n        \n            \n                \n                     PDF \n                \n                \n                     Code \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Acousticcardiogram: Monitoring Heartbeats using Acoustic Signals on Smart Devices\n        Kun Qian, Chenshu Wu, Fu Xiao, Yue Zheng, Yi Zhang, Zheng Yang\n        IEEE INFOCOM 2018\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Enabling Contactless Detection of Moving Humans with Dynamic Speeds Using CSI\n        Kun Qian, Chenshu Wu, Zheng Yang, Yunhao Liu, Fugui He, Tianzhang Xing\n        ACM TECS 2018\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Widar: Decimeter-Level Passive Tracking via Velocity Monitoring with Commodity Wi-Fi\n        Kun Qian, Chenshu Wu, Zheng Yang, Yunhao Liu, Kyle Jamieson\n        ACM MobiHoc 2017\n        \n            \n                \n                     PDF \n                \n                \n                     Code \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Inferring Motion Direction using Commodity Wi-Fi for Interactive Exergames\n        Kun Qian, Chenshu Wu, Zimu Zhou, Yue Zheng, Zheng Yang, Yunhao Liu\n        ACM CHI 2017\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         Tuning by Turning: Enabling Phased Array Signal Processing for WiFi with Inertial Sensors\n        Kun Qian, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu\n        IEEE INFOCOM 2016\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n    \n    \n    \n    \n         PhaseU: Real-time LOS Identification with WiFi\n        Chenshu Wu, Zheng Yang, Zimu Zhou, Kun Qian, Yunhao Liu, Mingyan Liu\n        IEEE INFOCOM 2015\n        \n            \n                \n                     PDF \n                \n                \n                \n            \n        \n    \n\n    \n    \n    \n    \n         PADS: Passive Detection of Moving Targets with Dynamic Speed using PHY Layer Information\n        Kun Qian, Chenshu Wu, Zheng Yang, Yunhao Liu, Zimu Zhou\n        IEEE ICPADS 2014\n        \n            \n                \n                     PDF \n                \n                \n                \n                     Slides \n                \n            \n        \n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "research.html#grants",
+    "href": "research.html#grants",
+    "title": "Research",
+    "section": "Grants",
+    "text": "Grants\n\n\n\n    \n         Spoofing-Resilient and Communication-Compatible MmWave Radar Sensing for Autonomous Systems\n        Commonwealth Cyber Initiative (CCI), PI, 2025 - 2026\n    \n\n    \n         NeTS: Medium: Generative Channel Cartography for Giga MIMO Networks on the 6G Upper Mid-band\n        National Science Foundation (NSF), PI, 2024 - 2028\n    \n\n\nNo matching items"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "",
+    "text": "The 2025 Wireless for IoT course culminated in a series of final projects led by individual groups. Each group was challenged to build a new wireless device, experiment with new software for wireless IoT devices, or investigate wireless IoT networks in the real world.\n\n\n\nResume Delivery System\nRental Management System\nLoRa GPS Tracker\nLoRa Fingerprinting Localization\nIEEE 802.15.4 to BLE Bidirectional Bridge\nNFC Sleep Checker\nBLE Controlled Car with Wi-Fi Video Streaming\nAnonymous Voting System\nLoRa Agricultural Sensor\nNFC Sign-in System\nMail Delivery Notification System"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#course-information",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#course-information",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "",
+    "text": "The 2025 Wireless for IoT course culminated in a series of final projects led by individual groups. Each group was challenged to build a new wireless device, experiment with new software for wireless IoT devices, or investigate wireless IoT networks in the real world.\n\n\n\nResume Delivery System\nRental Management System\nLoRa GPS Tracker\nLoRa Fingerprinting Localization\nIEEE 802.15.4 to BLE Bidirectional Bridge\nNFC Sleep Checker\nBLE Controlled Car with Wi-Fi Video Streaming\nAnonymous Voting System\nLoRa Agricultural Sensor\nNFC Sign-in System\nMail Delivery Notification System"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#resume-delivery-system",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#resume-delivery-system",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Resume Delivery System",
+    "text": "Resume Delivery System\nMembers: Leila Troxell, Connor Lewis, Katherine Capone, Mohit Pandey\n\nIn a world where paper is out of date, resumes are difficult to quickly and easily distribute at career fairs and networking events. Most recruiters are left with piles of paper resumes, and those that choose to collect information electronically require students to complete a lengthy form when most students would prefer to spend their time networking with professionals. Our technology aims to solve this problem with an efficient, paperless solution. With our system, students can seamlessly tap their phone to the recruiter’s NFC tag and deliver their resume. Students create a link that corresponds to their resume PDF and embed it as a URL record via the NFC Tools app. The recruiter possesses an nRF52840DK board with a Type 4 NFC tag that is programmed to be writable and is actively running. The student then taps their phone to the NFC tag. An NRF Connect application flashes the student’s resume to the tag, and a python script running in the background parses the resume’s URL record out of the NFC NDEF message and a script uploads the resume PDF to the recruiter’s web service. This seamless process instantly places the student’s resume on the recruiter’s website for their more thorough review later, after the recruiting fair has completed."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#rental-management-system",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#rental-management-system",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Rental Management System",
+    "text": "Rental Management System\nMembers: Raul Cancho, Sami Kang, Marvin Rivera Martinez, Salina Tran\n\nOur project, RentScan: Electronic Services, hopes to address the obstacles to accessing electronics. Our solution lets people visit any local department store to borrow essential devices like laptops needed for school or work. The rental process is extremely simple. Users just need their phone to scan a tag and reserve it for a certain usage time. It would be an improvement because it eliminates traditional paperwork and tedious checkout processes, which create obstacles to technology access. With the Near Field Detection tag, people can instantly reserve devices without waiting in lines to fill out forms, saving time. To start, it works by using an NFC (Near Field Communication) tag attached to each rentable device. When a user scans the tag with their phone, the tag sends a preconfigured NDEF (NFC Data Exchange Format) message containing information about the device. The NFC works in collaboration with Bluetooth Low Energy (BLE) to launch a rental request, which is then confirmed by a central BLE device that outputs a confirmation that the tag was scanned and rented out. The system handles rental logic and updates rental status in real time. This wireless integration simplifies the entire process and makes device access faster, more intuitive, and widely accessible. GitHub Repo Link: https://github.com/ariveram128/NFC-Rental-System"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#lora-gps-tracker",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#lora-gps-tracker",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "LoRa GPS Tracker",
+    "text": "LoRa GPS Tracker\nMembers: Rex Wang, Kevin Zhang, Kenny Tran, Alex Song\n\nLosing an important and expensive piece of equipment through shipping and other ways has always been a problem. For our project we have decided to make a device that can track location through the current longitude and latitude of an object. Our wireless system is an improvement over normal LoRa because originally it doesn’t have any location detection abilities so we added a gps onto it. We connected the system to the The Things Network and sent a payload to it. The payload is then decoded through python in a 9 byte packet (1 byte for Group ID, 4 bytes for longitude, and 4 bytes for latitude). The coordinates are then saved in a csv file. One problem that we ran into though was that it needed to be outside so it could detect a few satellites probably due to the inferences of the building. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#lora-localization",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#lora-localization",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "LoRa Localization",
+    "text": "LoRa Localization\nMembers: Andrew Morrison, Jacob Cochran, Austin Chappell\n\nSome IoT devices move around and their location is important for readings that they involve. The simplest solution to knowing the location of these devices is to add a GPS to your IoT device, however there are many drawbacks to using GPS, such as increasing the cost per device by $5-10 and shortening battery life from years to months. Our solution to this problem uses LoRa gateways to cheaply determine the location of the device without using any device battery or much more cost. We accomplish this by using the RSSI values of at least 2 gateways and training a machine learning algorithm using these values and the location of the gateways to determine the location of the device. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#ieee-802.15.4-to-ble-bidirectional-bridge",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#ieee-802.15.4-to-ble-bidirectional-bridge",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "IEEE 802.15.4 to BLE Bidirectional Bridge",
+    "text": "IEEE 802.15.4 to BLE Bidirectional Bridge\nMembers: Connor Cutshall, Garrett Delaney, Husnain Choudhry, Patrick Gajewski\n\nThe goal of this project is to build a bridge device that can act as a translator between two separate IoT devices: one device that supports IEEE 802.15.4 but not BLE, and another that supports BLE but not IEEE 802.15.4. Many real world IoT and embedded devices will use just one or maybe two wireless protocols, but not a plethora of protocols like the nRF development boards. If you are working with devices or sensors that someone else built, you likely will not have any control over the wireless protocols available. If two devices use incompatible protocols, there is no way for them to directly communicate. That is where the IEEE 802.15.4 to BLE Bidirectional Bridge comes in handy as it acts as an intermediary that can receive, translate, and transmit packets back and forth between incompatible devices. The bridge works by first utilizing packet burst between the two NRF boards. Then, the 2nd nRF board acts as a central, and the Heltec collecting the temperature value acts as a peripheral. By pressing the button on the first nRF board, the temperature value gathered by the Heltec board is relayed through the 2nd nrF board back into the first nRF board. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#sleep-checker",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#sleep-checker",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Sleep Checker",
+    "text": "Sleep Checker\nMembers: Daniel Sarria, Kyle Clemente\n\nOur project addresses the challenge of promoting healthy sleep habits by providing an automated, real-time logging system for sleep and wake events, particularly benefiting individuals who may forget or struggle to manually track their sleep patterns. Traditional methods like journaling, app check-ins, or wearable devices often involve discomfort, manual input, or reliance on smartphone connectivity, whereas our solution leverages a wireless NFC-based system paired with an ESP32 microcontroller to seamlessly log sleep data. When a user taps their NFC tag before sleep or upon waking, the system toggles between “Sleep” and “Wake” states and sends the state and user ID via UART to an ESP32, which appends a timestamp and uploads the data to a central Google Sheets database via Wi-Fi. The system also generates sleep summaries, displaying total sleep time, averages, and recent sleep patterns with visual comparisons. This scalable and contactless approach ensures accurate sleep tracking while minimizing user intervention. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#ble-controlled-car-with-wi-fi-video-streaming",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#ble-controlled-car-with-wi-fi-video-streaming",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "BLE Controlled Car with Wi-Fi Video Streaming",
+    "text": "BLE Controlled Car with Wi-Fi Video Streaming\nMembers: Ethan Jacobson, Jackson Lamb, Maria Molchanova\n\nOur project explores the use of Bluetooth Low Energy (BLE) for wireless control of small robotic vehicles in short-range applications. While traditional radio-frequency (RF) control offers greater range, it typically requires dedicated hardware and is often limited to unidirectional communication. By integrating BLE, we were able to use off-the-shelf ESP32-based microcontroller boards on both the car and controller, eliminating the need for specialized radio transceivers and enabling bidirectional communication. Both the vehicle and the handheld controller use ESP32 modules to transmit and receive Bluetooth messages. Additionally, each device is equipped with Neopixel RGB LEDs, which provide status indicators and aesthetic underglow lighting. The vehicle streams live video from a browser-accessible web server, allowing real-time visual feedback. Propulsion is provided by two independent rear hub motors, each controlled by a Texas Instruments DRV8962DDWR dual H-bridge motor driver. Pulse-width modulation (PWM) is used to achieve variable speed control in both forward and reverse directions. The car employs skid steering, enabling full directional control without the need for a mechanical steering rack. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#anonymous-voting-system",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#anonymous-voting-system",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Anonymous Voting System",
+    "text": "Anonymous Voting System\nMembers: Saugat Lamsal, Thomas Johnson, Jeanu Joo\n\nPaper-based ballots are slow, error-prone, and require manual transport and counting, leading to delays of days or even weeks before results can be counted. Our NFC+BLE system enables anonymous, in-person voting by using NFC tags. Deployment requires no existing infrastructure, just off-the-shelf NFC tags and a battery-powered BLE central, making pop-up polling sites or remote voting easy to set up and use. Voters simply tap their NFC-enabled phone to write a short “ID:choice” text record on the tag, which immediately notifies and sends to the central node via BLE with no permanent data being stored on the tag. Our central then parses, filters, tallies, and logs each vote to the console in real time. This requires no experience/training, simple and easy for the voter, and delivers near-instant, verifiable results while preserving anonymity. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#lora-agricultural-sensor",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#lora-agricultural-sensor",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "LoRa Agricultural Sensor",
+    "text": "LoRa Agricultural Sensor\nMembers: Bao Doung, John Rankin, Shaunak Sinha\n\nOur team chooses to undertake the challenge of sending important agricultural data over long distances. For example, farms are the priority use case of agricultural data. From important information about soil, to data about crops, there is a vast amount of data that runs through farms that farmers and industry experts alike could utilize to improve farming and yield better outcomes. However many of these farms are massive, and building an interconnected system of sensors over long distances can present extremely difficult challenges, especially in rural areas. Hence the goal of our project was to tackle the issue of sending important agricultural data, specifically soil and temperature data over long distances via LoRa which is a form of long-range, low-power communication. By integrating a long range, lower-power communication with sensor integrated networks, it presents the perfect solution for farms in rural areas. Soil data is not intensive and hence lacks the need for advanced communication. Additionally, LoRa allows the data to be sent throughout the entirety of these massive farms while utilizing minimal power, allowing farmers to not worry about setting up complicated networks. Through a system connecting both these sensors and advanced wireless protocols, farmers can see trends in irrigation, temperature and other applications that are relevant based on soil data, and use that to better improve farming and crop outcome. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#nfc-sign-in-system",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#nfc-sign-in-system",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "NFC Sign-in System",
+    "text": "NFC Sign-in System\nMembers: Michael Sekyi, Kofi Darfour\n\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. Currently, it uses an iPad-based survey system for sign-ins. While effective in quieter moments, this setup becomes inefficient during events or meetings when multiple attendees arrive simultaneously. To address this bottleneck, our team developed an NFC-based wireless sign-in system that dramatically reduces friction. Instead of queueing to manually fill out a form, students can now simply tap their NFC-enabled smartphones to an NFC tag at the entrance. This instantly opens a web-based sign-in form, enabling seamless and rapid user check-in. The solution is more accessible, minimizes congestion, and is particularly effective in high-traffic scenarios like meetings or CDE-hosted gatherings. Our system uses a passive NFC tag, programmed with a URI (Uniform Resource Identifier) record that links directly to an online form (e.g., a Google Form). These tags require no power source and activate when tapped by an NFC-compatible smartphone, which reads the stored URL and opens the form in the browser automatically. On the backend, all responses are logged in a connected Google Sheet for easy access and analysis. Additionally, the system is very scalable, meaning multiple tags can be placed around the space. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot-course-projects/spring2025.html#mail-delivery-notification-system",
+    "href": "courses/uva-csece4501-wiot-course-projects/spring2025.html#mail-delivery-notification-system",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Mail Delivery Notification System",
+    "text": "Mail Delivery Notification System\nMembers: Moses Zhang, Vikranth Nara\n\nThe purpose of this project was to create a wireless solution to infrequent mailbox usage. One of our group members receives mail quite infrequently, thus making it unnecessary to check for mail every single day. This circuit uses a photoresistor to detect when the mailbox is open, which then causes an nrf52840 board to send a bluetooth notification to a mobile device. The main circuit board is placed on the inside of the door which opens and closes. This causes there to be a voltage reading from a voltage divider using the photoresistor to change dynamically with how much light the board receives (i.e. when the door opens and closes). The circuit itself uses an Arduino nano to convert the analog input from the voltage divider into a digital output, which is then read by the nrf52840. If the nrf52840 reads a voltage of over 2 volts, this is interpreted as the mailbox being opened. Upon sending a bluetooth notification, the board then sleeps for a designated amount of time, as one would not expect mail terribly frequently. This allows the person who is receiving mail to be notified in their home right when they get mail, without having to physically check their mailbox every so often. {style=“text-align: justify;”}"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html",
+    "href": "courses/uva-csece4501-wiot/spring2025.html",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "",
+    "text": "Please check out our students’ course projects!"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#course-information",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#course-information",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Course Information",
+    "text": "Course Information\n\nInstructor: Kun Qian\nTA: Nitya Mitnala (nnm5qe AT virginia DOT edu)\nLecture time: 2:00pm-3:15pm TuTh\nLocation: Thornton Hall A120\nOffice hours:\n\nMo 4:00-5:00pm (Mitnala, Rice 442)\nTu 4:00-5:00pm (Qian, Olsson 267)\nWe 4:00-5:00pm (Qian, Olsson 267)\nTh 5:00-6:00pm (Mitnala, Rice 442)\nBy appointment"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#course-description",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#course-description",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Course Description",
+    "text": "Course Description\nThe Internet of Things (IoT) is a computing platform where a large number of devices form a network to monitor, control, and optimize some physical system. To be scalable, these devices communicate wirelessly, both with each other and to the Internet at large. But what wireless protocols are available for IoT devices? How do they work? And why are there so many? This course will provide a hands-on introduction to the world of wireless in the Internet of Things. Over the course of the semester we will explore what wireless options we have available, how they differ and what the tradeoffs are, and how major IoT wireless protocols work. We will also build networks of devices using real-world wireless protocols. Our goal is for you to be able to build your own wireless devices with a wireless protocol that meets your application requirements and device constraints.\nWe will look at Bluetooth Low Energy, IEEE 802.15.4, Thread, NFC, LoRa, and Wi-Fi."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#course-objectives",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#course-objectives",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Course Objectives",
+    "text": "Course Objectives\nBy the end of the course, you will be able to - explain, analyze, and compare different IoT wireless protocols. - analyze and model the power draw and spectrum utilization of wireless protocols. - develop hands-on skills using standards-compliant protocols. - identify requirements for a wireless protocol for a specific application. - recognize rationale for heterogeneity in wireless IoT protocols and how design choices impact both applications and users. - work effectively in a group to build IoT networks while overcoming challenges."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#grading",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#grading",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Grading",
+    "text": "Grading\n\nQuizzes: 5%\nLabs: 20%\nPostlabs: 30%\nExam: 15%\nHomeworks: 10%\nFinal Project: 20%"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#assessments",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#assessments",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Assessments",
+    "text": "Assessments\n\nQuizzes: These in-class quick formative assessments will help students stay accountable to the material and highlight the most important aspects from the last lecture/class. Quiz grading is 50% completion and 50% correctness. The end-of-semester quiz score is calculated out of 75% of total possible points. (approx. 20 quizzes, 5%)\nLabs: In-class labs will give students hands-on experience developing and debugging wireless networks. Labs will be largely structured and are formative assessments. Students will generate some output, such as a plot or paragraph description for light grading. (9 labs, 20%)\nPostlabs: These assignments will build on the in-class lab work and require students to build various wireless networks and leverage the properties of the wireless protocols to meet given application requirements. The output will be working code that implements the required functionality. Additionally, there may be required data collection to complete. Not every in-class lab will have a corresponding postlab. (4 postlabs, 30%)\nExams: An in-class exam will assess student learning of key concepts on wireless protocols and how they relate to applications. (1 exam, 15%)\nHomework: Homework will give students a chance to practice analyzing wireless protocols and matching protocols to applications. The homework will provide example questions that will be on the exam. (4 homework assignments, 10%)\nFinal Project: The final project will have students use wireless protocols to develop their own application and device, and measure its performance. (1 project, 20%)"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#honor",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#honor",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Honor",
+    "text": "Honor\nWe trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#prerequisites",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#prerequisites",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nCS 2130 (CSO1) OR CS 2150 (Program and Data Representation)\nCS 3130 (CSO2) OR ECE 3430 (Embedded) OR CS 4414 (OS) OR CS 3330 (Architecture) OR ECE 4750 (DSP) OR Instructor Approval"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#helpful-resources",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#helpful-resources",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Helpful Resources",
+    "text": "Helpful Resources\nWhile there is no textbook for this course, there are some references that are helpful for getting up to speed with C in an embedded context.\n\nIntroduction to C Programming\nC Programming: Memory and Pointers (ignore anything with malloc())\nC Programming: Standard Library\nC Pointers and Registers\nEndianness"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#related-courses",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#related-courses",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Related Courses",
+    "text": "Related Courses\n\nCS/ECE 4457 (Computer Networking): Focuses on the layered network stack and protocols used in the internet.\nECE 4784 (Wireless Communications): Focuses on the physical layer, including signaling and modulation.\nECE 4501 (Low Power Wireless Transceivers for IoT): Focuses more on radio hardware, as well as emerging techniques and research."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#course-schedule",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#course-schedule",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Course Schedule",
+    "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nMon 01/13\nSemester begin\n\n\n\nTue 01/14\nIntroduction and Overview\nHW1\n\n\nThu 01/16\nNetworking Fundamentals\nPrelab1\n\n\nTue 01/21\n[Lab] Wireshark\n\n\n\nThu 01/23\nWireless Fundamentals\n\n\n\nTue 01/28\nBLE Intro\n\n\n\nThu 01/30\nBLE Advertisements\nHW2 & Prelab2\n\n\nTue 02/04\n[Lab] BLE Advertisements\n\n\n\nThu 02/06\nBLE Connections\n\n\n\nTue 02/11\n[Lab] BLE Connections\nPostlab2\n\n\nThu 02/13\nIEEE 802.15.4 Intro + MAC\nPrelab3\n\n\nTue 02/18\n[Lab] IEEE 802.15.4 (1)\n\n\n\nThu 02/20\nIEEE 802.15.4 Net + Mesh\n\n\n\nTue 02/25\n[Lab] IEEE 802.15.4 (2)\nPostlab3\n\n\nThu 02/27\nThread + Routing\nPrelab4\n\n\nTue 03/04\n[Lab] Thread\nHW3 & Postlab4\n\n\nThu 03/06\nNFC\nPrelab5\n\n\nTue 03/11\nNo class (Spring break)\n\n\n\nThu 03/13\nNo class (Spring break)\n\n\n\nTue 03/18\n[Lab] NFC\n\n\n\nThu 03/20\nLPWAN + LoRa\nPrelab6\n\n\nTue 03/25\n[Lab] LoRa\nPostlab6\n\n\nThu 03/27\nWi-Fi\nPrelab7\n\n\nTue 04/01\n[Lab] Wi-Fi\n\n\n\nThu 04/03\nExam Review\n\n\n\nTue 04/08\nExam\nHW4\n\n\nThu 04/10\nWi-Fi Sensing\n\n\n\nTue 04/15\nDiscuss Final Projects\n\n\n\nThu 04/17\nMeet with groups\n\n\n\nTue 04/22\nWorkshop\n\n\n\nThu 04/24\nWorkshop\n\n\n\nTue 04/29\nWorkshop\n\n\n\nThu 05/08\nClass Demo Day\n\n\n\nFri 05/09\nSemester end"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#attendance-policy",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#attendance-policy",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nThis class heavily centers on group work and in-class hands-on practice to help you learn the course material. For this to be valuable, attendance is required."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#late-work-policy",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#late-work-policy",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Late Work Policy",
+    "text": "Late Work Policy\nThere are various deliverables in this class. We expect you to complete each deliverable by its due date, but we realize that is not always possible. Some assignments can be turned in late.\n\nPre-labs: These are always due at the start of the lab session they are assigned for. It is critical that these are completed in advance to make the lab productive and increase the benefit of the lab to you. Pre-labs cannot be submitted late.\nLabs: Labs are due one week after the corresponding lab session. You may submit up to one week late for a 50% score penalty. After that it will not be accepted.\nPostlabs: Your group has 5 late days to use throughout the semester for postlabs. You may use up to 3 late days on any one postlab. We will automatically apply the late days if you submit the postlab late. After 3 days late (or if you run out of late days) there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the postlab will not be accepted.\nHomework: You may submit one day late for a 10% score penalty or two days late for a 20% score penalty. After that the homework will not be accepted. This ensures we can release the solutions promptly.\nQuizzes: quizzes are due immediately after they are given and will not be accepted late."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#honoracademic-integrity-policy",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#honoracademic-integrity-policy",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Honor/Academic Integrity Policy",
+    "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.\nSpecific directions for this course:\n\nIn-class labs are done in teams of three and are highly collaborative. You are not only allowed to talk with other teams during the lab, you are explicitly encouraged to. One rule: hands on your own keyboards, no typing for anyone else.\nThe pre-labs and lab reports must be done by your group with all your own work.\nFor the postlabs, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.\nExams must be done individually. Studying in groups is encouraged.\nHomework must be done individually.\nQuizzes must be done individually."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#class-recording",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#class-recording",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Class Recording",
+    "text": "Class Recording\nLectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#use-of-generative-ai",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#use-of-generative-ai",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Use of Generative AI",
+    "text": "Use of Generative AI\nGenerative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. Well-known examples include ChatGPT for text and DALL•E for images. This policy governs all such tools, including those released during our semester together. You may use generative AI tools on assignments in this course when I explicitly permit you to do so. Otherwise, you should refrain from using such tools. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, following the pattern for computer software given in the specified style guide. Additionally, please include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#students-with-disabilities-or-learning-needs",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#students-with-disabilities-or-learning-needs",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Students with Disabilities or Learning Needs",
+    "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#religious-accommodations",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#religious-accommodations",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Religious Accommodations",
+    "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#harassment-discrimination-and-interpersonal-violence",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#harassment-discrimination-and-interpersonal-violence",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Harassment, Discrimination, and Interpersonal Violence",
+    "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#support-for-your-career-development",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#support-for-your-career-development",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Support for Your Career Development",
+    "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2025.html#student-support-team",
+    "href": "courses/uva-csece4501-wiot/spring2025.html#student-support-team",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2025)",
+    "section": "Student support team",
+    "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "",
+    "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Olsson Hall 001\nOffice hours:\n\nMo: 2:00-3:00pm\nTu: 3:00-4:00pm"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#course-information",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#course-information",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "",
+    "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Olsson Hall 001\nOffice hours:\n\nMo: 2:00-3:00pm\nTu: 3:00-4:00pm"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#course-description",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#course-description",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Course Description",
+    "text": "Course Description\nWireless sensing technologies repurpose wireless signals to sense the physical environment and gain situational awareness. Formed by pervasive, wirelessly connected devices, the Internet of Things can be transformed into a universal sensor network with wireless sensing, enabling ambient intelligence in various scenarios, such as smart homes, intelligent transportation, and smart factories. This course covers the basic principles and cutting-edge applications of wireless sensing. The evaluation will be based on participation, homework and lab assignments, paper presentation, and the course project."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#course-objective",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#course-objective",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Course Objective",
+    "text": "Course Objective\nBy the end of the course, you will be able to\n\nexplain, analyze, and compare different wireless sensors.\ndevelop hands-on skills using common wireless sensors.\nidentify requirements for a wireless sensor for a specific application.\nlearn state-of-the-art research on wireless sensing.\nwork effectively in a group to build wireless sensing systems while overcoming challenges."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#grading",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#grading",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Grading",
+    "text": "Grading\n\nQuizzes: 10%\nHomework: 10%\nLabs: 30%\nSeminar: 30%\n\nPaper presentation: 25%\nPaper discussion: 5%\n\nFinal Project: 20%"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#assessments",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#assessments",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Assessments",
+    "text": "Assessments\n\nQuizzes: These in-class quick formative assessments will help students stay accountable to the material and highlight the most important aspects from the last lecture/class. Quiz grading is 50% completion and 50% correctness. The end-of-semester quiz score is calculated out of 50% of total possible points. (approx. 10 quizzes, 10%)\nHomework: Homework will get students familiarize with MATLAB coding, basic signal processing, and WiFi PHY. (2 homework assignment, 10%)\nLabs: Labs will give students hands-on experience developing and debugging wireless sensing hardware. Labs will be largely structured and are formative assessments. Students will generate some output, such as a plot or paragraph description for light grading. (2 labs, 30%)\nPresentation: Paper presentation will drive students to explore the cutting-edge research on various wireless sensing topics. Each student will read two papers on one topics, present them during the classes, and answer questions from the audience. (1 presentation and participation in presentations of other students, 30%)\nFinal Project: The final project will have students use wireless sensing hardware to develop their own sensing applications, and measure its performance. (1 project, 30%)"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#honor",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#honor",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Honor",
+    "text": "Honor\nWe trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#prerequisites",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#prerequisites",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nNo formal prerequisites, but prior knowledge in signal processing, computer networks (e.g., equivalence of CS 4457), and machine learning is highly recommended."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#course-schedule",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#course-schedule",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Course Schedule",
+    "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/26\nSemester begin\n\n\n\nWed 08/27\nIntroduction\n\n\n\nMon 09/01\nSignal Processing\n\n\n\nWed 09/03\nWireless Networking\n\n\n\nMon 09/08\nWiFi PHY\n\n\n\nWed 09/10\nWiFi CSI\n\n\n\nMon 09/15\nWiFi Lab\n\n\n\nWed 09/17\nRadar\n\n\n\nMon 09/22\nRadar Lab\n\n\n\nWed 09/24\nSensing Principles\n\n\n\nMon 09/29\nSensing Application\n\n\n\nWed 10/01\nMachine Learning for Wireless Sensing\n\n\n\nMon 10/06\nSensing-Assisted Communication\n\n\n\nWed 10/08\nSensing Security\n\n\n\nMon 10/13\nNo class\n\n\n\nWed 10/15\nProject Discussion\n\n\n\nMon 10/20\nSeminar\n\n\n\nWed 10/22\nSeminar\n\n\n\nMon 10/27\nSeminar\n\n\n\nWed 10/29\nSeminar\n\n\n\nMon 11/03\nSeminar\n\n\n\nWed 11/05\nSeminar\n\n\n\nMon 11/10\nSeminar\n\n\n\nWed 11/12\nSeminar\n\n\n\nMon 11/17\nSeminar\n\n\n\nWed 11/19\nSeminar\n\n\n\nMon 11/24\nSeminar\n\n\n\nWed 11/26\nNo class\n\n\n\nMon 12/01\nProject Workshop\n\n\n\nWed 12/03\nProject Workshop\n\n\n\nMon 12/08\nProject Demo\n\n\n\nFri 12/19\nSemester end"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#attendance-policy",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#attendance-policy",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nThis class heavily centers on group work and in-class hands-on practice to help you learn the course material. For this to be valuable, attendance is required."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#late-work-policy",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#late-work-policy",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Late Work Policy",
+    "text": "Late Work Policy\nThere are various deliverables in this class. We expect you to complete each deliverable by its due date, but we realize that is not always possible. Some assignments can be turned in late.\n\nQuizzes: quizzes are due immediately after they are given and will not be accepted late.\nHomeworks: You have 10 late days to use throughout the semester for homework assignments. We will automatically apply the late days if you submit the homework late. After you run out of late days, there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the lab will not be accepted.\nLabs: Your group have 10 late days to use throughout the semester for lab assignments. We will automatically apply the late days if you submit the lab late. After you run out of late days, there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the lab will not be accepted.\nPresentation: paper presentation is due immediately before the presentation date and will not be accepted late.\nFinal project: final project is due after the demo session during the final exam week and will not be accepted late."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#honoracademic-integrity-policy",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#honoracademic-integrity-policy",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Honor/Academic Integrity Policy",
+    "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.\nSpecific directions for this course:\n\nQuizzes must be done individually.\nHomeworks must be done individually.\nFor the labs, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.\nPaper presentation must be done individually.\nFor the course project, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#class-recording",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#class-recording",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Class Recording",
+    "text": "Class Recording\nLectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#use-of-generative-ai",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#use-of-generative-ai",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Use of Generative AI",
+    "text": "Use of Generative AI\nGenerative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. This policy governs all such tools, including those released during our semester together. You may use generative AI tools on assignments in this course. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, and include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#students-with-disabilities-or-learning-needs",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#students-with-disabilities-or-learning-needs",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Students with Disabilities or Learning Needs",
+    "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#religious-accommodations",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#religious-accommodations",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Religious Accommodations",
+    "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#harassment-discrimination-and-interpersonal-violence",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#harassment-discrimination-and-interpersonal-violence",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Harassment, Discrimination, and Interpersonal Violence",
+    "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#support-for-your-career-development",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#support-for-your-career-development",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Support for Your Career Development",
+    "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2025.html#student-support-team",
+    "href": "courses/uva-cs6501-wsiot/fall2025.html#student-support-team",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2025)",
+    "section": "Student support team",
+    "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
+  },
+  {
+    "objectID": "awards.html",
+    "href": "awards.html",
+    "title": "Awards",
+    "section": "",
+    "text": "Date\n\n\n\nEvent\n\n\n\nAward\n\n\n\nNote\n\n\n\n\n\n\n\n\nMay, 2025\n\n\nINFOCOM\n\n\nDistinguished TPC Member\n\n\n \n\n\n\n\n\n\nNov, 2023\n\n\nSenSys\n\n\nBest Paper Award\n\n\n1/179\n\n\n\n\n\n\nOct, 2020\n\n\nMobiCom\n\n\nBest Paper Award\n\n\n2/384\n\n\n\n\n\n\nMay, 2018\n\n\nINFOCOM\n\n\nBest In-Session Presentation Award\n\n\n1/4\n\n\n\n\n\n\nMay, 2017\n\n\nCHI\n\n\nHonorable Mention Award\n\n\ntop 5% submission\n\n\n\n\n\n\nDec, 2014\n\n\nICPADS\n\n\nBest Paper Candidate\n\n\n4/323\n\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "",
+    "text": "Instructor: Kun Qian\nTA: Md. Khairul Islam\nLecture time: 11:00am-12:15pm MoWe\nLocation: Rice 032\nOffice hours:\n\nMo 4:00-5:00pm\nWe 4:00-5:00pm\nBy appointment"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#course-information",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#course-information",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "",
+    "text": "Instructor: Kun Qian\nTA: Md. Khairul Islam\nLecture time: 11:00am-12:15pm MoWe\nLocation: Rice 032\nOffice hours:\n\nMo 4:00-5:00pm\nWe 4:00-5:00pm\nBy appointment"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#course-description",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#course-description",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Course Description",
+    "text": "Course Description\nWireless sensing technologies repurpose wireless signals for sensing physical environment and gaining situational awareness. Formed by pervasive wirelessly connected devices, the Internet of Things can be turned into a universal sensor network with wireless sensing, enabling the vision of ambient intelligence. This course covers the wireless sensing basics (e.g., radar, Wi-Fi) and cutting-edge applications (e.g., motion tracking, activity recognition, environmental sensing). The evaluation will be based on the homework assignments, mid-term exam, and course project."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#prerequisites",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#prerequisites",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nNo formal prerequisites, but prior knowledge in programming, computer networks (e.g., equivalence of CS 4457) and machine learning are highly recommended."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#course-schedule",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#course-schedule",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Course Schedule",
+    "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/27\nSemester begin\n\n\n\nWed 08/28\nIntro\n\n\n\n\nRadar\n\n\n\nMon 09/02\nRadar equation\n\n\n\nWed 09/04\nRF simulation lab\n\n\n\nMon 09/09\nRadar signal processing\n\n\n\nWed 09/11\nArray signal processing\n\n\n\nMon 09/16\nRadar lab\n\n\n\n\nWi-Fi\n\n\n\nWed 09/18\nOFDM\n\n\n\nMon 09/23\nSynchronization\nHW1 due\n\n\nWed 09/25\nMIMO\nHW2 due\n\n\nMon 09/30\nCSI\nHW3 due\n\n\nWed 10/02\nWi-Fi Lab\n\n\n\n\nOther Sensors\n\n\n\nMon 10/07\nCmWave\n\n\n\nWed 10/09\nMmWave\nHW4 due\n\n\nMon 10/14\nNo class (Fall break)\n\n\n\nWed 10/16\nMetasurface\nHW5 due\n\n\nMon 10/21\nDemo/Review\nProject team/proposal due\n\n\nWed 10/23\nMidterm exam\n\n\n\n\nApplications\n\n\n\nMon 10/28\nIndoor localization\n\n\n\nWed 10/30\nMotion tracking\n\n\n\nMon 11/04\nActivity recognition\n\n\n\nWed 11/06\nActivity recognition (cont.)\n\n\n\nMon 11/11\nVehicular sensing\n\n\n\nWed 11/13\nSensing-assisted comm\n\n\n\nMon 11/18\nSensing security\n\n\n\nWed 11/20\nProject work time\n\n\n\nMon 11/25\nTA Lecture\n\n\n\nWed 11/27\nNo class (Thanksgiving)\n\n\n\nMon 12/02\nProject work time\n\n\n\nWed 12/06\nProject presentation\n\n\n\nTue 12/17\nSemester end\nProject report due"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#grading",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#grading",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Grading",
+    "text": "Grading\n\nHomework: 25%\n\n5 assignments, 5% each\n\nExam: 30%\nProject: 45%\n\nProposal: 5%\nPresentation: 10%\nReport: 30%\n\n\nLate Policy\nAll assignments are due via Canvas at 11:59pm on the due date.\n\nGrace period: 12 hours (intended to cover real issues, e.g., internet issues, server down)\n10% penalty per day late"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#attendance-absences",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#attendance-absences",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Attendance & Absences",
+    "text": "Attendance & Absences\nAttendance is required for this course. Considering any unexpected situations through the whole semester, your first three absences (for whatever reason) will not affect your grade. After three absences, every additional absence (no matter the reason for the absence) will reduce your overall participation grade by one full letter grade."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#communication-and-logistics",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#communication-and-logistics",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Communication and Logistics",
+    "text": "Communication and Logistics\nThere is no textbook for the course that you need to purchase. We will distribute materials as needed.\nThere are several sites for the course that you can utilize:\n\nCanvas: Announcements, assignment submissions, course materials and recordings, Zoom links\nPiazza: Long-form questions, notes, private messages for faculty/TA, regrade request\nZoom: Online office hours and meetings, quick chat, off-topic discussion\n\nPlease direct all course-related questions to Canvas or Piazza (or go to office hours). If you want to discuss other topics or have personal/team issues that can and should only be handled by a professor, please email me directly (xts4uh)."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#honoracademic-integrity-policy",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#honoracademic-integrity-policy",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Honor/Academic Integrity Policy",
+    "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.\nFor this course, homework, quizzes, and exams must be done individually. Studying in groups is encouraged. Course project is done in teams of three and are highly collaborative. Each team must write and submit their own code and reports. Consulting with the internet or other written resources is acceptable and encouraged."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#use-of-generative-ai",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#use-of-generative-ai",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Use of Generative AI",
+    "text": "Use of Generative AI\nGenerative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. Well-known examples include ChatGPT for text and DALL•E for images. This policy governs all such tools, including those released during our semester together. You may use generative AI tools on assignments in this course when I explicitly permit you to do so. Otherwise, you should refrain from using such tools. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, following the pattern for computer software given in the specified style guide. Additionally, please include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#students-with-disabilities-or-learning-needs",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#students-with-disabilities-or-learning-needs",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Students with Disabilities or Learning Needs",
+    "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#religious-accommodations",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#religious-accommodations",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Religious Accommodations",
+    "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#harassment-discrimination-and-interpersonal-violence",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#harassment-discrimination-and-interpersonal-violence",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Harassment, Discrimination, and Interpersonal Violence",
+    "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#support-for-your-career-development",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#support-for-your-career-development",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Support for Your Career Development",
+    "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2024.html#student-support-team",
+    "href": "courses/uva-cs6501-wsiot/fall2024.html#student-support-team",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)",
+    "section": "Student support team",
+    "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "",
+    "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-information",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#course-information",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "",
+    "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-description",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#course-description",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Course Description",
+    "text": "Course Description\nWireless sensing technologies repurpose wireless signals to sense the physical environment and gain situational awareness. Formed by pervasive, wirelessly connected devices, the Internet of Things can be transformed into a universal sensor network with wireless sensing, enabling ambient intelligence in various scenarios, such as smart homes, intelligent transportation, and smart factories. This course covers the basic principles and cutting-edge applications of wireless sensing. The evaluation will be based on participation, homework and lab assignments, paper presentation, and the course project."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-objective",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#course-objective",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Course Objective",
+    "text": "Course Objective\nBy the end of the course, you will be able to\n\nexplain, analyze, and compare different wireless sensors.\ndevelop hands-on skills using common wireless sensors.\nidentify requirements for a wireless sensor for a specific application.\nlearn state-of-the-art research on wireless sensing.\nwork effectively in a group to build wireless sensing systems while overcoming challenges."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#grading",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#grading",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Grading",
+    "text": "Grading\n\nQuizzes: 10%\nLabs: 40%\nSeminar: 30%\n\nLead: 25%\nDiscussion: 5%\n\nFinal Project: 20%"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#assessments",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#assessments",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Assessments",
+    "text": "Assessments\n\nQuizzes: These in-class quick formative assessments will help students stay accountable to the material and highlight the most important aspects from the last lecture/class. Quiz grading is 50% completion and 50% correctness. The end-of-semester quiz score is calculated out of 50% of total possible points. (approx. 10 quizzes, 10%)\nHomework: Homework will get students familiarize with MATLAB coding, basic signal processing, and WiFi PHY. (2 homework assignment, 10%)\nLabs: Labs will give students hands-on experience on MATLAB coding, signal processing, wireless PHY designing, and developing wireless sensing hardware. Labs will be largely structured and are formative assessments. Students will generate some output, such as a plot or paragraph description for light grading. (5 labs, 40%)\nSeminar: Seminars will drive students to explore the cutting-edge research on various wireless sensing topics. Each student will host at least one seminar session, present pre-selected papers, and lead discussions of the class. (1 leading session and participation in other sessions, 30%)\nFinal Project: The final project will have students use wireless sensing hardware to develop their own sensing applications, and measure its performance. (1 project, 20%)"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#honor",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#honor",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Honor",
+    "text": "Honor\nWe trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#prerequisites",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#prerequisites",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Prerequisites",
+    "text": "Prerequisites\nNo formal prerequisites, but prior knowledge in signal processing, computer networks (e.g., equivalence of CS 4457), and machine learning is highly recommended."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-schedule",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#course-schedule",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Course Schedule",
+    "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/25\nCourses begin\n\n\n\nWed 08/26\nIntroduction\n\n\n\nMon 08/31\n[Lab] MATLAB\n\n\n\nWed 09/02\nSignal Processing\n\n\n\nMon 09/07\n[Lab] Signal Processing\n\n\n\nWed 09/09\nWireless Fundamentals\n\n\n\nMon 09/14\nWiFi\n\n\n\nWed 09/16\n[Lab] WiFi\n\n\n\nMon 09/21\nWiFi CSI\n\n\n\nWed 09/23\n[Lab] WiFi Sensing\n\n\n\nMon 09/28\nRadar\n\n\n\nWed 09/30\n[Lab] Radar Sensing\n\n\n\nMon 10/05\nNo class\n\n\n\nWed 10/07\nIndoor Localization\n\n\n\nMon 10/12\n[Seminar] Indoor Localization\n\n\n\nWed 10/14\nActivity Recognition\n\n\n\nMon 10/19\n[Seminar] Activity Recognition\n\n\n\nWed 10/21\nEnvironmental Sensing\n\n\n\nMon 10/26\n[Seminar] Environmental Sensing\n\n\n\nWed 10/28\nChannel Knowledge Map\n\n\n\nMon 11/02\n[Seminar] Channel Knowledge Map\n\n\n\nWed 11/04\nEgocentric Sensing\n\n\n\nMon 11/09\n[Seminar] Egocentric Sensing\n\n\n\nWed 11/11\nBackscatter and Metasurface\n\n\n\nMon 11/16\n[Seminar] Backscatter and Metasurface\n\n\n\nWed 11/18\nSensing Security\n\n\n\nMon 11/23\n[Seminar] Sensing Security\n\n\n\nWed 11/25\nNo class\n\n\n\nMon 11/30\nProject Workshop\n\n\n\nWed 12/02\nProject Workshop\n\n\n\nMon 12/07\nProject Demo\n\n\n\nFri 12/08\nCourses end"
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#attendance-policy",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#attendance-policy",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nThis class heavily centers on group work, in-class hands-on practice, and seminar discussions to help you learn the course material. For this to be valuable, attendance is required."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#late-work-policy",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#late-work-policy",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Late Work Policy",
+    "text": "Late Work Policy\nThere are various deliverables in this class. We expect you to complete each deliverable by its due date, but we realize that is not always possible. Some assignments can be turned in late.\n\nQuizzes: quizzes are due immediately after they are given and will not be accepted late.\nLabs: Your group have 10 late days to use throughout the semester for lab assignments. We will automatically apply the late days if you submit the lab late. After you run out of late days, there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the lab will not be accepted.\nSeminar: Seminar presentation is due immediately before the seminar date and will not be accepted late.\nFinal project: final project is due after the demo session and will not be accepted late."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#honoracademic-integrity-policy",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#honoracademic-integrity-policy",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Honor/Academic Integrity Policy",
+    "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.\nSpecific directions for this course:\n\nQuizzes must be done individually.\nHomeworks must be done individually.\nFor the labs, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.\nPaper presentation must be done individually.\nFor the course project, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#class-recording",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#class-recording",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Class Recording",
+    "text": "Class Recording\nLectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#use-of-generative-ai",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#use-of-generative-ai",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Use of Generative AI",
+    "text": "Use of Generative AI\nGenerative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. This policy governs all such tools, including those released during our semester together. You could use generative AI tools on assignments in this course. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, and include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#students-with-disabilities-or-learning-needs",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#students-with-disabilities-or-learning-needs",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Students with Disabilities or Learning Needs",
+    "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#religious-accommodations",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#religious-accommodations",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Religious Accommodations",
+    "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#harassment-discrimination-and-interpersonal-violence",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#harassment-discrimination-and-interpersonal-violence",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Harassment, Discrimination, and Interpersonal Violence",
+    "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#support-for-your-career-development",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#support-for-your-career-development",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Support for Your Career Development",
+    "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
+  },
+  {
+    "objectID": "courses/uva-cs6501-wsiot/fall2026.html#student-support-team",
+    "href": "courses/uva-cs6501-wsiot/fall2026.html#student-support-team",
+    "title": "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2026)",
+    "section": "Student support team",
+    "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html",
+    "href": "courses/uva-csece4501-wiot/spring2026.html",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "",
+    "text": "Instructor: Kun Qian\nTA: Shunqiang Feng\nLecture time: 2:00pm-3:15pm TuTh\nLocation: Thornton Hall A120\nOffice hours:\n\nFeng: 3:00pm-4:00pm Mo\nQian: 10:00am-11:00am We\nQian: 4:00pm-5:00pm Tr\nFeng: 1:00pm-2:00pm Fr\nBy appointment"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#course-information",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#course-information",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "",
+    "text": "Instructor: Kun Qian\nTA: Shunqiang Feng\nLecture time: 2:00pm-3:15pm TuTh\nLocation: Thornton Hall A120\nOffice hours:\n\nFeng: 3:00pm-4:00pm Mo\nQian: 10:00am-11:00am We\nQian: 4:00pm-5:00pm Tr\nFeng: 1:00pm-2:00pm Fr\nBy appointment"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#course-description",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#course-description",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Course Description",
+    "text": "Course Description\nThe Internet of Things (IoT) is a computing platform where a large number of devices form a network to monitor, control, and optimize some physical system. To be scalable, these devices communicate wirelessly, both with each other and to the Internet at large. But what wireless protocols are available for IoT devices? How do they work? And why are there so many? This course will provide a hands-on introduction to the world of wireless in the Internet of Things. Over the course of the semester we will explore what wireless options we have available, how they differ and what the tradeoffs are, and how major IoT wireless protocols work. We will also build networks of devices using real-world wireless protocols. Our goal is for you to be able to build your own wireless devices with a wireless protocol that meets your application requirements and device constraints.\nWe will look at Bluetooth Low Energy, IEEE 802.15.4, Thread, NFC, LoRa, and Wi-Fi."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#course-objectives",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#course-objectives",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Course Objectives",
+    "text": "Course Objectives\nBy the end of the course, you will be able to\n\nexplain, analyze, and compare different IoT wireless protocols.\nanalyze and model the power draw and spectrum utilization of wireless protocols.\ndevelop hands-on skills using standards-compliant protocols.\nidentify requirements for a wireless protocol for a specific application.\nrecognize rationale for heterogeneity in wireless IoT protocols and how design choices impact both applications and users.\nwork effectively in a group to build IoT networks while overcoming challenges."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#grading",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#grading",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Grading",
+    "text": "Grading\n\nQuizzes: 5%\nLabs: 20%\nPostlabs: 30%\nExam: 15%\nHomeworks: 10%\nFinal Project: 20%"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#assessments",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#assessments",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Assessments",
+    "text": "Assessments\n\nQuizzes: These in-class quick formative assessments will help students stay accountable to the material and highlight the most important aspects from the last lecture/class. Quiz grading is 50% completion and 50% correctness. The end-of-semester quiz score is calculated out of 75% of total possible points. (approx. 20 quizzes, 5%)\nLabs: In-class labs will give students hands-on experience developing and debugging wireless networks. Labs will be largely structured and are formative assessments. Students will generate some output, such as a plot or paragraph description for light grading. (9 labs, 20%)\nPostlabs: These assignments will build on the in-class lab work and require students to build various wireless networks and leverage the properties of the wireless protocols to meet given application requirements. The output will be working code that implements the required functionality. Additionally, there may be required data collection to complete. Not every in-class lab will have a corresponding postlab. (4 postlabs, 30%)\nExams: An in-class exam will assess student learning of key concepts on wireless protocols and how they relate to applications. (1 exam, 15%)\nHomework: Homework will give students a chance to practice analyzing wireless protocols and matching protocols to applications. The homework will provide example questions that will be on the exam. (4 homework assignments, 10%)\nFinal Project: The final project will have students use wireless protocols to develop their own application and device, and measure its performance. (1 project, 20%)"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#honor",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#honor",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Honor",
+    "text": "Honor\nWe trust every student in this course to fully comply with all of the provisions of the University’s Honor Code. By enrolling in this course, you have agreed to abide by and uphold the Honor System of the University of Virginia."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#prerequisites",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#prerequisites",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Prerequisites",
+    "text": "Prerequisites\n\nCS 2130 (CSO1) OR CS 2150 (Program and Data Representation)\nCS 3130 (CSO2) OR ECE 3430 (Embedded) OR CS 4414 (OS) OR CS 3330 (Architecture) OR ECE 4750 (DSP) OR Instructor Approval"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#helpful-resources",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#helpful-resources",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Helpful Resources",
+    "text": "Helpful Resources\nWhile there is no textbook for this course, there are some references that are helpful for getting up to speed with C in an embedded context.\n\nIntroduction to C Programming\nC Programming: Memory and Pointers (ignore anything with malloc())\nC Programming: Standard Library\nC Pointers and Registers\nEndianness"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#related-courses",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#related-courses",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Related Courses",
+    "text": "Related Courses\n\nCS/ECE 4457 (Computer Networking): Focuses on the layered network stack and protocols used in the internet.\nECE 4784 (Wireless Communications): Focuses on the physical layer, including signaling and modulation.\nECE 4501 (Low Power Wireless Transceivers for IoT): Focuses more on radio hardware, as well as emerging techniques and research."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#course-schedule",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#course-schedule",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Course Schedule",
+    "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nMon 01/12\nSemester begin\n\n\n\nTue 01/13\nIntroduction and Overview\nHW1\n\n\nThu 01/15\nNetworking Fundamentals\nPrelab1\n\n\nTue 01/20\n[Lab] Wireshark\n\n\n\nThu 01/22\nWireless Fundamentals\n\n\n\nTue 01/27\nBLE Intro\nPrelab2\n\n\nThu 01/29\nBLE Advertisements\nHW2\n\n\nTue 02/03\n[Lab] BLE Advertisements\n\n\n\nThu 02/05\nBLE Connections\n\n\n\nTue 02/10\n[Lab] BLE Connections\nPostlab2\n\n\nThu 02/12\nIEEE 802.15.4 Intro + MAC\nPrelab3\n\n\nTue 02/17\n[Lab] IEEE 802.15.4 (1)\n\n\n\nThu 02/19\nIEEE 802.15.4 Net + Mesh\n\n\n\nTue 02/24\n[Lab] IEEE 802.15.4 (2)\nPostlab3\n\n\nThu 02/26\nThread + Routing\nPrelab4 & HW3\n\n\nTue 03/03\nNo class (Spring break)\n\n\n\nThu 03/05\nNo class (Spring break)\n\n\n\nTue 03/10\n[Lab] Thread\nPostlab4\n\n\nThu 03/12\nNFC\nPrelab5\n\n\nTue 03/17\n[Lab] NFC\n\n\n\nThu 03/19\nLPWAN + LoRa\nPrelab6\n\n\nTue 03/24\n[Lab] LoRa\nPostlab6\n\n\nThu 03/26\nWi-Fi + Sensing\nHW4\n\n\nTue 03/31\n[Lab] Wi-Fi\n\n\n\nThu 04/02\nExam Review\n\n\n\nTue 04/07\nExam\n\n\n\nThu 04/09\nFinal Project Discussion + Teledyne Talk\n\n\n\nTue 04/14\nMeeting with Groups\n\n\n\nThu 04/16\nWorkshop\n\n\n\nTue 04/21\nWorkshop\n\n\n\nThu 04/23\nWorkshop\n\n\n\nTue 04/28\nWorkshop\n\n\n\nMon 05/01\nClass Demo Day\n\n\n\nFri 05/08\nSemester end"
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#attendance-policy",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#attendance-policy",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\nThis class heavily centers on group work and in-class hands-on practice to help you learn the course material. For this to be valuable, attendance is required."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#late-work-policy",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#late-work-policy",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Late Work Policy",
+    "text": "Late Work Policy\nThere are various deliverables in this class. We expect you to complete each deliverable by its due date, but we realize that is not always possible. Some assignments can be turned in late.\n\nPre-labs: These are always due at the start of the lab session they are assigned for. It is critical that these are completed in advance to make the lab productive and increase the benefit of the lab to you. Pre-labs cannot be submitted late.\nLabs: Labs are due one week after the corresponding lab session. You may submit up to one week late for a 50% score penalty. After that it will not be accepted.\nPostlabs: Your group has 5 late days to use throughout the semester for postlabs. We will automatically apply the late days if you submit the postlab late. After you run out of late days, there will be a 10% reduction for one day late and a 20% reduction for two days late. After that the postlab will not be accepted.\nHomework: You may submit one day late for a 10% score penalty or two days late for a 20% score penalty. After that the homework will not be accepted. This ensures we can release the solutions promptly.\nQuizzes: quizzes are due immediately after they are given and will not be accepted late.\n\nDue dates might be occasionally postponed due to unexpected issues. Updates will be posted on Piazza."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#honoracademic-integrity-policy",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#honoracademic-integrity-policy",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Honor/Academic Integrity Policy",
+    "text": "Honor/Academic Integrity Policy\nThe School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.\nIf you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.\nSpecific directions for this course:\n\nIn-class labs are done in teams of three and are highly collaborative. You are not only allowed to talk with other teams during the lab, you are explicitly encouraged to. One rule: hands on your own keyboards, no typing for anyone else.\nThe pre-labs and lab reports must be done by your group with all your own work.\nFor the postlabs, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.\nExams must be done individually. Studying in groups is encouraged.\nHomework must be done individually.\nQuizzes must be done individually."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#class-recording",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#class-recording",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Class Recording",
+    "text": "Class Recording\nLectures for this course will be recorded. Recordings will be available only to the instructor(s) and students enrolled in the class, including those who cannot attend the live sessions. Recordings will be deleted when no longer necessary. Recordings may not be reproduced, shared with those not enrolled in the class, or uploaded to other online environments. Students who are not comfortable with participating in a recorded discussion session should contact the instructor to request an alternate assessment activity. Students in a class are prohibited from recording of any kind unless authorization is obtained from the instructor."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#use-of-generative-ai",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#use-of-generative-ai",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Use of Generative AI",
+    "text": "Use of Generative AI\nGenerative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. This policy governs all such tools, including those released during our semester together. You could use generative AI tools on assignments in this course. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, and include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#students-with-disabilities-or-learning-needs",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#students-with-disabilities-or-learning-needs",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Students with Disabilities or Learning Needs",
+    "text": "Students with Disabilities or Learning Needs\nIt is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at cmacmasters@virginia.edu to schedule an appointment. For general questions please visit the SDAC website. If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#religious-accommodations",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#religious-accommodations",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Religious Accommodations",
+    "text": "Religious Accommodations\nIt is the University’s long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.\nStudents who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at uvaeocr@virginia.edu or 434-924-3200."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#harassment-discrimination-and-interpersonal-violence",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#harassment-discrimination-and-interpersonal-violence",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Harassment, Discrimination, and Interpersonal Violence",
+    "text": "Harassment, Discrimination, and Interpersonal Violence\nThe University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the UVA Sexual Violence website that describes reporting options and resources available.\nThe same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation. UVA prohibits discrimination and harassment based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. UVA policy also prohibits retaliation for reporting such behavior.\nIf you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to Just Report It (justreportit.virginia.edu) or contact EOCR (uvaeocr@virginia.edu), the office of Equal Opportunity and Civil Rights.\nIf you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services (“CAPS”) and Women’s Center Counseling Staff and Confidential Advocates (for students of all genders).\nAs your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University’s Title IX Coordinator. The Title IX Coordinator’s job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#support-for-your-career-development",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#support-for-your-career-development",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Support for Your Career Development",
+    "text": "Support for Your Career Development\nEngaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations."
+  },
+  {
+    "objectID": "courses/uva-csece4501-wiot/spring2026.html#student-support-team",
+    "href": "courses/uva-csece4501-wiot/spring2026.html#student-support-team",
+    "title": "CS4501: Wireless for the Internet of Things (Spring 2026)",
+    "section": "Student support team",
+    "text": "Student support team\nYou have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help!\nLearning\n\nLisa Lampe (ll4uu@virginia.edu), Assistant Dean for Undergraduate Affairs\nGeorgina Nembhard (gnembhard@virginia.edu), Director of Student Success\nCourtney MacMasters (cmacmasters@virginia.edu), Accessibility Specialist\n\nFree tutoring is available for most classes.\nHealth and Wellbeing\n\nKelly Garrett (mwu5gs@virginia.edu), Assistant Dean of Students, Student Safety and Support\n\nElizabeth Ramirez-Weaver (er2tn@virginia.edu), CAPS counselor*\nKatie Fowler (rfk2xj@virginia.edu), CAPS counselor*\n\n*You may schedule time with the CAPS counselors through Student Health. When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.\nCommunity and Identity\nThe Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world. The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "Invitation to Serve INFOCOM 2027 TPC\n\n\nI will serve as an TPC member for INFOCOM’27 (abstract due: 7/24/2026). Please consider submitting.\n\n\n\n\n\nApr, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nNew Publication in MobiSys 2026\n\n\nOur recent work, BeamFormer, uses transformers to generate unseen beam measurements, thereby slashing the scanning beams for 6G gMIMO.\n\n\n\n\n\nApr, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nInvitation to Serve IMWUT Editorial Board\n\n\nI will serve as an Associate Editor for IMWUT since the May round. Please consider submitting.\n\n\n\n\n\nApr, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nInvitation to Serve MobiHoc 2026 TPC\n\n\nI will serve as an TPC member for MobiHoc’26 (abstract due: 4/13/2026). Please consider submitting.\n\n\n\n\n\nDec, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nInvitation to Serve INFOCOM 2026 TPC\n\n\nI will serve as an TPC member for INFOCOM’26 (abstract due: 7/24/2025). Please consider submitting.\n\n\n\n\n\nMay, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNew Publication in MobiSys 2025\n\n\nOur recent work, SCR, allows mmWave FMCW radars to detect spoofing attacks and backscatter communication while retaining sensing capabilities.\n\n\n\n\n\nApr, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRFScape Accepted in CVPR 2025\n\n\nCongrats to Xingyu!\n\n\n\n\n\nFeb, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nNew Grant from CCI CVN\n\n\nOur research on radar backscatters was funded by the Commonwealth Cyber Initiative (CCI) Central Virginia Node (CVN).\n\n\n\n\n\nJan, 2025\n\n\n\n\n\n\n\n\n\n\n\n\nRFCanvas Accepted in SenSys 2024\n\n\nCongrats to Xingyu!\n\n\n\n\n\nSep, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nNew Grant from CCI CVN\n\n\nOur research on generative AI for 6G was funded by NSF.\n\n\n\n\n\nAug, 2024\n\n\n\n\n\n\n\n\n\n\n\n\nBest Paper Award at SenSys 2023\n\n\nNeuroRadar won the Best Paper Award in SenSys 2023. Congrats to Kai!\n\n\n\n\n\nNov, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nKeyStub Accepted in IMWUT\n\n\nCongrats to John!\n\n\n\n\n\nNov, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nNeuroRadar and Metasight Accepted in SenSys 2023\n\n\nCongrats to Kai and Tim!\n\n\n\n\n\nSep, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nSLNet Accepted in NSDI 2023\n\n\n\n\n\n\n\nMar, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nUniScatter Accepted in MobiCom 2023\n\n\n\n\n\n\n\nJan, 2023\n\n\n\n\n\n\n\n\n\n\n\n\nMilliMirror Accepted in MobiCom 2022\n\n\n\n\n\n\n\nJan, 2022\n\n\n\n\n\n\n\n\n\n\n\n\nWidar3.0 (Journal) Accepted in TPAMI\n\n\nCongrats to Yi and Yue!\n\n\n\n\n\nAug, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nRoS Accepted in SIGCOMM 2021\n\n\n\n\n\n\n\nMay, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nMVDNet Accepted in CVPR 2021\n\n\n\n\n\n\n\nFeb, 2021\n\n\n\n\n\n\n\n\n\n\n\n\nMilliPoint Accepted in IMWUT\n\n\n\n\n\n\n\nNov, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nBest Paper Award at MobiCom 2020\n\n\nM-Cube won the Best Paper Award in MobiCom 2020. Congrats to Renjie!\n\n\n\n\n\nSep, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nAIRCODE Accepted in NSDI 2021\n\n\n\n\n\n\n\nAug, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nFlowFlexDP (Journal) Accepted in TMC\n\n\n\n\n\n\n\nJun, 2020\n\n\n\n\n\n\n\n\n\n\n\n\nM-Cube Accepted in MobiCom 2020\n\n\n\n\n\n\n\nJan, 2020\n\n\n\n\n\n\n\n\n\n\n\n\niVR Accepted in IMWUT\n\n\nCongrats to Jing’ao!\n\n\n\n\n\nAug, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nWidar3.0 Accepted in MobiSys 2019\n\n\nCongrats to Yi and Yue!\n\n\n\n\n\nApr, 2019\n\n\n\n\n\n\n\n\n\n\n\n\nBest In-Session Presentation Award at INFOCOM 2018\n\n\nACG won the Best In-Session Presentation Award at INFOCOM 2018.\n\n\n\n\n\nMay, 2018\n\n\n\n\n\n\n\n\n\n\n\n\nWidar2.0 Accepted in MobiSys 2018\n\n\n\n\n\n\n\nApr, 2018\n\n\n\n\n\n\n\n\n\n\n\n\nFlowFlexDP Accepted in Secon 2018\n\n\nCongrats to Jing!\n\n\n\n\n\nMar, 2018\n\n\n\n\n\n\n\n\n\n\n\n\nD-MUSIC (Journal) Accepted in TMC\n\n\n\n\n\n\n\nNov, 2017\n\n\n\n\n\n\n\n\n\n\n\n\nACG Accepted in INFOCOM 2018\n\n\n\n\n\n\n\nNov, 2017\n\n\n\n\n\n\n\n\n\n\n\n\nPADS (Journal) Accepted in TECS\n\n\n\n\n\n\n\nOct, 2017\n\n\n\n\n\n\n\n\n\n\n\n\nHonorable Mention Award at CHI 2017\n\n\nWiDance won the Honorable Mention Award at CHI 2017.\n\n\n\n\n\nMay, 2017\n\n\n\n\n\n\n\n\n\n\n\n\nWiDar Accepted in MobiHoc 2017\n\n\n\n\n\n\n\nApr, 2017\n\n\n\n\n\n\n\n\n\n\n\n\nWiDance Accepted in CHI 2017\n\n\n\n\n\n\n\nJan, 2017\n\n\n\n\n\n\n\n\n\n\n\n\nD-MUSIC Accepted in INFOCOM 2016\n\n\n\n\n\n\n\nNov, 2015\n\n\n\n\n\n\n\n\n\n\n\n\nPhaseU Accepted in INFOCOM 2015\n\n\n\n\n\n\n\nNov, 2014\n\n\n\n\n\n\n\n\n\n\n\n\nBest Paper Candidate at ICPADS 2014\n\n\nPADS was selected to be presented in the Best Paper Award Presentation session.\n\n\n\n\n\nSep, 2014\n\n\n\n\n\n\n\n\n\n\n\n\nPADS Accepted in ICPADS 2014\n\n\n\n\n\n\n\nSep, 2014\n\n\n\n\n\nNo matching items\n Back to top"
+  },
+  {
+    "objectID": "service.html",
+    "href": "service.html",
+    "title": "Professional Service",
+    "section": "",
+    "text": "Journal\n\n\n\nStarting Date\n\n\n\nRole\n\n\n\n\n\n\n\n\nIMWUT\n\n\nMay, 2026\n\n\nAssociate Editor\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "service.html#editorial-board",
+    "href": "service.html#editorial-board",
+    "title": "Professional Service",
+    "section": "",
+    "text": "Journal\n\n\n\nStarting Date\n\n\n\nRole\n\n\n\n\n\n\n\n\nIMWUT\n\n\nMay, 2026\n\n\nAssociate Editor\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "service.html#technical-program-committee-tpc",
+    "href": "service.html#technical-program-committee-tpc",
+    "title": "Professional Service",
+    "section": "Technical Program Committee (TPC)",
+    "text": "Technical Program Committee (TPC)\n\n\n\n\n\n\nConference\n\n\n\nConference Date\n\n\n\nRole\n\n\n\n\n\n\n\n\nINFOCOM 2027\n\n\nMay, 2027\n\n\nTPC Member\n\n\n\n\n\n\nMobiHoc 2026\n\n\nNov, 2026\n\n\nTPC Member\n\n\n\n\n\n\nINFOCOM 2026\n\n\nMay, 2026\n\n\nTPC Member\n\n\n\n\n\n\nMobiSys 2025\n\n\nJun, 2025\n\n\nTPC Member\n\n\n\n\n\n\nINFOCOM 2025\n\n\nMay, 2025\n\n\nTPC Member\n\n\n\n\n\n\nRFCom 2024\n\n\nNov, 2024\n\n\nTPC Member\n\n\n\n\n\n\nINFOCOM 2024\n\n\nAug, 2024\n\n\nTrack Chair\n\n\n\n\n\n\nCoNEXT 2023\n\n\nDec, 2023\n\n\nTPC Member\n\n\n\n\n\n\nMSN 2021\n\n\nDec, 2021\n\n\nTPC Member\n\n\n\n\n\n\nICPADS 2019\n\n\nDec, 2019\n\n\nTPC Member\n\n\n\n\n\n\nS3 2019\n\n\nOct, 2019\n\n\nTPC Member\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "wink.html",
+    "href": "wink.html",
+    "title": "WINK Lab",
+    "section": "",
+    "text": "The Wireless Intelligence for Networks and Knowledge (WINK) Lab, founded by Prof. Kun Qian at the Department of Computer Science, University of Virginia, aims to develop wireless technologies that enable ambient intelligence and ubiquitous connectivity with ensured interpretability, reliability, and security. Our current research focuses on the following areas:"
+  },
+  {
+    "objectID": "wink.html#team-members",
+    "href": "wink.html#team-members",
+    "title": "WINK Lab",
+    "section": "Team Members",
+    "text": "Team Members\n\nPh.D. Students\n\n\n\n\n\n\n\n\n\n\nJianyu Luo\n\n\nComputer Engineering\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMohan Zhao\n\n\nComputer Engineering\n\n\n\nJan, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nShunqiang Feng\n\n\nComputer Science\n\n\n\nJan, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Students\n\n\n\n\n\n\n\n\n\n\nNinglan Lei\n\n\nComputer Science\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nZaid Z Contractor\n\n\nComputer Science\n\n\n\nAug, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\nAlumni\nWINK Lab is young and has no alumni yet."
+  },
+  {
+    "objectID": "wink.html#lab-equipment",
+    "href": "wink.html#lab-equipment",
+    "title": "WINK Lab",
+    "section": "Lab Equipment",
+    "text": "Lab Equipment\nWINK Lab possesses a variety of wireless communication and sensing equipment. We are open to collaborations and welcome visitors to our lab. If you are interested in our research or have any questions, please feel free to contact Prof. Kun Qian."
+  },
+  {
+    "objectID": "wink.html#lab-members",
+    "href": "wink.html#lab-members",
+    "title": "WINK Lab",
+    "section": "Lab Members",
+    "text": "Lab Members\n\nPh.D. Students\n\n\n\n\n\n\n\n\n\n\nJianyu Luo\n\n\nComputer Engineering\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nMohan Zhao\n\n\nComputer Engineering\n\n\n\nJan, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nShunqiang Feng\n\n\nComputer Science\n\n\n\nJan, 2025\n\n\n\n\n\n\nNo matching items\n\n\n\n\nUndergraduate Students\n\n\n\n\n\n\n\n\n\n\nNinglan Lei\n\n\nComputer Science\n\n\n\nAug, 2025\n\n\n\n\n\n\n\n\n\n\n\n\n\nZaid Z Contractor\n\n\nComputer Science\n\n\n\nAug, 2024\n\n\n\n\n\n\nNo matching items\n\n\n\nAlumni\nWINK Lab is young and has no alumni yet."
+  }
+]

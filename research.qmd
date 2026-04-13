@@ -1,0 +1,33 @@
+---
+title: "Research"
+listing:
+    - id: publications
+      contents: 
+        - publications/*.yml
+      type: custom
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      template: publications.ejs
+    - id: grants
+      contents: 
+        - grants/*.yml
+      type: custom
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      template: grants.ejs
+page-navigation: false
+title-block-banner: false
+css: research.css
+---
+
+## Selected Publications
+::: {#publications}
+:::
+
+## Grants
+::: {#grants}
+:::

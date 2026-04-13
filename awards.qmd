@@ -1,0 +1,23 @@
+---
+title: "Awards"
+listing:
+    - id: awards
+      contents:
+        - awards/*.yml
+      type: table
+      fields: [date, subtitle, title, description]
+      field-display-names:
+        title: "Award"
+        date: "Date"
+        subtitle: "Event"
+        description: "Note"
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+date-format: "MMM, YYYY"
+page-navigation: false
+title-block-banner: false
+---

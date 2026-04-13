@@ -1,0 +1,54 @@
+- path: "https://conferences.ieee.org/conferences_events/conferences/conferencedetails/67597"
+  title: "INFOCOM 2027"
+  subtitle: "TPC Member"
+  date: "2027-5"
+
+- path: "https://www.sigmobile.org/mobihoc/2026/"
+  title: "MobiHoc 2026"
+  subtitle: "TPC Member"
+  date: "2026-11"
+
+- path: "https://infocom2026.ieee-infocom.org/"
+  title: "INFOCOM 2026"
+  subtitle: "TPC Member"
+  date: "2026-5"
+
+- path: "https://www.sigmobile.org/mobisys/2025/"
+  title: "MobiSys 2025"
+  subtitle: "TPC Member"
+  date: "2025-6"
+
+- path: "https://infocom2025.ieee-infocom.org/"
+  title: "INFOCOM 2025"
+  subtitle: "TPC Member"
+  date: "2025-5"
+
+- path: "../service.qmd"
+  title: "INFOCOM 2024"
+  subtitle: "Track Chair"
+  date: "2024-8"
+
+- path: "https://xkx-youcha.github.io/RFCom2024/"
+  title: "RFCom 2024"
+  subtitle: "TPC Member"
+  date: "2024-11"
+
+- path: "https://conferences.sigcomm.org/co-next/2023/"
+  title: "CoNEXT 2023"
+  subtitle: "TPC Member"
+  date: "2023-12"
+
+- path: "https://ieee-msn.org/2021/"
+  title: "MSN 2021"
+  subtitle: "TPC Member"
+  date: "2021-12"
+
+- path: "../service.qmd"
+  title: "ICPADS 2019"
+  subtitle: "TPC Member"
+  date: "2019-12"
+
+- path: "../service.qmd"
+  title: "S3 2019"
+  subtitle: "TPC Member"
+  date: "2019-10"

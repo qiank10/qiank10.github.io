@@ -1,0 +1,27 @@
+```{=html}
+<div class="list publication-list">
+<% for (const item of items) { %>
+    <% const has_pdf = !!(item.url_pdf && item.url_pdf !== "") %>
+    <% const has_code = !!(item.url_code && item.url_code !== "") %>
+    <% const has_slides = !!(item.url_slides && item.url_slides !== "") %>
+    <div class="publication-item" <%= metadataAttrs(item) %>>
+        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i>&ensp;<a href="<%= item.path %>"><%= item.title %></a></p>
+        <p class="publication-metadata"><%= item.authors %></p>
+        <p class="publication-metadata"><i><%= item.publication %></i></p>
+        <% if (has_pdf || has_code || has_slides) { %>
+            <p class="publication-links">
+                <% if (has_pdf) { %>
+                    <a href="<%= item.url_pdf %>" class="publication-btn" target="_blank" rel="noopener"><i class="bi bi-file-earmark-pdf"></i> PDF</a> 
+                <% } %>
+                <% if (has_code) { %>
+                    <a href="<%= item.url_code %>" class="publication-btn" target="_blank" rel="noopener"><i class="bi bi-code-square"></i> Code</a> 
+                <% } %>
+                <% if (has_slides) { %>
+                    <a href="<%= item.url_slides %>" class="publication-btn" target="_blank" rel="noopener"><i class="bi bi-file-earmark-slides"></i> Slides</a> 
+                <% } %>
+            </p>
+        <% } %>
+    </div>
+<% } %>
+</div>
+```

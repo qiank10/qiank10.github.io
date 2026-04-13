@@ -1,0 +1,88 @@
+---
+title: "WINK Lab"
+subtitle: "Wireless Intelligence for Networks and Knowledge"
+image: "files/icon/icon_wink.png"
+
+about:
+    id: lab-info
+    template: jolla
+    image-width: 10em
+    image-shape: rectangle
+listing:
+    - id: phd
+      contents:
+        - people/phd.yml
+      type: grid
+      grid-columns: 4
+      fields: [title, description, date, image]
+      max-description-length: 200
+      sort: 
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+    - id: undergrad
+      contents:
+        - people/undergrad.yml
+      type: grid
+      grid-columns: 4
+      fields: [title, description, date, image]
+      max-description-length: 200
+      sort: 
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: false
+    - id: equipment
+      contents:
+        - equipment/*.yml
+      type: grid
+      grid-columns: 3
+      fields: [title, description, image, categories]
+      max-description-length: 200
+      sort: 
+        - "date desc"
+      page-size: 100
+      categories: false
+      sort-ui: false
+      filter-ui: true
+date-format: "MMM, YYYY"
+resources: 
+    - "people/images/*"
+    - "equipment/images/*"
+page-layout: full
+toc: true
+page-navigation: false
+title-block-banner: false
+---
+
+:::{#lab-info}
+:::
+
+The **Wireless Intelligence for Networks and Knowledge (WINK) Lab**, founded by Prof. Kun Qian at the Department of Computer Science, University of Virginia, aims to develop wireless technologies that enable ambient intelligence and ubiquitous connectivity with ensured interpretability, reliability, and security. Our current research focuses on the following areas:
+
+- AI for wireless sensing and communication, e.g., generative models
+- Wireless IoT/mobile system and hardware, e.g., backscatter and RIS
+- Applications of wireless sensing, e.g., health, transportation, environment
+
+## Lab Members
+
+### Ph.D. Students
+:::{#phd}
+:::
+
+<!-- ### Master's Students -->
+
+### Undergraduate Students
+:::{#undergrad}
+:::
+
+### Alumni
+
+WINK Lab is young and has no alumni yet.
+
+## Lab Equipment
+
+WINK Lab possesses a variety of wireless communication and sensing equipment. We are open to collaborations and welcome visitors to our lab. If you are interested in our research or have any questions, please feel free to contact [Prof. Kun Qian](mailto:kqian@virginia.edu).

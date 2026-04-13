@@ -1,0 +1,15 @@
+/* css styles */
+
+/* Center the navbar */
+.navbar-nav {
+  flex: 1;
+  justify-content: center;
+}
+
+.navbar-brand {
+  margin-right: auto;
+}
+
+#service .quarto-listing-table thead {
+  display: none;
+}

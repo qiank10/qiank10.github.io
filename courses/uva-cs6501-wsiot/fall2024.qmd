@@ -1,0 +1,158 @@
+---
+title: "CS6501: Wireless Sensor Networks and Internet of Things (Fall 2024)"
+date: "2024-8-1"
+image: teaser.png
+categories: ["graduate"]
+---
+
+## Course Information
+
+- Instructor: [Kun Qian](kunqian.info)
+- TA: [Md. Khairul Islam](https://sites.google.com/view/khairul-islam/home)
+- Lecture time: 11:00am-12:15pm MoWe
+- Location: Rice 032
+- Office hours:
+  - Mo 4:00-5:00pm
+  - We 4:00-5:00pm
+  - By appointment
+
+## Course Description
+
+Wireless sensing technologies repurpose wireless signals for sensing physical environment and gaining situational awareness. Formed by pervasive wirelessly connected devices, the Internet of Things can be turned into a universal sensor network with wireless sensing, enabling the vision of ambient intelligence. This course covers the wireless sensing basics (e.g., radar, Wi-Fi) and cutting-edge applications (e.g., motion tracking, activity recognition, environmental sensing). The evaluation will be based on the homework assignments, mid-term exam, and course project.
+
+## Prerequisites
+
+No formal prerequisites, but prior knowledge in programming, computer networks (e.g., equivalence of CS 4457) and machine learning are highly recommended.
+
+## Course Schedule
+
+The schedule is subject to change.
+
+| Dates | Topic | Notes |
+|:---:|:---:|:---:|
+| Tue 08/27 | Semester begin |  |  |
+| Wed 08/28 | Intro |  |
+|  | **Radar** |  |
+| Mon 09/02 | Radar equation |  |
+| Wed 09/04 | RF simulation lab |  |
+| Mon 09/09 | Radar signal processing |  |
+| Wed 09/11 | Array signal processing |  |
+| Mon 09/16 | Radar lab |  |
+|  | **Wi-Fi** |  |
+| Wed 09/18 | OFDM |  |
+| Mon 09/23 | Synchronization | HW1 due |
+| Wed 09/25 | MIMO | HW2 due |
+| Mon 09/30 | CSI | HW3 due |
+| Wed 10/02 | Wi-Fi Lab |  |
+|  | **Other Sensors** |  |
+| Mon 10/07 | CmWave |  |
+| Wed 10/09 | MmWave | HW4 due |
+| Mon 10/14 | No class (Fall break) |  |
+| Wed 10/16 | Metasurface | HW5 due |
+| Mon 10/21 | Demo/Review | Project team/proposal due |
+| Wed 10/23 | Midterm exam |  |
+|  | **Applications** |  |
+| Mon 10/28 | Indoor localization |  |
+| Wed 10/30 | Motion tracking |  |
+| Mon 11/04 | Activity recognition |  |
+| Wed 11/06 | Activity recognition (cont.) |  |
+| Mon 11/11 | Vehicular sensing |  |
+| Wed 11/13 | Sensing-assisted comm |  |
+| Mon 11/18 | Sensing security |  |
+| Wed 11/20 | Project work time |  |
+| Mon 11/25 | TA Lecture |  |
+| Wed 11/27 | No class (Thanksgiving) |  |
+| Mon 12/02 | Project work time |  |
+| Wed 12/06 | Project presentation |  |
+| Tue 12/17 | Semester end | Project report due |
+
+## Grading
+
+- Homework: 25% 
+  - 5 assignments, 5% each
+- Exam: 30%
+- Project: 45%
+  - Proposal: 5%
+  - Presentation: 10%
+  - Report: 30%
+
+**Late Policy**
+
+All assignments are due via Canvas at 11:59pm on the due date.
+
+- Grace period: 12 hours (intended to cover real issues, e.g., internet issues, server down)
+- 10% penalty per day late
+
+## Attendance & Absences
+
+Attendance is required for this course. Considering any unexpected situations through the whole semester, your first three absences (for whatever reason) will not affect your grade. After three absences, every additional absence (no matter the reason for the absence) will reduce your overall participation grade by one full letter grade.
+
+## Communication and Logistics
+
+There is no textbook for the course that you need to purchase. We will distribute materials as needed.
+
+There are several sites for the course that you can utilize:
+
+- Canvas: Announcements, assignment submissions, course materials and recordings, Zoom links
+- Piazza: Long-form questions, notes, private messages for faculty/TA, regrade request
+- Zoom: Online office hours and meetings, quick chat, off-topic discussion
+
+Please direct all course-related questions to Canvas or Piazza (or go to office hours). If you want to discuss other topics or have personal/team issues that can and should only be handled by a professor, please email me directly (xts4uh).
+
+## Honor/Academic Integrity Policy
+
+The School of Engineering and Applied Science relies upon and cherishes its community of trust. We firmly endorse, uphold, and embrace the University’s Honor principle that students will not lie, cheat, or steal, and we expect all students to take responsibility for the System and the privileges that it provides. We recognize that even one Honor infraction can destroy an exemplary reputation that has taken years to build. Acting in a manner consistent with the principles of Honor will benefit every member of the community both while enrolled in the Engineering School and in the future.
+
+If you have questions about your Honor System or would like to report suspicions of an Honor offense, please contact the honor system representatives.
+
+For this course, homework, quizzes, and exams must be done individually. Studying in groups is encouraged. Course project is done in teams of three and are highly collaborative. Each team must write and submit their own code and reports. Consulting with the internet or other written resources is acceptable and encouraged.
+
+## Use of Generative AI
+
+Generative artificial intelligence tools—software that creates new text, images, computer code, audio, video, and other content—have become widely available. Well-known examples include ChatGPT for text and DALL•E for images. This policy governs all such tools, including those released during our semester together. You may use generative AI tools on assignments in this course when I explicitly permit you to do so. Otherwise, you should refrain from using such tools. If you do use generative AI tools on assignments in this class, you must properly document and credit the tools themselves. Cite the tool you used, following the pattern for computer software given in the specified style guide. Additionally, please include a brief description of how you used the tool. If you choose to use generative AI tools, please remember that they are typically trained on limited datasets that may be out of date. Additionally, generative AI datasets are trained on pre-existing material, including copyrighted material; therefore, relying on a generative AI tool may result in plagiarism or copyright violations. Finally, keep in mind that the goal of generative AI tools is to produce content that seems to have been produced by a human, not to produce accurate or reliable content; therefore, relying on a generative AI tool may result in your submission of inaccurate content. It is your responsibility—not the tool’s—to assure the quality, integrity, and accuracy of work you submit in any college course. Please act with integrity, for the sake of both your personal character and your academic record.
+
+## Students with Disabilities or Learning Needs
+
+It is my goal to create a learning experience that is as accessible as possible. If you anticipate any issues related to the format, materials, or requirements of this course, please meet with me outside of class so we can explore potential options. Students with disabilities may also wish to work with the Student Disability Access Center (SDAC) to discuss a range of options to removing barriers in this course, including official accommodations. We are fortunate to have an SDAC advisor, Courtney MacMasters, physically located in Engineering. You may email her at [cmacmasters\@virginia.edu](mailto:cmacmasters@virginia.edu) to schedule an appointment. For general questions please visit the [SDAC website](https://sdac.studenthealth.virginia.edu). If you have already been approved for accommodations through SDAC, please send me your accommodation letter and meet with me so we can develop an implementation plan together.
+
+## Religious Accommodations
+It is the University's long-standing policy and practice to reasonably accommodate students so that they do not experience an adverse academic consequence when sincerely held religious beliefs or observances conflict with academic requirements.
+
+Students who wish to request academic accommodation for a religious observance should submit their request to me by email as far in advance as possible. Students who have questions or concerns about academic accommodations for religious observance or religious beliefs may contact the University’s Office for Equal Opportunity and Civil Rights (EOCR) at [uvaeocr\@virginia.edu](mailto:uvaeocr@virginia.edu) or 434-924-3200.
+
+## Harassment, Discrimination, and Interpersonal Violence
+The University of Virginia is dedicated to providing a safe and equitable learning environment for all students. If you or someone you know has been affected by power-based personal violence, more information can be found on the [UVA Sexual Violence website](https://www.virginia.edu/sexualviolence) that describes reporting options and resources available.
+
+The same resources and options for individuals who experience sexual misconduct are available for discrimination, harassment, and retaliation.  [UVA prohibits discrimination and harassment](https://uvapolicy.virginia.edu/policy/HRM-009) based on age, color, disability, family medical or genetic information, gender identity or expression, marital status, military status, national or ethnic origin, political affiliation, pregnancy (including childbirth and related conditions), race, religion, sex, sexual orientation, or veteran status. [UVA policy](https://uvapolicy.virginia.edu/policy/HRM-010) also prohibits retaliation for reporting such behavior.
+
+If you witness or are aware of someone who has experienced prohibited conduct, you are encouraged to submit a report to [Just Report It](https://justreportit.virginia.edu) (justreportit.virginia.edu) or contact EOCR ([uvaeocr\@virginia.edu](mailto:uvaeocr@virginia.edu)), the office of Equal Opportunity and Civil Rights.
+
+If you would prefer to disclose such conduct to a confidential resource where what you share is not reported to the University, you can turn to Counseling & Psychological Services ("CAPS") and [Women’s Center Counseling Staff and Confidential Advocates](https://womenscenter.virginia.edu/counseling/our-counseling-services) (for students of all genders).
+
+As your professor and as a person, know that I care about you and your well-being and stand ready to provide support and resources as I can. As a faculty member, I am a responsible employee, which means that I am required by University policy and by federal law to report certain kinds of conduct that you report to me to the University's Title IX Coordinator. The Title IX Coordinator's job is to ensure that the reporting student receives the resources and support that they need, while also determining whether further action is necessary to ensure survivor safety and the safety of the University community.
+
+## Support for Your Career Development
+Engaging in your career development is an important part of your student experience. For example, presenting at a research conference, attending an interview for a job or internship, or participating in an extern/shadowing experience are not only necessary steps on your path but are also invaluable lessons in and of themselves. I wish to encourage and support you in activities related to your career development. To that end, please notify me by email as far in advance as possible to arrange for appropriate accommodations.
+
+## Student support team
+You have many resources available to you when you experience academic or personal stresses. In addition to your professor, the School of Engineering and Applied Science has staff members located in Thornton Hall who you can contact to help manage academic or personal challenges. Please do not wait until the end of the semester to ask for help! 
+
+**Learning**
+
+- Lisa Lampe ([ll4uu\@virginia.edu](mailto:ll4uu@virginia.edu)), Assistant Dean for Undergraduate Affairs
+- Georgina Nembhard ([gnembhard\@virginia.edu](mailto:gnembhard@virginia.edu)), Director of Student Success
+- Courtney MacMasters ([cmacmasters\@virginia.edu](mailto:cmacmasters@virginia.edu)), Accessibility Specialist
+
+[Free tutoring](https://engineering.virginia.edu/current-students/current-undergraduate-students/student-support/tutoring) is available for most classes.
+
+**Health and Wellbeing**
+
+- Kelly Garrett ([mwu5gs\@virginia.edu](mailto:mwu5gs@virginia.edu)), Assistant Dean of Students, Student Safety and Support  
+- Elizabeth Ramirez-Weaver ([er2tn\@virginia.edu](mailto:er2tn@virginia.edu)), CAPS counselor\*
+- Katie Fowler ([rfk2xj\@virginia.edu](mailto:rfk2xj@virginia.edu)), CAPS counselor\*
+
+\*You may schedule time with the CAPS counselors through [Student Health](https://www.studenthealth.virginia.edu/getting-started-caps). When scheduling, be sure to specify that you are an Engineering student. You are also urged to use TimelyCare for either scheduled or on-demand 24/7 mental health care.
+
+**Community and Identity**
+
+The Center for Diversity in Engineering (CDE) is a student space dedicated to advocating for underrepresented groups in STEM. It exists to connect students with the academic, financial, health, and community resources they need to thrive both at UVA and in the world.  The CDE includes an open study area, event space, and staff members on site. Through this space, we affirm and empower equitable participation toward intercultural fluency and provide the resources necessary for students to be successful during their academic journey and future careers.

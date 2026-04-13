@@ -1,0 +1,19 @@
+---
+title: Teaching
+listing:
+    - id: courses
+      contents:
+        - courses/uva-cs6501-wsiot/*.qmd
+        - courses/uva-csece4501-wiot/*.qmd
+      type: default
+      fields: [image, date, title]
+      sort:
+        - "date desc"
+      page-size: 100
+      categories: true
+      sort-ui: true
+      filter-ui: true
+date-format: "MMM, YYYY"
+page-navigation: false
+title-block-banner: false
+---
