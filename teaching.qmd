@@ -14,7 +14,7 @@ listing:
       categories: true
       sort-ui: true
       filter-ui: true
-date-format: "MMM, YYYY"
+# date-format: "MMM, YYYY"
 page-navigation: false
 title-block-banner: false
 ---

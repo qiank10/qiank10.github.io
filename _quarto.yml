@@ -42,6 +42,7 @@ format:
       - cosmo
     css: styles.css
     toc: true
-
+    date-format: "MMM, YYYY"
+    
 language: 
   search-text-placeholder: Search

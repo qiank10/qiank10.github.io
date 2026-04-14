@@ -13,7 +13,7 @@ listing:
       categories: true
       sort-ui: false
       filter-ui: true
-date-format: "MMM, YYYY"
+# date-format: "MMM, YYYY"
 resources: "news/images/*"
 page-navigation: false
 title-block-banner: false

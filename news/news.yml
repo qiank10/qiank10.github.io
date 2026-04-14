@@ -64,8 +64,8 @@
 
 - path: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2403124"
   image: news/images/nsf.png
-  title: "New Grant from CCI CVN"
-  description: "Our research on generative AI for 6G was funded by NSF."
+  title: "New Grant from NSF"
+  description: "Our research on generative AI for 6G was funded by National Science Foundation (NSF)."
   date: "2024-8"
   categories: ["grant"]
 

@@ -48,7 +48,7 @@ listing:
       categories: false
       sort-ui: false
       filter-ui: true
-date-format: "MMM, YYYY"
+# date-format: "MMM, YYYY"
 resources: 
     - "people/images/*"
     - "equipment/images/*"

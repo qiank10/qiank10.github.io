@@ -19,7 +19,7 @@ listing:
       sort:
         - "date desc"
         - "title desc"
-date-format: "MMM, YYYY"
+# date-format: "MMM, YYYY"
 page-layout: full
 toc: false
 page-navigation: false

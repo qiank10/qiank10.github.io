@@ -1,6 +1,7 @@
 ---
 title: "CS4501: Wireless for the Internet of Things (Spring 2025)"
 date: "2025-5-1"
+# date-format: "MMM, YYYY"
 ---
 
 ## Course Information

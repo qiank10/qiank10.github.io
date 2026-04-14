@@ -3,6 +3,7 @@ title: "CS4501: Wireless for the Internet of Things (Spring 2025)"
 date: "2025-1-1"
 image: teaser.png
 categories: ["undergraduate"]
+# date-format: "MMM, YYYY"
 ---
 
 Please check out our students' [course projects](../uva-csece4501-wiot-course-projects/spring2025.qmd)!
