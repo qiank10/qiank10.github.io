@@ -3,35 +3,35 @@
   title: "Invitation to Serve INFOCOM 2027 TPC"
   description: "I will serve as an TPC member for INFOCOM'27 (abstract due: 7/24/2026). Please consider submitting."
   date: "2026-4"
-  categories: ["service"]
+  categories: ["Service"]
   
 - path: ../news.qmd
   image: news/images/mobisys26.png
   title: "New Publication in MobiSys 2026"
   description: "Our recent work, BeamFormer, uses transformers to generate unseen beam measurements, thereby slashing the scanning beams for 6G gMIMO."
   date: "2026-4"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "https://dl.acm.org/journal/imwut"
   image: news/images/imwut.png
   title: "Invitation to Serve IMWUT Editorial Board"
   description: "I will serve as an Associate Editor for IMWUT since the May round. Please consider submitting."
   date: "2026-4"
-  categories: ["service"]
+  categories: ["Service"]
 
 - path: "https://www.sigmobile.org/mobihoc/2026/"
   image: news/images/mobihoc26.png
   title: "Invitation to Serve MobiHoc 2026 TPC"
   description: "I will serve as an TPC member for MobiHoc'26 (abstract due: 4/13/2026). Please consider submitting."
   date: "2025-12"
-  categories: ["service"]
+  categories: ["Service"]
 
 - path: "https://infocom2026.ieee-infocom.org/"
   image: news/images/infocom26.png
   title: "Invitation to Serve INFOCOM 2026 TPC"
   description: "I will serve as an TPC member for INFOCOM'26 (abstract due: 7/24/2025). Please consider submitting."
   date: "2025-5"
-  categories: ["service"]
+  categories: ["Service"]
 
 
 - path: "https://dl.acm.org/doi/10.1145/3711875.3729155"
@@ -39,235 +39,235 @@
   title: "New Publication in MobiSys 2025"
   description: "Our recent work, SCR, allows mmWave FMCW radars to detect spoofing attacks and backscatter communication while retaining sensing capabilities."
   date: "2025-4"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html"
   image: news/images/cvpr25.png
   title: "RFScape Accepted in CVPR 2025"
   description: "Congrats to Xingyu!"
   date: "2025-2"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/cci_cvn.png
   title: "New Grant from CCI CVN"
   description: "Our research on radar backscatters was funded by the Commonwealth Cyber Initiative (CCI) Central Virginia Node (CVN)."
   date: "2025-1"
-  categories: ["grant"]
+  categories: ["Grant"]
 
 - path: "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html"
   image: news/images/sensys24.png
   title: "RFCanvas Accepted in SenSys 2024"
   description: "Congrats to Xingyu!"
   date: "2024-9"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2403124"
   image: news/images/nsf.png
   title: "New Grant from NSF"
   description: "Our research on generative AI for 6G was funded by National Science Foundation (NSF)."
   date: "2024-8"
-  categories: ["grant"]
+  categories: ["Grant"]
 
 - path: "https://sensys.acm.org/2023/award/"
   image: news/images/sensys23.png
   title: "Best Paper Award at SenSys 2023"
   description: "NeuroRadar won the Best Paper Award in SenSys 2023. Congrats to Kai!"
   date: "2023-11"
-  categories: ["award"]
+  categories: ["Award"]
 
 - path: "https://dl.acm.org/doi/abs/10.1145/3631442"
   image: news/images/imwut.png
   title: "KeyStub Accepted in IMWUT"
   description: "Congrats to John!"
   date: "2023-11"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "https://sensys.acm.org/2023/program/"
   image: news/images/sensys23.png
   title: "NeuroRadar and Metasight Accepted in SenSys 2023"
   description: "Congrats to Kai and Tim!"
   date: "2023-9"
-  categories: ["publication"]
+  categories: ["Publication"]
 
-- path: "../news.qmd"
-  image: news/images/news_default.png
+- path: "https://www.usenix.org/conference/nsdi23"
+  image: news/images/nsdi23.png
   title: "SLNet Accepted in NSDI 2023"
   description: ""
   date: "2023-3"
-  categories: ["publication"]
+  categories: ["Publication"]
 
-- path: "../news.qmd"
-  image: news/images/news_default.png
+- path: "https://sigmobile.org/mobicom/2023/"
+  image: news/images/mobicom23.png
   title: "UniScatter Accepted in MobiCom 2023"
   description: ""
   date: "2023-1"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "MilliMirror Accepted in MobiCom 2022"
   description: ""
   date: "2022-1"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "Widar3.0 (Journal) Accepted in TPAMI"
   description: "Congrats to Yi and Yue!"
   date: "2021-8"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "RoS Accepted in SIGCOMM 2021"
   description: ""
   date: "2021-5"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "MVDNet Accepted in CVPR 2021"
   description: ""
   date: "2021-2"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "MilliPoint Accepted in IMWUT"
   description: ""
   date: "2020-11"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "Best Paper Award at MobiCom 2020"
   description: "M-Cube won the Best Paper Award in MobiCom 2020. Congrats to Renjie!"
   date: "2020-9"
-  categories: ["award"]
+  categories: ["Award"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "AIRCODE Accepted in NSDI 2021"
   description: ""
   date: "2020-8"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "FlowFlexDP (Journal) Accepted in TMC"
   description: ""
   date: "2020-6"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "M-Cube Accepted in MobiCom 2020"
   description: ""
   date: "2020-1"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "iVR Accepted in IMWUT"
   description: "Congrats to Jing'ao!"
   date: "2019-8"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "Widar3.0 Accepted in MobiSys 2019"
   description: "Congrats to Yi and Yue!"
   date: "2019-4"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "Best In-Session Presentation Award at INFOCOM 2018"
   description: "ACG won the Best In-Session Presentation Award at INFOCOM 2018."
   date: "2018-5"
-  categories: ["award"]
+  categories: ["Award"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "Widar2.0 Accepted in MobiSys 2018"
   description: ""
   date: "2018-4"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "FlowFlexDP Accepted in Secon 2018"
   description: "Congrats to Jing!"
   date: "2018-3"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "D-MUSIC (Journal) Accepted in TMC"
   description: ""
   date: "2017-11"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "ACG Accepted in INFOCOM 2018"
   description: ""
   date: "2017-11"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "PADS (Journal) Accepted in TECS"
   description: ""
   date: "2017-10"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "Honorable Mention Award at CHI 2017"
   description: "WiDance won the Honorable Mention Award at CHI 2017."
   date: "2017-5"
-  categories: ["award"]
+  categories: ["Award"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "WiDar Accepted in MobiHoc 2017"
   description: ""
   date: "2017-4"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "WiDance Accepted in CHI 2017"
   description: ""
   date: "2017-1"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "D-MUSIC Accepted in INFOCOM 2016"
   description: ""
   date: "2015-11"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "PhaseU Accepted in INFOCOM 2015"
   description: ""
   date: "2014-11"
-  categories: ["publication"]
+  categories: ["Publication"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "Best Paper Candidate at ICPADS 2014"
   description: "PADS was selected to be presented in the Best Paper Award Presentation session."
   date: "2014-9"
-  categories: ["award"]
+  categories: ["Award"]
 
 - path: "../news.qmd"
   image: news/images/news_default.png
   title: "PADS Accepted in ICPADS 2014"
   description: ""
   date: "2014-9"
-  categories: ["publication"]
+  categories: ["Publication"]

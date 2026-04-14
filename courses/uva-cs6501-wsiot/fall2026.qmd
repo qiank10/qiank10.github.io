@@ -2,7 +2,7 @@
 title: "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)"
 date: "2026-8-1"
 image: teaser.png
-categories: ["graduate"]
+categories: ["Graduate"]
 # date-format: "MMM, YYYY"
 ---
 

@@ -10,6 +10,12 @@
   margin-right: auto;
 }
 
-#service .quarto-listing-table thead {
-  display: none;
+div.quarto-post {
+  margin-top: 0rem;
+  margin-bottom: 1rem;
+}
+
+div.thumbnail {
+  margin-top: 0rem;
+  margin-bottom: 1rem;
 }

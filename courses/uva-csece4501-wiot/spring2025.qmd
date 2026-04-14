@@ -2,7 +2,7 @@
 title: "CS4501: Wireless for the Internet of Things (Spring 2025)"
 date: "2025-1-1"
 image: teaser.png
-categories: ["undergraduate"]
+categories: ["Undergraduate"]
 # date-format: "MMM, YYYY"
 ---
 

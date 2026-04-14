@@ -2,7 +2,7 @@
 title: "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)"
 date: "2026-8-1"
 image: teaser.png
-categories: ["graduate"]
+categories: ["Graduate"]
 # date-format: "MMM, YYYY"
 ---
 
