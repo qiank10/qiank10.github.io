@@ -40,7 +40,6 @@ By the end of the course, you will be able to
 ## Assessments
 
 - **Quizzes**: These in-class quick formative assessments will help students stay accountable to the material and highlight the most important aspects from the last lecture/class. Quiz grading is 50% completion and 50% correctness. The end-of-semester quiz score is calculated out of 50% of total possible points. (approx. 10 quizzes, 10%)
-- **Homework**: Homework will get students familiarize with MATLAB coding, basic signal processing, and WiFi PHY. (2 homework assignment, 10%)
 - **Labs**: Labs will give students hands-on experience on MATLAB coding, signal processing, wireless PHY designing, and developing wireless sensing hardware. Labs will be largely structured and are formative assessments. Students will generate some output, such as a plot or paragraph description for light grading. (5 labs, 40%)
 - **Seminar**: Seminars will drive students to explore the cutting-edge research on various wireless sensing topics. Each student will host at least one seminar session, present pre-selected papers, and lead discussions of the class. (1 leading session and participation in other sessions, 30%)
 - **Final Project**: The final project will have students use wireless sensing hardware to develop their own sensing applications, and measure its performance. (1 project, 20%)
@@ -114,9 +113,9 @@ If you have questions about your Honor System or would like to report suspicions
 Specific directions for this course:
 
 - Quizzes must be done individually.
-- Homeworks must be done individually.
-- For the labs, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.
+- Lab 1-3 must be done individually.
 - Paper presentation must be done individually.
+- For the lab 4 and 5, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.
 - For the course project, each team must write and submit their own code, reports, and analyses. Consulting with the internet or other written resources is acceptable and encouraged.
 
 ## Class Recording
