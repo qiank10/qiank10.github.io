@@ -64,8 +64,8 @@ The schedule is subject to change.
 | Wed 09/02 | Signal Processing |  |
 | Mon 09/07 | [Lab] Signal Processing |  |
 | Wed 09/09 | Wireless Fundamentals |  |
-| Mon 09/14 | WiFi |  |
-| Wed 09/16 | [Lab] WiFi |  |
+| Mon 09/14 | WiFi PHY |  |
+| Wed 09/16 | [Lab] WiFi PHY |  |
 | Mon 09/21 | WiFi CSI |  |
 | Wed 09/23 | [Lab] WiFi Sensing |  |
 | Mon 09/28 | Radar |  |
@@ -74,15 +74,15 @@ The schedule is subject to change.
 | Wed 10/07 | Indoor Localization |  |
 | Mon 10/12 | [Seminar] Indoor Localization |  |
 | Wed 10/14 | Activity Recognition |  |
-| Mon 10/19 | [Seminar] Activity Recognition |  |
-| Wed 10/21 | Environmental Sensing |  |
-| Mon 10/26 | [Seminar] Environmental Sensing |  |
-| Wed 10/28 | Channel Knowledge Map |  |
-| Mon 11/02 | [Seminar] Channel Knowledge Map |  |
-| Wed 11/04 | Egocentric Sensing |  |
-| Mon 11/09 | [Seminar] Egocentric Sensing |  |
-| Wed 11/11 | Backscatter and Metasurface |  |
-| Mon 11/16 | [Seminar] Backscatter and Metasurface |  |
+| Mon 10/19 | [Seminar] Activity Recognition 1 |  |
+| Wed 10/21 | [Seminar] Activity Recognition 2 |  |
+| Mon 10/26 | Environmental Sensing |  |
+| Wed 10/28 | [Seminar] Environmental Sensing |  |
+| Mon 11/02 | Egocentric Sensing |  |
+| Wed 11/04 | [Seminar] Egocentric Sensing |  |
+| Mon 11/09 | Backscatter and Metasurface |  |
+| Wed 11/11 | [Seminar] Backscatter and Metasurface 1 |  |
+| Mon 11/16 | [Seminar] Backscatter and Metasurface 2 |  |
 | Wed 11/18 | Sensing Security |  |
 | Mon 11/23 | [Seminar] Sensing Security |  |
 | Wed 11/25 | No class |  |

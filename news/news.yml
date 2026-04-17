@@ -6,7 +6,7 @@
   categories: ["Service"]
   
 - path: ../news.qmd
-  image: news/images/mobisys26.png
+  image: news/images/mobisys26beamformer.png
   title: "New Publication in MobiSys 2026"
   description: "Our recent work, BeamFormer, uses transformers to generate unseen beam measurements, thereby slashing the scanning beams for 6G gMIMO."
   date: "2026-4"
@@ -35,14 +35,14 @@
 
 
 - path: "https://dl.acm.org/doi/10.1145/3711875.3729155"
-  image: news/images/mobisys25.png
+  image: news/images/mobisys25scr.png
   title: "New Publication in MobiSys 2025"
   description: "Our recent work, SCR, allows mmWave FMCW radars to detect spoofing attacks and backscatter communication while retaining sensing capabilities."
   date: "2025-4"
   categories: ["Publication"]
 
 - path: "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html"
-  image: news/images/cvpr25.png
+  image: news/images/cvpr25rfscape.png
   title: "RFScape Accepted in CVPR 2025"
   description: "Congrats to Xingyu!"
   date: "2025-2"
@@ -56,7 +56,7 @@
   categories: ["Grant"]
 
 - path: "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html"
-  image: news/images/sensys24.png
+  image: news/images/sensys24rfcanvas.png
   title: "RFCanvas Accepted in SenSys 2024"
   description: "Congrats to Xingyu!"
   date: "2024-9"
@@ -70,35 +70,42 @@
   categories: ["Grant"]
 
 - path: "https://sensys.acm.org/2023/award/"
-  image: news/images/sensys23.png
+  image: news/images/sensys23award.png
   title: "Best Paper Award at SenSys 2023"
   description: "NeuroRadar won the Best Paper Award in SenSys 2023. Congrats to Kai!"
   date: "2023-11"
   categories: ["Award"]
 
 - path: "https://dl.acm.org/doi/abs/10.1145/3631442"
-  image: news/images/imwut.png
+  image: news/images/imwut23keystub.png
   title: "KeyStub Accepted in IMWUT"
   description: "Congrats to John!"
   date: "2023-11"
   categories: ["Publication"]
 
 - path: "https://sensys.acm.org/2023/program/"
-  image: news/images/sensys23.png
-  title: "NeuroRadar and Metasight Accepted in SenSys 2023"
-  description: "Congrats to Kai and Tim!"
+  image: news/images/sensys23neuroradar.png
+  title: "NeuroRadar Accepted in SenSys 2023"
+  description: "Congrats to Kai!"
+  date: "2023-9"
+  categories: ["Publication"]
+
+- path: "https://sensys.acm.org/2023/program/"
+  image: news/images/sensys23metasight.png
+  title: "Metasight Accepted in SenSys 2023"
+  description: "Congrats to Tim!"
   date: "2023-9"
   categories: ["Publication"]
 
 - path: "https://www.usenix.org/conference/nsdi23"
-  image: news/images/nsdi23.png
+  image: news/images/news_default.png
   title: "SLNet Accepted in NSDI 2023"
   description: ""
   date: "2023-3"
   categories: ["Publication"]
 
 - path: "https://sigmobile.org/mobicom/2023/"
-  image: news/images/mobicom23.png
+  image: news/images/news_default.png
   title: "UniScatter Accepted in MobiCom 2023"
   description: ""
   date: "2023-1"

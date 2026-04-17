@@ -5,7 +5,7 @@
   date: "2026-04-06"
   categories: ["Conference"]
   url_pdf: ""
-  url_code: ""
+  url_code: "https://github.com/Shunqiang-Feng/BeamFormer"
   url_slides: ""
 
 - path: "https://dl.acm.org/doi/10.1145/3711875.3729155"
@@ -16,7 +16,7 @@
   categories: ["Conference"]
   url_pdf: "https://www.dropbox.com/scl/fi/19m337suohip7r0jzqztw/MobiSys25_SCR_paper.pdf?rlkey=xmp6ykhvocd32vxmjh1ja0q3y&st=ic3ca7cr&dl=0"
   url_code: ""
-  url_slides: ""
+  url_slides: "https://www.dropbox.com/scl/fi/od553q9qtjnyvz2et9ejc/MobiSys25_SCR_slides.pptx?rlkey=bhzwgwbpwq4iinswj1v3pzogr&st=sft67o9y&dl=0"
 
 - path: "https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html"
   title: "Radio Frequency Ray Tracing with Neural Object Representation for Enhanced RF Modeling"
