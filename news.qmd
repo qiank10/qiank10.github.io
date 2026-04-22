@@ -9,6 +9,7 @@ listing:
       max-description-length: 200
       sort: 
         - "date desc"
+        - "title desc"
       page-size: 100
       categories: true
       sort-ui: false
