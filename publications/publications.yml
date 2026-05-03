@@ -1,6 +1,6 @@
 - path: "../research.html#selected-publications"
   title: "BeamFormer: Transformer-based Beam Management for 6G Networks"
-  authors: "<u>Shunqiang Feng</u>, Swastik Kanjilal, <b>Kun Qian</b>, Ish Jain"
+  authors: "<u>Shunqiang Feng</u>, Swastik Kanjilal, <b>Kun Qian</b>, Ish Kumar Jain"
   publication: "ACM MobiSys 2026"
   date: "2026-04-06"
   categories: ["Conference"]
