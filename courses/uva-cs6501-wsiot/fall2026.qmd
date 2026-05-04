@@ -9,6 +9,7 @@ categories: ["Graduate"]
 ## Course Information
 
 - Instructor: [Kun Qian](https://kunqian.info/)
+- TA: TBD
 - Lecture time: 3:30pm-4:45pm MoWe
 - Location: Rice Hall 340
 - Office hours: 

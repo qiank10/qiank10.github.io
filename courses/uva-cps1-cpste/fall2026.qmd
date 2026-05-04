@@ -11,6 +11,8 @@ categories: ["Graduate"]
 - Co-Instructors: 
   - [Rider Foley](https://engineering.virginia.edu/faculty/rider-w-foley)
   - [Kun Qian](https://kunqian.info/)
+- TA:
+  - TBD
 - Lecture time: 12:30pm-1:45pm MoWe
 - Location: Rice Hall 340
 - Office hours: 
@@ -84,34 +86,34 @@ The schedule is subject to change.
 | Tue 08/25 | Courses begin |  |
 | Wed 08/26 | Introduction |  |
 | Mon 08/31 | Thoughtful questions |  |
-| Wed 09/02 | TBD |  |
-| Mon 09/07 | Cloud |  |
-| Wed 09/09 | TBD |  |
-| Mon 09/14 | Gateway |  |
-| Wed 09/16 | TBD |  |
-| Mon 09/21 | Embedded |  |
-| Wed 09/23 | TBD |  |
-| Mon 09/28 | Wireless communication |  |
-| Wed 09/30 | TBD |  |
-| Mon 10/05 | No class |  |
-| Wed 10/07 | Wireless networking |  |
-| Mon 10/12 | TBD |  |
-| Wed 10/14 | Sensors |  |
-| Mon 10/19 | TBD |  |
-| Wed 10/21 | Sensorless sensing |  |
-| Mon 10/26 | TBD |  |
-| Wed 10/28 | Power harvasting |  |
-| Mon 11/02 | TBD |  |
-| Wed 11/04 | Security and Privacy |  |
-| Mon 11/09 | TBD |  |
-| Wed 11/11 | Guest lecture - Smart health |  |
-| Mon 11/16 | TBD |  |
-| Wed 11/18 | Guest lecture - Smart health |  |
-| Mon 11/23 | TBD |  |
-| Wed 11/25 | No class |  |
-| Mon 11/30 | Workshop - meet w/ group |  |
+| Wed 09/02 | Guest lecture - Smart health |  |
+| Mon 09/07 | Guest lecture - Smart health |  |
+| Wed 09/09 | Cloud |  |
+| Mon 09/14 | TBD |  |
+| Wed 09/16 | Gateway |  |
+| Mon 09/21 | TBD |  |
+| Wed 09/23 | Embedded system |  |
+| Mon 09/28 | TBD |  |
+| Wed 09/30 | Wireless communication |  |
+| Mon 10/05 | No class | Fall break |
+| Wed 10/07 | TBD |  |
+| Mon 10/12 | Wireless networking |  |
+| Wed 10/14 | TBD |  |
+| Mon 10/19 | Project review |  |
+| Wed 10/21 | No class | Link Lab Research Day |
+| Mon 10/26 | Technical writing/speaking |  |
+| Wed 10/28 | TBD |  |
+| Mon 11/02 | Sensors/actuators |  |
+| Wed 11/04 | TBD |  |
+| Mon 11/09 | Power harvesting |  |
+| Wed 11/11 | TBD |  |
+| Mon 11/16 | Security/privacy |  |
+| Wed 11/18 | TBD |  |
+| Mon 11/23 | Project review |  |
+| Wed 11/25 | No class | Thanksgiving |
+| Mon 11/30 | Project workshop |  |
 | Wed 12/02 | Ethics flash talks |  |
-| Mon 12/07 | Project critiques |  |
+| Mon 12/07 | Project critique |  |
 | Fri 12/08 | Courses end |  |
 | TBD | Presentations - Exam |  |
 

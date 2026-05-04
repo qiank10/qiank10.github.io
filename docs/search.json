@@ -221,14 +221,14 @@
     "href": "courses/uva-cs6501-wsiot/fall2026.html",
     "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "",
-    "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+    "text": "Instructor: Kun Qian\nTA: TBD\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-information",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#course-information",
     "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "",
-    "text": "Instructor: Kun Qian\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+    "text": "Instructor: Kun Qian\nTA: TBD\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-description",
@@ -466,14 +466,14 @@
     "href": "courses/uva-cps1-cpste/fall2026.html",
     "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
     "section": "",
-    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nTA:\n\nTBD\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
   },
   {
     "objectID": "courses/uva-cps1-cpste/fall2026.html#course-information",
     "href": "courses/uva-cps1-cpste/fall2026.html#course-information",
     "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
     "section": "",
-    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nTA:\n\nTBD\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
   },
   {
     "objectID": "courses/uva-cps1-cpste/fall2026.html#course-description",
@@ -529,7 +529,7 @@
     "href": "courses/uva-cps1-cpste/fall2026.html#course-schedule",
     "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
     "section": "Course Schedule",
-    "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/25\nCourses begin\n\n\n\nWed 08/26\nIntroduction\n\n\n\nMon 08/31\nThoughtful questions\n\n\n\nWed 09/02\nTBD\n\n\n\nMon 09/07\nCloud\n\n\n\nWed 09/09\nTBD\n\n\n\nMon 09/14\nGateway\n\n\n\nWed 09/16\nTBD\n\n\n\nMon 09/21\nEmbedded\n\n\n\nWed 09/23\nTBD\n\n\n\nMon 09/28\nWireless communication\n\n\n\nWed 09/30\nTBD\n\n\n\nMon 10/05\nNo class\n\n\n\nWed 10/07\nWireless networking\n\n\n\nMon 10/12\nTBD\n\n\n\nWed 10/14\nSensors\n\n\n\nMon 10/19\nTBD\n\n\n\nWed 10/21\nSensorless sensing\n\n\n\nMon 10/26\nTBD\n\n\n\nWed 10/28\nPower harvasting\n\n\n\nMon 11/02\nTBD\n\n\n\nWed 11/04\nSecurity and Privacy\n\n\n\nMon 11/09\nTBD\n\n\n\nWed 11/11\nGuest lecture - Smart health\n\n\n\nMon 11/16\nTBD\n\n\n\nWed 11/18\nGuest lecture - Smart health\n\n\n\nMon 11/23\nTBD\n\n\n\nWed 11/25\nNo class\n\n\n\nMon 11/30\nWorkshop - meet w/ group\n\n\n\nWed 12/02\nEthics flash talks\n\n\n\nMon 12/07\nProject critiques\n\n\n\nFri 12/08\nCourses end\n\n\n\nTBD\nPresentations - Exam"
+    "text": "Course Schedule\nThe schedule is subject to change.\n\n\n\nDates\nTopic\nNotes\n\n\n\n\nTue 08/25\nCourses begin\n\n\n\nWed 08/26\nIntroduction\n\n\n\nMon 08/31\nThoughtful questions\n\n\n\nWed 09/02\nGuest lecture - Smart health\n\n\n\nMon 09/07\nGuest lecture - Smart health\n\n\n\nWed 09/09\nCloud\n\n\n\nMon 09/14\nTBD\n\n\n\nWed 09/16\nGateway\n\n\n\nMon 09/21\nTBD\n\n\n\nWed 09/23\nEmbedded system\n\n\n\nMon 09/28\nTBD\n\n\n\nWed 09/30\nWireless communication\n\n\n\nMon 10/05\nNo class\nFall break\n\n\nWed 10/07\nTBD\n\n\n\nMon 10/12\nWireless networking\n\n\n\nWed 10/14\nTBD\n\n\n\nMon 10/19\nProject review\n\n\n\nWed 10/21\nNo class\nLink Lab Research Day\n\n\nMon 10/26\nTechnical writing/speaking\n\n\n\nWed 10/28\nTBD\n\n\n\nMon 11/02\nSensors/actuators\n\n\n\nWed 11/04\nTBD\n\n\n\nMon 11/09\nPower harvesting\n\n\n\nWed 11/11\nTBD\n\n\n\nMon 11/16\nSecurity/privacy\n\n\n\nWed 11/18\nTBD\n\n\n\nMon 11/23\nProject review\n\n\n\nWed 11/25\nNo class\nThanksgiving\n\n\nMon 11/30\nProject workshop\n\n\n\nWed 12/02\nEthics flash talks\n\n\n\nMon 12/07\nProject critique\n\n\n\nFri 12/08\nCourses end\n\n\n\nTBD\nPresentations - Exam"
   },
   {
     "objectID": "courses/uva-cps1-cpste/fall2026.html#attendance-policy",
