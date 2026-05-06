@@ -96,19 +96,19 @@ The schedule is subject to change.
 | Mon 09/28 | TBD |  |
 | Wed 09/30 | Wireless communication |  |
 | Mon 10/05 | No class | Fall break |
-| Wed 10/07 | TBD |  |
-| Mon 10/12 | Wireless networking |  |
-| Wed 10/14 | TBD |  |
-| Mon 10/19 | Project review |  |
+| Wed 10/07 | Wireless networking |  |
+| Mon 10/12 | TBD |  |
+| Wed 10/14 | Project review |  |
+| Mon 10/19 | TBD |  |
 | Wed 10/21 | No class | Link Lab Research Day |
-| Mon 10/26 | Technical writing/speaking |  |
-| Wed 10/28 | TBD |  |
-| Mon 11/02 | Sensors/actuators |  |
-| Wed 11/04 | TBD |  |
-| Mon 11/09 | Power harvesting |  |
-| Wed 11/11 | TBD |  |
-| Mon 11/16 | Security/privacy |  |
-| Wed 11/18 | TBD |  |
+| Mon 10/26 | TBD |  |
+| Wed 10/28 | Technical writing/speaking |  |
+| Mon 11/02 | TBD |  |
+| Wed 11/04 | Sensors/actuators |  |
+| Mon 11/09 | TBD |  |
+| Wed 11/11 | Power harvesting |  |
+| Mon 11/16 | TBD |  |
+| Wed 11/18 | Security/privacy |  |
 | Mon 11/23 | Project review |  |
 | Wed 11/25 | No class | Thanksgiving |
 | Mon 11/30 | Project workshop |  |
