@@ -58,15 +58,15 @@ Here is a breakdown of grading weights for each assessment in the class.
 
 Your progress in the course will be assessed on all the dimensions described in the course objectives above. We will release detailed instructions for each assessment on Canvas as we progress throughout the semester.
 
-- **A. Develop an Application using a test-bed data source:**: TWorking in teams, you will use the existing data streams from a real-world test-bed to prototype an application.
+- **A. Develop an Application using a test-bed data source:**: Working in teams, you will use the existing data streams from a real-world test-bed to prototype an application.
 - **B. Build a Wireless Sensor:**: Working in teams, you will develop a wireless sensor to monitor a new data stream of interest to your group. The sensor will collect information from sensors, process that information locally, and transmit the results wirelessly.
 - **C. Connect Your Sensor with Users:**: Working in teams, you will apply your experience developing embedded devices and leveraging data streams to prototype an end-to-end CPS application.
 - **D. IEEE EAD Discussions:**: You will lead a discussion session on one component of the IEEE EAD document.
 - **E. Case study using EAD framework**: In this project, you will work in teams to develop a case study of a CPS system utilizing the IEEE Ethically Aligned Design Framework.
 - **F. Policy and Regulation Review:** In this project you review recent regulation concerning CPS-related technology, what the challenges are with regulating the technology, and what you recommend for future policy.
-- **Participation:** This course can be truly transformational in your course of study here at SEAS. However, the level of benefit you will receive is directly proportional to your level of engagement and effort. Active participation is therefore essential to getting the most out of the course. As CPS engineers work in groups, you will need to apply all that we will teach you about group work to ensure that your groups are high-functioning groups.
+- **G. Participation:** This course can be truly transformational in your course of study here at SEAS. However, the level of benefit you will receive is directly proportional to your level of engagement and effort. Active participation is therefore essential to getting the most out of the course. As CPS engineers work in groups, you will need to apply all that we will teach you about group work to ensure that your groups are high-functioning groups.
 - **H. Homework:** Technical lectures will be accompanied by a homework assignment to be done individually.
-- **I. In-Class Assignments:**  Ethics presentations, peer-review, and final project application design.
+- **I. In-Class Assignments:**  Paper reading, ethics presentations, peer-review, and final project application design.
 - **J. Final Presentation:** Your team will present the motivation, technical details, social, ethical, and policy implications, and results of a proposed cyber-physical system. The final will provide an opportunity to highlight you new integrated understanding of CPS projects and the different kinds of expertise required of a CPS engineer.
 
 ## Honor
@@ -81,41 +81,41 @@ No formal prerequisites.
 
 The schedule is subject to change.
 
-| Dates | Topic | Notes |
-|:---:|:---:|:---:|
-| Tue 08/25 | Courses begin |  |
-| Wed 08/26 | Introduction |  |
-| Mon 08/31 | Thoughtful questions |  |
-| Wed 09/02 | Guest lecture - Smart health |  |
-| Mon 09/07 | Guest lecture - Smart health |  |
-| Wed 09/09 | Cloud |  |
-| Mon 09/14 | TBD |  |
-| Wed 09/16 | Gateway |  |
-| Mon 09/21 | TBD |  |
-| Wed 09/23 | Embedded system |  |
-| Mon 09/28 | TBD |  |
-| Wed 09/30 | Wireless communication |  |
-| Mon 10/05 | No class | Fall break |
-| Wed 10/07 | Wireless networking |  |
-| Mon 10/12 | TBD |  |
-| Wed 10/14 | Project review |  |
-| Mon 10/19 | TBD |  |
-| Wed 10/21 | No class | Link Lab Research Day |
-| Mon 10/26 | TBD |  |
-| Wed 10/28 | Technical writing/speaking |  |
-| Mon 11/02 | TBD |  |
-| Wed 11/04 | Sensors/actuators |  |
-| Mon 11/09 | TBD |  |
-| Wed 11/11 | Power harvesting |  |
-| Mon 11/16 | TBD |  |
-| Wed 11/18 | Security/privacy |  |
-| Mon 11/23 | Project review |  |
-| Wed 11/25 | No class | Thanksgiving |
-| Mon 11/30 | Project workshop |  |
-| Wed 12/02 | Ethics flash talks |  |
-| Mon 12/07 | Project critique |  |
-| Fri 12/08 | Courses end |  |
-| TBD | Presentations - Exam |  |
+| Dates | Type | Topic | Notes |
+|:---:|:---:|:---:|:---:|
+| Tue 08/25 |  | Courses begin |  |
+| Wed 08/26 | Joint | Introduction |  |
+| Mon 08/31 | Joint | Thoughtful questions |  |
+| Wed 09/02 | Joint | Guest lecture - Smart health |  |
+| Mon 09/07 | Joint | Guest lecture - Smart health |  |
+| Wed 09/09 | Tech | Cloud |  |
+| Mon 09/14 | Ethics | IEEE EAD 1 |  |
+| Wed 09/16 | Tech | Gateway |  |
+| Mon 09/21 | Ethics | IEEE EAD 2 |  |
+| Wed 09/23 | Tech | Embedded system |  |
+| Mon 09/28 | Ethics | IEEE EAD 3 |  |
+| Wed 09/30 | Tech | Wireless communication |  |
+| Mon 10/05 |  | No class | Fall break |
+| Wed 10/07 | Tech | Wireless networking |  |
+| Mon 10/12 | Ethics | Responsible innovation 1 |  |
+| Wed 10/14 | Joint | Project review |  |
+| Mon 10/19 | Ethics | Responsible innovation 2 |  |
+| Wed 10/21 |  | No class | Link Lab Research Day |
+| Mon 10/26 | Ethics | Emerging policies and issues |  |
+| Wed 10/28 | Tech | Technical writing and speaking |  |
+| Mon 11/02 | Ethics | Privacy, transparency, and trust |  |
+| Wed 11/04 | Tech | Applications - papers |  |
+| Mon 11/09 | Ethics | Cybersecurity |  |
+| Wed 11/11 | Tech |  Sensors and actuators |  |
+| Mon 11/16 | Ethics | Guest lecture |  |
+| Wed 11/18 | Tech | Security and privacy |  |
+| Mon 11/23 | Joint | Project review |  |
+| Wed 11/25 |  | No class | Thanksgiving |
+| Mon 11/30 | Joint | Project workshop |  |
+| Wed 12/02 | Joint | Ethics flash talks |  |
+| Mon 12/07 | Joint | Project critique |  |
+| Fri 12/08 |  | Courses end |  |
+| TBD | Joint | Presentations - Exam |  |
 
 ## Attendance Policy
 
