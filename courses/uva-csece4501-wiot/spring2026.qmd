@@ -3,10 +3,11 @@ title: "CS4501: Wireless for the Internet of Things (Spring 2026)"
 date: "2026-1-1"
 image: teaser.png
 categories: ["Undergraduate"]
+subtitle: "Check out our students' [course projects](https://kunqian.info/courses/uva-csece4501-wiot-course-projects/spring2026.html)!"
 # date-format: "MMM, YYYY"
 ---
 
-Please check out our students' [course projects](../uva-csece4501-wiot-course-projects/spring2026.qmd)!
+Check out our students' [course projects](../uva-csece4501-wiot-course-projects/spring2026.qmd)!
 
 ## Course Information
 

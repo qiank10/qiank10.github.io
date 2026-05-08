@@ -7,7 +7,7 @@ listing:
         - courses/uva-cs6501-wsiot/*.qmd
         - courses/uva-csece4501-wiot/*.qmd
       type: default
-      fields: [image, date, title]
+      fields: [image, date, title, subtitle]
       sort:
         - "date desc"
       page-size: 100

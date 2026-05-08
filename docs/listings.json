@@ -1,11 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": [
-      "/news.html"
-    ]
-  },
-  {
     "listing": "/wink.html",
     "items": [
       "/wink.html"
@@ -26,6 +20,12 @@
   {
     "listing": "/awards.html",
     "items": []
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/news.html"
+    ]
   },
   {
     "listing": "/research.html",
