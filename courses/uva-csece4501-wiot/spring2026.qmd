@@ -6,7 +6,7 @@ categories: ["Undergraduate"]
 # date-format: "MMM, YYYY"
 ---
 
-<!-- Please check out our students' [course projects](spring2026-projects.qmd)! -->
+Please check out our students' [course projects](../uva-csece4501-wiot-course-projects/spring2026.qmd)!
 
 ## Course Information
 
