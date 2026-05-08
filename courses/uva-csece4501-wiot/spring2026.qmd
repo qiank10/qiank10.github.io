@@ -7,8 +7,6 @@ subtitle: "Check out our students' [course projects](https://kunqian.info/course
 # date-format: "MMM, YYYY"
 ---
 
-Check out our students' [course projects](../uva-csece4501-wiot-course-projects/spring2026.qmd)!
-
 ## Course Information
 
 - Instructor: Kun Qian
