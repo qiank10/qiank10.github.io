@@ -1,6 +1,13 @@
+- path: "https://sensys.acm.org/2027/index.html"
+  image: news/images/sensys27.png
+  title: "Invitated to Serve SenSys 2027 TPC"
+  description: "I will serve as an TPC member for SenSys'27 (abstract due: 5/29/2027). Please consider submitting."
+  date: "2026-5"
+  categories: ["Service"]
+
 - path: "https://conferences.ieee.org/conferences_events/conferences/conferencedetails/67597"
   image: news/images/infocom27_call.png
-  title: "Invitation to Serve INFOCOM 2027 TPC"
+  title: "Invitated to Serve INFOCOM 2027 TPC"
   description: "I will serve as an TPC member for INFOCOM'27 (abstract due: 7/24/2026). Please consider submitting."
   date: "2026-4"
   categories: ["Service"]
@@ -14,21 +21,21 @@
 
 - path: "https://dl.acm.org/journal/imwut"
   image: news/images/imwut.png
-  title: "Invitation to Serve IMWUT Editorial Board"
+  title: "Invitated to Serve IMWUT Editorial Board"
   description: "I will serve as an Associate Editor for IMWUT since the May round. Please consider submitting."
   date: "2026-4"
   categories: ["Service"]
 
 - path: "https://www.sigmobile.org/mobihoc/2026/"
   image: news/images/mobihoc26.png
-  title: "Invitation to Serve MobiHoc 2026 TPC"
+  title: "Invitated to Serve MobiHoc 2026 TPC"
   description: "I will serve as an TPC member for MobiHoc'26 (abstract due: 4/13/2026). Please consider submitting."
   date: "2025-12"
   categories: ["Service"]
 
 - path: "https://infocom2026.ieee-infocom.org/"
   image: news/images/infocom26.png
-  title: "Invitation to Serve INFOCOM 2026 TPC"
+  title: "Invitated to Serve INFOCOM 2026 TPC"
   description: "I will serve as an TPC member for INFOCOM'26 (abstract due: 7/24/2025). Please consider submitting."
   date: "2025-5"
   categories: ["Service"]
