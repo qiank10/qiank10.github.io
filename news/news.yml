@@ -1,3 +1,10 @@
+- path: "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/"
+  image: news/images/nvidia.png
+  title: "New Grant from NVIDIA"
+  description: "Our research on large spatial spectrum model was funded by NVIDIA Academic Grant Program. Grateful for the support!"
+  date: "2026-7"
+  categories: ["Grant"]
+
 - path: "https://sensys.acm.org/2027/index.html"
   image: news/images/sensys27.png
   title: "Invitated to Serve SenSys 2027 TPC"
@@ -6,7 +13,7 @@
   categories: ["Service"]
 
 - path: "https://conferences.ieee.org/conferences_events/conferences/conferencedetails/67597"
-  image: news/images/infocom27_call.png
+  image: news/images/infocom27.png
   title: "Invitated to Serve INFOCOM 2027 TPC"
   description: "I will serve as an TPC member for INFOCOM'27 (abstract due: 7/24/2026). Please consider submitting."
   date: "2026-4"
@@ -58,7 +65,7 @@
 - path: "../news.qmd"
   image: news/images/cci_cvn.png
   title: "New Grant from CCI CVN"
-  description: "Our research on radar backscatters was funded by the Commonwealth Cyber Initiative (CCI) Central Virginia Node (CVN)."
+  description: "Our research on radar backscatters was funded by the Commonwealth Cyber Initiative (CCI) Central Virginia Node (CVN). Grateful for the support!"
   date: "2025-1"
   categories: ["Grant"]
 
@@ -72,7 +79,7 @@
 - path: "https://www.nsf.gov/awardsearch/showAward?AWD_ID=2403124"
   image: news/images/nsf.png
   title: "New Grant from NSF"
-  description: "Our research on generative AI for 6G was funded by National Science Foundation (NSF)."
+  description: "Our research on generative AI for 6G was funded by National Science Foundation (NSF). Grateful for the support!"
   date: "2024-8"
   categories: ["Grant"]
 

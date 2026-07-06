@@ -58,16 +58,16 @@ Here is a breakdown of grading weights for each assessment in the class.
 
 Your progress in the course will be assessed on all the dimensions described in the course objectives above. We will release detailed instructions for each assessment on Canvas as we progress throughout the semester.
 
-- **A. Develop an Application using a test-bed data source:**: Working in teams, you will use the existing data streams from a real-world test-bed to prototype an application.
-- **B. Build a Wireless Sensor:**: Working in teams, you will develop a wireless sensor to monitor a new data stream of interest to your group. The sensor will collect information from sensors, process that information locally, and transmit the results wirelessly.
-- **C. Connect Your Sensor with Users:**: Working in teams, you will apply your experience developing embedded devices and leveraging data streams to prototype an end-to-end CPS application.
-- **D. IEEE EAD Discussions:**: You will lead a discussion session on one component of the IEEE EAD document.
+- **A. Develop an Application using a test-bed data source**: Working in teams, you will use the existing data streams from a real-world test-bed to prototype an application.
+- **B. Build a Wireless Sensor**: Working in teams, you will develop a wireless sensor to monitor a new data stream of interest to your group. The sensor will collect information from sensors, process that information locally, and transmit the results wirelessly.
+- **C. Connect Your Sensor with Users**: Working in teams, you will apply your experience developing embedded devices and leveraging data streams to prototype an end-to-end CPS application.
+- **D. IEEE EAD Discussions**: You will lead a discussion session on one component of the IEEE EAD document.
 - **E. Case study using EAD framework**: In this project, you will work in teams to develop a case study of a CPS system utilizing the IEEE Ethically Aligned Design Framework.
-- **F. Policy and Regulation Review:** In this project you review recent regulation concerning CPS-related technology, what the challenges are with regulating the technology, and what you recommend for future policy.
-- **G. Participation:** This course can be truly transformational in your course of study here at SEAS. However, the level of benefit you will receive is directly proportional to your level of engagement and effort. Active participation is therefore essential to getting the most out of the course. As CPS engineers work in groups, you will need to apply all that we will teach you about group work to ensure that your groups are high-functioning groups.
-- **H. Homework:** Technical lectures will be accompanied by a homework assignment to be done individually.
-- **I. In-Class Assignments:**  Paper reading, ethics presentations, peer-review, and final project application design.
-- **J. Final Presentation:** Your team will present the motivation, technical details, social, ethical, and policy implications, and results of a proposed cyber-physical system. The final will provide an opportunity to highlight you new integrated understanding of CPS projects and the different kinds of expertise required of a CPS engineer.
+- **F. Policy and Regulation Review**: In this project you review recent regulation concerning CPS-related technology, what the challenges are with regulating the technology, and what you recommend for future policy.
+- **G. Participation**: This course can be truly transformational in your course of study here at SEAS. However, the level of benefit you will receive is directly proportional to your level of engagement and effort. Active participation is therefore essential to getting the most out of the course. As CPS engineers work in groups, you will need to apply all that we will teach you about group work to ensure that your groups are high-functioning groups.
+- **H. Homework**: Technical lectures will be accompanied by a homework assignment to be done individually.
+- **I. In-Class Assignments**:  Paper reading, ethics presentations, peer-review, and final project application design.
+- **J. Final Presentation**: Your team will present the motivation, technical details, social, ethical, and policy implications, and results of a proposed cyber-physical system. The final will provide an opportunity to highlight you new integrated understanding of CPS projects and the different kinds of expertise required of a CPS engineer.
 
 ## Honor
 
