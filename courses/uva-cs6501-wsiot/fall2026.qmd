@@ -9,12 +9,13 @@ categories: ["Graduate"]
 ## Course Information
 
 - Instructor: [Kun Qian](https://kunqian.info/)
-- TA: TBD
+- TA: [Shunqiang Feng](https://shunqiang.site/)
 - Lecture time: 3:30pm-4:45pm MoWe
 - Location: Rice Hall 340
 - Office hours: 
-	- TBD
-
+	- Kun Qian: Wednesday 10-11am, Thursday 10-11am in Olsson 267
+  - Shunqiang Feng: TBD
+  
 ## Course Description
 
 Wireless sensing technologies repurpose wireless signals to sense the physical environment and gain situational awareness. Formed by pervasive, wirelessly connected devices, the Internet of Things can be transformed into a universal sensor network with wireless sensing, enabling ambient intelligence in various scenarios, such as smart homes, intelligent transportation, and smart factories. This course covers the basic principles and cutting-edge applications of wireless sensing. The evaluation will be based on participation, homework and lab assignments, paper presentation, and the course project.

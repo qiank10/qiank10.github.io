@@ -298,14 +298,14 @@
     "href": "courses/uva-cs6501-wsiot/fall2026.html",
     "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "",
-    "text": "Instructor: Kun Qian\nTA: TBD\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+    "text": "Instructor: Kun Qian\nTA: Shunqiang Feng\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nKun Qian: Wednesday 10-11am, Thursday 10-11am in Olsson 267\nShunqiang Feng: TBD"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-information",
     "href": "courses/uva-cs6501-wsiot/fall2026.html#course-information",
     "title": "CS6501: Wireless Sensing for the Internet of Things (Fall 2026)",
     "section": "",
-    "text": "Instructor: Kun Qian\nTA: TBD\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+    "text": "Instructor: Kun Qian\nTA: Shunqiang Feng\nLecture time: 3:30pm-4:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nKun Qian: Wednesday 10-11am, Thursday 10-11am in Olsson 267\nShunqiang Feng: TBD"
   },
   {
     "objectID": "courses/uva-cs6501-wsiot/fall2026.html#course-description",
@@ -543,14 +543,14 @@
     "href": "courses/uva-cps1-cpste/fall2026.html",
     "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
     "section": "",
-    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nTA:\n\nTBD\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nRider Foley: Monday 2-4pm in Thornton A218\nKun Qian: Wednesday 10-11am, Thursday 10-11am in Olsson 267"
   },
   {
     "objectID": "courses/uva-cps1-cpste/fall2026.html#course-information",
     "href": "courses/uva-cps1-cpste/fall2026.html#course-information",
     "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
     "section": "",
-    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nTA:\n\nTBD\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nTBD"
+    "text": "Co-Instructors:\n\nRider Foley\nKun Qian\n\nLecture time: 12:30pm-1:45pm MoWe\nLocation: Rice Hall 340\nOffice hours:\n\nRider Foley: Monday 2-4pm in Thornton A218\nKun Qian: Wednesday 10-11am, Thursday 10-11am in Olsson 267"
   },
   {
     "objectID": "courses/uva-cps1-cpste/fall2026.html#course-description",
@@ -578,14 +578,14 @@
     "href": "courses/uva-cps1-cpste/fall2026.html#grading",
     "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
     "section": "Grading",
-    "text": "Grading\nHere is a breakdown of grading weights for each assessment in the class.\n\nAssignments A-F: 50%\nParticipation (In-Class): 10%\nHomework: 10%\nIn-Class Assignments: 10%\nFinal Presentation: 20%"
+    "text": "Grading\nHere is a breakdown of grading weights for each assessment in the class.\n\nAssignments A-D: 50%\nAssignment E (In-class participation): 10%\nAssignment F (Homework): 10%\nAssignment G (In-Class activities): 10%\nAssignment H (Final Presentation): 20%"
   },
   {
     "objectID": "courses/uva-cps1-cpste/fall2026.html#assessments",
     "href": "courses/uva-cps1-cpste/fall2026.html#assessments",
     "title": "CPS1: Cyber-Physical Systems Technology and Ethics (Fall 2026)",
     "section": "Assessments",
-    "text": "Assessments\nYour progress in the course will be assessed on all the dimensions described in the course objectives above. We will release detailed instructions for each assessment on Canvas as we progress throughout the semester.\n\nA. Develop an Application using a test-bed data source: Working in teams, you will use the existing data streams from a real-world test-bed to prototype an application.\nB. Build a Wireless Sensor: Working in teams, you will develop a wireless sensor to monitor a new data stream of interest to your group. The sensor will collect information from sensors, process that information locally, and transmit the results wirelessly.\nC. Connect Your Sensor with Users: Working in teams, you will apply your experience developing embedded devices and leveraging data streams to prototype an end-to-end CPS application.\nD. IEEE EAD Discussions: You will lead a discussion session on one component of the IEEE EAD document.\nE. Case study using EAD framework: In this project, you will work in teams to develop a case study of a CPS system utilizing the IEEE Ethically Aligned Design Framework.\nF. Policy and Regulation Review: In this project you review recent regulation concerning CPS-related technology, what the challenges are with regulating the technology, and what you recommend for future policy.\nG. Participation: This course can be truly transformational in your course of study here at SEAS. However, the level of benefit you will receive is directly proportional to your level of engagement and effort. Active participation is therefore essential to getting the most out of the course. As CPS engineers work in groups, you will need to apply all that we will teach you about group work to ensure that your groups are high-functioning groups.\nH. Homework: Technical lectures will be accompanied by a homework assignment to be done individually.\nI. In-Class Assignments: Paper reading, ethics presentations, peer-review, and final project application design.\nJ. Final Presentation: Your team will present the motivation, technical details, social, ethical, and policy implications, and results of a proposed cyber-physical system. The final will provide an opportunity to highlight you new integrated understanding of CPS projects and the different kinds of expertise required of a CPS engineer."
+    "text": "Assessments\nYour progress in the course will be assessed on all the dimensions described in the course objectives above. We will release detailed instructions for each assessment on Canvas as we progress throughout the semester.\n\nA. Explore a CPS Dataset: Working in teams, you will use the existing data streams from a real-world test-bed to prototype an application.\nB. Build a Wireless Sensor: Working in teams, you will develop a wireless sensor to monitor a new data stream of interest to your group. The sensor will collect information from sensors, process that information locally, and transmit the results wirelessly.\nC. Discussions on Ethics Topics: You will participate in online discussions on IEEE EAD, responsible innovation, and technology risks.\nD. Ehtics Flash Talks: You will present on an ethics topic, which may draw from earlier discussion posts, in-class discussions, and analysis.\nE. Participation: This course can be truly transformational in your course of study here at SEAS. However, the level of benefit you will receive is directly proportional to your level of engagement and effort. Active participation is therefore essential to getting the most out of the course. As CPS engineers work in groups, you will need to apply all that we will teach you about group work to ensure that your groups are high-functioning groups.\nF. Homework: Technical lectures will be accompanied by a homework assignment to be done individually.\nG. In-Class Activities: Paper reading, ethics presentations, peer-review, and final project application design.\nH. Final Presentation: Your team will present the motivation, technical details, social, ethical, and policy implications, and results of a proposed cyber-physical system. The final will provide an opportunity to highlight you new integrated understanding of CPS projects and the different kinds of expertise required of a CPS engineer."
   },
   {
     "objectID": "courses/uva-cps1-cpste/fall2026.html#honor",
