@@ -3,14 +3,13 @@ title: Teaching
 listing:
     - id: courses
       contents:
-        - courses/uva-cps1-cpste/*.qmd
-        - courses/uva-cs6501-wsiot/*.qmd
-        - courses/uva-csece4501-wiot/*.qmd
-      type: default
-      fields: [image, date, title, subtitle]
+        - courses/*.yml
+      type: grid
+      fields: [image, description, title, subtitle, categories]
       sort:
         - "date desc"
       page-size: 100
+      max-description-length: 10000
       categories: true
       sort-ui: true
       filter-ui: true

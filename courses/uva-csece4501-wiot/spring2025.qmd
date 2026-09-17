@@ -1,9 +1,7 @@
 ---
-title: "CS4501: Wireless for the Internet of Things (Spring 2025)"
+title: "CS/ECE4501: Wireless for the Internet of Things (Spring 2025)"
 date: "2025-1-1"
-image: teaser.png
-categories: ["Undergraduate"]
-subtitle: "Check out our students' [course projects](https://kunqian.info/courses/uva-csece4501-wiot-course-projects/spring2025.html)!"
+subtitle: "Check out our students' [course projects](course-projects/spring2025.html)!"
 # date-format: "MMM, YYYY"
 ---
 

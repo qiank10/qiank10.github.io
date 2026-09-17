@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.9.37">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>CS4501: Wireless for the Internet of Things (Spring 2026) – Kun Qian</title>
+<style>
+/* Default styles provided by pandoc.
+** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
+*/
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<link href="../../../files/icon/icon_wink.png" rel="icon" type="image/png">
+<script src="../../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap-a0f9fd0d421825b736dc1bbcbcba2219.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/quarto-contrib/academicons-1.9.4/all.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/academicons-1.9.4/size.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/fontawesome6-6.7.2/all.min.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-contrib/fontawesome6-6.7.2/latex-fontsize.css" rel="stylesheet">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "Search",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+
+
+<link rel="stylesheet" href="../../../styles.css">
+</head>
+
+<body class="nav-fixed quarto-light">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Kun Qian</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../wink.html"> 
+<span class="menu-text">WINK Lab</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../research.html"> 
+<span class="menu-text">Research</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../service.html"> 
+<span class="menu-text">Service</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../awards.html"> 
+<span class="menu-text">Awards</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="https://scholar.google.com/citations?user=fGNCS9oAAAAJ"> 
+<span class="menu-text"><i class="ai  ai-google-scholar" aria-label="google-scholar"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://github.com/qiank10"> 
+<span class="menu-text"><i class="fa-brands fa-github" aria-label="github"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../files/kunqian_cv.pdf"> 
+<span class="menu-text"><i class="ai  ai-cv" aria-label="cv"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="mailto:kunqian@virginia.edu"> 
+<span class="menu-text"><i class="fa-solid fa-envelope" aria-label="envelope"></i></span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="https://yifanzhou.info/"> 
+<span class="menu-text"><i class="fa-solid fa-heart" aria-label="heart"></i></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#course-information" id="toc-course-information" class="nav-link active" data-scroll-target="#course-information">Course Information</a>
+  <ul class="collapse">
+  <li><a href="#project-list" id="toc-project-list" class="nav-link" data-scroll-target="#project-list">Project List:</a></li>
+  </ul></li>
+  <li><a href="#event-information-distribution-system" id="toc-event-information-distribution-system" class="nav-link" data-scroll-target="#event-information-distribution-system">Event Information Distribution System</a></li>
+  <li><a href="#rental-management-system" id="toc-rental-management-system" class="nav-link" data-scroll-target="#rental-management-system">Rental Management System</a></li>
+  <li><a href="#teleoperated-robot" id="toc-teleoperated-robot" class="nav-link" data-scroll-target="#teleoperated-robot">Teleoperated Robot</a></li>
+  <li><a href="#lora-tripwire" id="toc-lora-tripwire" class="nav-link" data-scroll-target="#lora-tripwire">LoRa Tripwire</a></li>
+  <li><a href="#cabin-temperature-monitor" id="toc-cabin-temperature-monitor" class="nav-link" data-scroll-target="#cabin-temperature-monitor">Cabin Temperature Monitor</a></li>
+  <li><a href="#nfc-lost-item-tracker" id="toc-nfc-lost-item-tracker" class="nav-link" data-scroll-target="#nfc-lost-item-tracker">NFC Lost Item Tracker</a></li>
+  <li><a href="#ble-and-wifi-congestion-using-llm" id="toc-ble-and-wifi-congestion-using-llm" class="nav-link" data-scroll-target="#ble-and-wifi-congestion-using-llm">BLE and Wifi Congestion using LLM</a></li>
+  <li><a href="#focus-sync-system" id="toc-focus-sync-system" class="nav-link" data-scroll-target="#focus-sync-system">Focus-Sync System</a></li>
+  <li><a href="#environmental-monitoring-system" id="toc-environmental-monitoring-system" class="nav-link" data-scroll-target="#environmental-monitoring-system">Environmental Monitoring System</a></li>
+  <li><a href="#gym-equipment-management-system" id="toc-gym-equipment-management-system" class="nav-link" data-scroll-target="#gym-equipment-management-system">Gym Equipment Management System</a></li>
+  <li><a href="#llm-assisted-wireless-traffic-analysis" id="toc-llm-assisted-wireless-traffic-analysis" class="nav-link" data-scroll-target="#llm-assisted-wireless-traffic-analysis">LLM-Assisted Wireless Traffic Analysis</a></li>
+  <li><a href="#trivia-distribution-system" id="toc-trivia-distribution-system" class="nav-link" data-scroll-target="#trivia-distribution-system">Trivia Distribution System</a></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title">CS4501: Wireless for the Internet of Things (Spring 2026)</h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">May, 2026</p>
+    </div>
+  </div>
+  
+    
+  </div>
+  
+
+
+</header>
+
+
+<section id="course-information" class="level2">
+<h2 class="anchored" data-anchor-id="course-information">Course Information</h2>
+<p>The 2026 Wireless for IoT course culminated in a series of final projects led by individual groups. Each group was challenged to build a new wireless device, experiment with new software for wireless IoT devices, or investigate wireless IoT networks in the real world.</p>
+<p>We appreciate Priyanka Gupta and Paul Otto from Teledyne Lecroy at Charlottesvile for their support on the course project. This year, two student teams worked on using LLM to analyze wireless traffice data captured by Teledyne’s Frontline X700 Wireless Protocol Analyzer.</p>
+<section id="project-list" class="level3">
+<h3 class="anchored" data-anchor-id="project-list">Project List:</h3>
+<ul>
+<li><a href="#event-information-distribution-system">Event Information Distribution System</a></li>
+<li><a href="#people-counting-system">People Counting System</a></li>
+<li><a href="#teleoperated-robot">Teleoperated Robot</a></li>
+<li><a href="#lora-tripwire">LoRa Tripwire</a></li>
+<li><a href="#cabin-temperature-monitor">Cabin Temperature Monitor</a></li>
+<li><a href="#nfc-lost-item-tracker">NFC Lost Item Tracker</a></li>
+<li><a href="#ble-and-wifi-congestion-using-llm">BLE and Wifi Congestion using LLM</a> <strong>(Sponsored by Teledyne Lecroy)</strong></li>
+<li><a href="#focus-sync-system">Focus-Sync System</a></li>
+<li><a href="#environmental-monitoring-system">Environmental Monitoring System</a></li>
+<li><a href="#gym-equipment-management-system">Gym Equipment Management System</a></li>
+<li><a href="#llm-assisted-wireless-traffic-analysis">LLM-Assisted Wireless Traffic Analysis</a> <strong>(Sponsored by Teledyne Lecroy)</strong></li>
+<li><a href="#trivia-distribution-system">Trivia Distribution System</a></li>
+</ul>
+</section>
+</section>
+<section id="event-information-distribution-system" class="level2">
+<h2 class="anchored" data-anchor-id="event-information-distribution-system">Event Information Distribution System</h2>
+<p><strong>Members:</strong> Mujtaba Jarral, Momen Abdelmoaty, Jason Cox</p>
+<p><img src="spring2026-images/g1.png" class="img-fluid"></p>
+<p>The project addresses the challenge of distributing information to passersby in an area. The project utilizes a BLE device to distribute information such as an event name, description, and a URL. This is an improvement over flyers and QR codes because it can reach more people over an area without physical papers or material being necessary, reducing the amount of materials used, making information and URL distribution more convenient and obvious, eliminating the need to find appropriate space for flyers or QR codes. The nRF board acts as a peripheral that sends out BLE advertisements which utilize a custom format that have a unique payload in the first 6 bytes, and have a PDU length of 12 to 14 bytes in total. A device running our own Flutter app detects these BLE advertisements, filtering by PDU length and our unique payload. The advertisement carries a 6 to 8 character long unique ASCII URL shortener code. The app decodes the URL shortener code into a unique link that contains “fake” query parameters that contain information such as the name and description of the URL. These are displayed in the app. The “fake” query parameters are removed and the unique link is reconstructed by the app, and the website may be previewed from the app.</p>
+</section>
+<section id="rental-management-system" class="level2">
+<h2 class="anchored" data-anchor-id="rental-management-system">Rental Management System</h2>
+<p><strong>Members:</strong> Bogdan Antonenko, John Devost, Vincent Zhang</p>
+<p><img src="spring2026-images/g2.png" class="img-fluid"></p>
+<p>Counting people in busy spaces is useful for managing scheduling and safety, but solutions like door counters or CO2 sensors require fixed sensors and struggle with open environments, like outdoor spaces. Our system passively scans for BLE advertisements emitted by personal devices. We demonstrate this using three Heltec v3 boards deployed across 13 buildings on Engineering Way over three days. Because iPhones continuously broadcast BLE advertisements even when idle, the number of detected Apple phones serve as a reliable proxy for occupancy, as it can be adjusted to yield an estimate of people in the area. Device type is inferred from manufacturer IDs, BLE appearance values, and service UUIDs, and these characteristics are used to filter out non-personal devices. Each board transmits 22-byte payloads over LoRaWAN to The Things Network, where data is stored in a backend database using MQTT and displayed on a live web dashboard with capacity thresholds and trends. The system is most practical for relative trend analysis and outdoor occupancy estimation where alternatives are difficult to deploy and struggle in those conditions.</p>
+</section>
+<section id="teleoperated-robot" class="level2">
+<h2 class="anchored" data-anchor-id="teleoperated-robot">Teleoperated Robot</h2>
+<p><strong>Members:</strong> Farjan Ahmed, Carlos Giron, Ivan Post</p>
+<p><img src="spring2026-images/g3.png" class="img-fluid"></p>
+<p>Two of our team members are in the Mechatronics and Robotics Society at UVA, which aims to compete in the University Rover Challenge (URC) next year. In URC, robots need to be tele-operated up to 1 km away. In practice, you can use a drone-mounted or even deployed repeater to reduce the node-to-node distance to 0.5 km, but this is not feasible with most unlicensed band wireless protocols such as Bluetooth. We attempted to create a prototype mobile robot which could be controlled in real time from 0.5 km away while only using unlicensed communication bands. While we could not get reliable control over 0.5 km, we were able to get up to 0.32 km using the LoRa physical layer standard (spreading factor of 10, coding rate of 4/5, and transmission power of 22 dBm) implemented on Heltec ESP32 v3 LORA boards. Our system implements a custom link layer protocol over LoRa taking inspiration from Bluetooth Low Energy connections, where the controller and robot alternate between sending and receiving packets, to achieve real-time control. The robot can also reply with feedback from sensors so that the operator does not need to see the robot (although this was not used in our implementation due to time constraints).</p>
+</section>
+<section id="lora-tripwire" class="level2">
+<h2 class="anchored" data-anchor-id="lora-tripwire">LoRa Tripwire</h2>
+<p><strong>Members:</strong> Zachariah Khaled Risheq, Snail Hernandez, Jayden Pierre</p>
+<p><img src="spring2026-images/g4.png" class="img-fluid"></p>
+<p>We created a tripwire using radio signals from LoRA that detects how many people are walking through and which direction they are walking. Our approach offers advantages over existing solutions: unlike cameras, it requires no line-of-sight, operates in any lighting condition, and captures no identifiable imagery, eliminating privacy concerns; unlike IR break-beams, it does not require single-file passage and can detect multiple people walking side-by-side through the same aperture. The system uses three LoRa devices (with two transmitting signals and one receiving) arranged in a triangle; by fitting a Gaussian baseline on a rolling standard deviation over a sliding window of the 8 most recent RSSI samples per link of each link and detecting deviations that exceed 1.5 dB (calibrated empirically from our original corridor setup) for two consecutive measurements in real time, it determines both the presence and direction of travel from the temporal ordering of disturbances across links. Person count is estimated by summing the peak standard deviations across both links during an event. When a person passes through the sensor field, they attenuate or reflect the received signal strength (RSSI) at nearby nodes in a measurable pattern. By analyzing which node detects a disturbance first and second, the system can reliably infer the direction of travel. Future work will replace the fixed detection threshold with an online Gaussian Process regressor that self-calibrates to each deployment environment, enabling probabilistic person counting via a softmax head over the GP posterior and scaling to additional nodes for finer spatial resolution and predictive crowd flow modeling across venue entry points.</p>
+</section>
+<section id="cabin-temperature-monitor" class="level2">
+<h2 class="anchored" data-anchor-id="cabin-temperature-monitor">Cabin Temperature Monitor</h2>
+<p><strong>Members:</strong> Aaron Yuan, Holly Kiker, Jungtaek Hong</p>
+<p><img src="spring2026-images/g5.png" class="img-fluid"></p>
+<p>Extreme temperatures can make it difficult for anyone to want to go anywhere, especially knowing that they’ll have to bear the transition period of their car’s cabin temperature becoming more comfortable. With the increasingly popular option for drivers to remotely start their cars, we looked for a way to eliminate this uncomfortable wait. Our group used the Heltec LoRa 32 board to constantly monitor car cabin temperature with very low power usage, even while the owner is away. The device sends this data to The Things Network. Users can subscribe to a Telegram bot for their vehicle and set their desired in-cabin temperature. Then, they can start their car and finish getting ready to leave their home. Telegram communicates with The Things Network to know when the device has sensed the desired in-cabin temperature, and notifies the user accordingly.</p>
+</section>
+<section id="nfc-lost-item-tracker" class="level2">
+<h2 class="anchored" data-anchor-id="nfc-lost-item-tracker">NFC Lost Item Tracker</h2>
+<p><strong>Members:</strong> Yechan Kim, Nate Owen, Jason Kaniecki</p>
+<p><img src="spring2026-images/g6.png" class="img-fluid"></p>
+<p>We built a passive NFC-based lost item tracker using the Nordic nRF52840-DK development board, a Next.js web application deployed on Vercel, and Firebase as the backend. The nRF52840 emulates an NFC Type 2 Tag using Zephyr RTOS, encoding a single NDEF URI record that directs any tapping phone,iOS or Android, to a URL hosted on our server. No app is required; the phone’s built-in NFC system handles everything. The board is flashed once and never needs to be reprogrammed, since all logic lives in the web server. Our system improves on existing solutions in three key ways: - Zero power consumption on the tag — NFC is a passive technology; the board draws no power until tapped. - Platform-agnostic — any smartphone with NFC can trigger the flow without installing an app. - Open and extensible — built on standard web technologies (Next.js, Firebase) with no proprietary lock-in.</p>
+</section>
+<section id="ble-and-wifi-congestion-using-llm" class="level2">
+<h2 class="anchored" data-anchor-id="ble-and-wifi-congestion-using-llm">BLE and Wifi Congestion using LLM</h2>
+<p><strong>Members:</strong> Noor Nile, John Xereas, Brian Xu</p>
+<p><img src="spring2026-images/g7.png" class="img-fluid"></p>
+<p>Our project was made to address the challenge of efficiently analyzing large-scale wireless traffic captures from Wi-Fi and BLE environments specifically. Typical models of doing so approach the problem directly by sending the packet captures or large portions of parsed packet data to an LLM which is expensive, inefficient, and unable to include all captured packets due to cost. To improve this we made our system convert the .pcapng captures into normalized Parquet datasets for Wi-Fi management frames and BLE advertising events containing structured wireless metadata such as MAC addresses, RSSI, channels, timestamps, SSIDs, and advertising information. Because LLMs cannot directly analyze Parque files, we use Pandas DataFrames loaded from the normalized Parquet datasets for local processing and analysis. Rather than sending large amounts of raw packet data to the LLM, we provide the model with the schema, headers, and structure of the normalized datasets and use the LLM to dynamically generate Python analysis code tailored to a user’s question. The generated Python code is then executed locally against the full DataFrames, allowing analysis over the entire wireless capture while keeping OpenAI API token usage extremely low. The resulting analysis can then be output in multiple formats, including textual summaries, ranked tables, incident reports, and generated graphs saved directly through the executed Python code. To ensure reliability and reduce hallucinations from the model, we also built a validation framework that independently computes answers to a set of “golden questions” directly from the normalized wireless datasets and compares them against the LLM-assisted analysis output.</p>
+</section>
+<section id="focus-sync-system" class="level2">
+<h2 class="anchored" data-anchor-id="focus-sync-system">Focus-Sync System</h2>
+<p><strong>Members:</strong> Amogh Ghadge, Sri Kapa, Patrick Junseo Lee</p>
+<p><img src="spring2026-images/g8.png" class="img-fluid"></p>
+<p>The challenge our project aims to address is the struggle to focus for long periods of time. While there are a multitude of apps and software that attempt to help the user stay focused and distraction free, none of them have a physical component. By adding a physical button, flashing lights, as well as an alert sent to the user’s phone, the multi-pronged approach optimizes for higher user retention. The basic overview is as follows: the Heltech board runs a timer which represents a “focus session”. If at the end of the focus session, the user is required to check in by pressing the onboard button. If the button is not pressed during the grace period (where the onboard lights will be flashing), the system will send an alert message to a Telegram bot on the user’s phone. The system keeps track of the number of focus sessions completed and displays the timer on the boards screen.</p>
+</section>
+<section id="environmental-monitoring-system" class="level2">
+<h2 class="anchored" data-anchor-id="environmental-monitoring-system">Environmental Monitoring System</h2>
+<p><strong>Members:</strong> Ellie Kim, Diana Lin, Jessica Su</p>
+<p><img src="spring2026-images/g9.png" class="img-fluid"></p>
+<p>Terra is an environmental monitoring system designed for use in remote and unknown environments. This system involves one central device to store and manage all collected data and provide users access to this data over an HTTP API server over Wi-Fi. Three peripheral “recon” nodes gather environmental data, including light, soil moisture, and GPS location, and transmit this data to the central unit using LoRa. Terra has several practical applications, particularly in agriculture and environmental monitoring. Farmers could use the system to remotely monitor soil conditions, track environmental changes, and improve crop management decisions. The system could also support disaster detection and early warning efforts by identifying unusual weather or environmental changes in remote areas where traditional monitoring infrastructure may be limited. This improves on existing methods, where all sensing devices would need to be connected to the same WiFi or mesh network, thereby decreasing the overhead to set up an environmental monitoring system in a new location and allowing devices to be connected at a higher distance from each other.</p>
+</section>
+<section id="gym-equipment-management-system" class="level2">
+<h2 class="anchored" data-anchor-id="gym-equipment-management-system">Gym Equipment Management System</h2>
+<p><strong>Members:</strong> Luke Mauzy, Miles Woodcock, Will Conrad</p>
+<p><img src="spring2026-images/g10.png" class="img-fluid"></p>
+<p>Gym equipment at busy recreation centers often turns into a waiting game: people hover near machines unsure when they’ll be free, there’s no clear visibility into wait times, and no practical way to plan or reserve equipment in advance. Our system addresses this by adding a lightweight and low-cost queue management layer directly onto each machine. Every piece of equipment is paired with a Heltec V3 board (acting as the local controller) and an nRF loop antenna that enables simple NFC-based check-in. A second Heltec unit acts as the server, running a minimal web interface over a local WiFi network. Looking ahead, the system is designed to scale into a full facility-wide coordination platform. A centralized dashboard could provide a real-time overview of all machines in the gym, showing queue lengths, estimated availability, and current utilization across the entire space. This would allow users to make informed decisions before even walking to a machine and help facilities balance load during peak hours. Another planned extension is integration with personal workout tracking systems. Each session could automatically sync to a user’s profile, building a structured workout history that includes completed sets, timing, and frequency of equipment usage. Over time, this could support personalized workout planning, progress tracking, and recommendations based on past behavior.</p>
+</section>
+<section id="llm-assisted-wireless-traffic-analysis" class="level2">
+<h2 class="anchored" data-anchor-id="llm-assisted-wireless-traffic-analysis">LLM-Assisted Wireless Traffic Analysis</h2>
+<p><strong>Members:</strong> Chau Nguyen, Yushen Liu, Zebenai Melaku, Zhibin Nan</p>
+<p><img src="spring2026-images/g11.png" class="img-fluid"></p>
+<p>TraceLens is an LLM-assisted wireless traffic analysis system designed to make WiFi trace inspection easier, faster, and more accessible. Traditional wireless trace analysis often requires users to manually inspect large CSV exports, write custom pandas scripts, and understand low-level networking metrics such as packet rate, inter-arrival time, retry rate, and Bad FCS rate. This process is time-consuming and difficult for users who want quick answers to high-level questions such as “Which session has the most bursty traffic?” or “Which capture has the highest retry rate?” Our project addresses this problem by combining a deterministic Python-based traffic analysis pipeline with a large language model interface. The system allows users to ask natural-language questions about wireless traffic sessions. The LLM translates the question into a structured analysis plan, the backend executes the plan using local pandas/numpy computations, and the LLM then summarizes the result in readable language. This design keeps the numerical analysis grounded in the actual trace data while using the LLM to improve usability and interpretation. The project includes both a command-line pipeline and a local web interface. The command-line version supports direct LLM-based analysis over a dataset folder, while the TraceLens web application provides a chat-style interface so users no longer need to type questions into the terminal. The web app is implemented with a Flask/Python backend and a lightweight frontend for interaction and visualization. The source code for the project is available on GitHub at: <a href="https://github.com/Hudl1e/traffic_llm_analysis">https://github.com/Hudl1e/traffic_llm_analysis</a>.</p>
+</section>
+<section id="trivia-distribution-system" class="level2">
+<h2 class="anchored" data-anchor-id="trivia-distribution-system">Trivia Distribution System</h2>
+<p><strong>Members:</strong> Colby Wise, Marc Rosenthal</p>
+<p><img src="spring2026-images/g12.png" class="img-fluid"></p>
+<p>Our project is a tool to be used for trivia. It can be part of a system for many people to be able to access random trivia questions for whatever purpose the trivia is being run. This could be a situation like walking through a museum, classroom education, or bar trivia. Our project is a system in which the user reads a trivia question from an NFC tag, which gets updated with a new trivia question after this action occurs; people can keep scanning it and get new questions each time. This is an improvement over current systems because it requires minimal connectivity effort on the part of the user, yet can keep getting updated information. The system works by connecting to another device through BLE, then receiving new trivia questions from that other device each time it is run. That new trivia question is then written to the NFC tag to be read.</p>
+
+
+</section>
+
+<a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+  window.document.addEventListener("DOMContentLoaded", function (event) {
+    const icon = "";
+    const anchorJS = new window.AnchorJS();
+    anchorJS.options = {
+      placement: 'right',
+      icon: icon
+    };
+    anchorJS.add('.anchored');
+    const isCodeAnnotation = (el) => {
+      for (const clz of el.classList) {
+        if (clz.startsWith('code-annotation-')) {                     
+          return true;
+        }
+      }
+      return false;
+    }
+    const onCopySuccess = function(e) {
+      // button target
+      const button = e.trigger;
+      // don't keep focus
+      button.blur();
+      // flash "checked"
+      button.classList.add('code-copy-button-checked');
+      var currentTitle = button.getAttribute("title");
+      button.setAttribute("title", "Copied!");
+      let tooltip;
+      if (window.bootstrap) {
+        button.setAttribute("data-bs-toggle", "tooltip");
+        button.setAttribute("data-bs-placement", "left");
+        button.setAttribute("data-bs-title", "Copied!");
+        tooltip = new bootstrap.Tooltip(button, 
+          { trigger: "manual", 
+            customClass: "code-copy-button-tooltip",
+            offset: [0, -8]});
+        tooltip.show();    
+      }
+      setTimeout(function() {
+        if (tooltip) {
+          tooltip.hide();
+          button.removeAttribute("data-bs-title");
+          button.removeAttribute("data-bs-toggle");
+          button.removeAttribute("data-bs-placement");
+        }
+        button.setAttribute("title", currentTitle);
+        button.classList.remove('code-copy-button-checked');
+      }, 1000);
+      // clear code selection
+      e.clearSelection();
+    }
+    const getTextToCopy = function(trigger) {
+      const outerScaffold = trigger.parentElement.cloneNode(true);
+      const codeEl = outerScaffold.querySelector('code');
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+    }
+    const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+      text: getTextToCopy
+    });
+    clipboard.on('success', onCopySuccess);
+    if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+      const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+        text: getTextToCopy,
+        container: window.document.getElementById('quarto-embedded-source-code-modal')
+      });
+      clipboardModal.on('success', onCopySuccess);
+    }
+      var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var mailtoRegex = new RegExp(/^mailto:/);
+        var filterRegex = new RegExp('/' + window.location.host + '/');
+      var isInternal = (href) => {
+          return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+      }
+      // Inspect non-navigation links and adorn them if external
+     var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+      for (var i=0; i<links.length; i++) {
+        const link = links[i];
+        if (!isInternal(link.href)) {
+          // undo the damage that might have been done by quarto-nav.js in the case of
+          // links that we want to consider external
+          if (link.dataset.originalHref !== undefined) {
+            link.href = link.dataset.originalHref;
+          }
+        }
+      }
+    function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+      const config = {
+        allowHTML: true,
+        maxWidth: 500,
+        delay: 100,
+        arrow: false,
+        appendTo: function(el) {
+            return el.parentElement;
+        },
+        interactive: true,
+        interactiveBorder: 10,
+        theme: 'quarto',
+        placement: 'bottom-start',
+      };
+      if (contentFn) {
+        config.content = contentFn;
+      }
+      if (onTriggerFn) {
+        config.onTrigger = onTriggerFn;
+      }
+      if (onUntriggerFn) {
+        config.onUntrigger = onUntriggerFn;
+      }
+      window.tippy(el, config); 
+    }
+    const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+    for (var i=0; i<noterefs.length; i++) {
+      const ref = noterefs[i];
+      tippyHover(ref, function() {
+        // use id or data attribute instead here
+        let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+        try { href = new URL(href).hash; } catch {}
+        const id = href.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note) {
+          return note.innerHTML;
+        } else {
+          return "";
+        }
+      });
+    }
+    const xrefs = window.document.querySelectorAll('a.quarto-xref');
+    const processXRef = (id, note) => {
+      // Strip column container classes
+      const stripColumnClz = (el) => {
+        el.classList.remove("page-full", "page-columns");
+        if (el.children) {
+          for (const child of el.children) {
+            stripColumnClz(child);
+          }
+        }
+      }
+      stripColumnClz(note)
+      if (id === null || id.startsWith('sec-')) {
+        // Special case sections, only their first couple elements
+        const container = document.createElement("div");
+        if (note.children && note.children.length > 2) {
+          container.appendChild(note.children[0].cloneNode(true));
+          for (let i = 1; i < note.children.length; i++) {
+            const child = note.children[i];
+            if (child.tagName === "P" && child.innerText === "") {
+              continue;
+            } else {
+              container.appendChild(child.cloneNode(true));
+              break;
+            }
+          }
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(container);
+          }
+          return container.innerHTML
+        } else {
+          if (window.Quarto?.typesetMath) {
+            window.Quarto.typesetMath(note);
+          }
+          return note.innerHTML;
+        }
+      } else {
+        // Remove any anchor links if they are present
+        const anchorLink = note.querySelector('a.anchorjs-link');
+        if (anchorLink) {
+          anchorLink.remove();
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        if (note.classList.contains("callout")) {
+          return note.outerHTML;
+        } else {
+          return note.innerHTML;
+        }
+      }
+    }
+    for (var i=0; i<xrefs.length; i++) {
+      const xref = xrefs[i];
+      tippyHover(xref, undefined, function(instance) {
+        instance.disable();
+        let url = xref.getAttribute('href');
+        let hash = undefined; 
+        if (url.startsWith('#')) {
+          hash = url;
+        } else {
+          try { hash = new URL(url).hash; } catch {}
+        }
+        if (hash) {
+          const id = hash.replace(/^#\/?/, "");
+          const note = window.document.getElementById(id);
+          if (note !== null) {
+            try {
+              const html = processXRef(id, note.cloneNode(true));
+              instance.setContent(html);
+            } finally {
+              instance.enable();
+              instance.show();
+            }
+          } else {
+            // See if we can fetch this
+            fetch(url.split('#')[0])
+            .then(res => res.text())
+            .then(html => {
+              const parser = new DOMParser();
+              const htmlDoc = parser.parseFromString(html, "text/html");
+              const note = htmlDoc.getElementById(id);
+              if (note !== null) {
+                const html = processXRef(id, note);
+                instance.setContent(html);
+              } 
+            }).finally(() => {
+              instance.enable();
+              instance.show();
+            });
+          }
+        } else {
+          // See if we can fetch a full url (with no hash to target)
+          // This is a special case and we should probably do some content thinning / targeting
+          fetch(url)
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.querySelector('main.content');
+            if (note !== null) {
+              // This should only happen for chapter cross references
+              // (since there is no id in the URL)
+              // remove the first header
+              if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+                note.children[0].remove();
+              }
+              const html = processXRef(null, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      }, function(instance) {
+      });
+    }
+        let selectedAnnoteEl;
+        const selectorForAnnotation = ( cell, annotation) => {
+          let cellAttr = 'data-code-cell="' + cell + '"';
+          let lineAttr = 'data-code-annotation="' +  annotation + '"';
+          const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+          return selector;
+        }
+        const selectCodeLines = (annoteEl) => {
+          const doc = window.document;
+          const targetCell = annoteEl.getAttribute("data-target-cell");
+          const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+          const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+          const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+          const lineIds = lines.map((line) => {
+            return targetCell + "-" + line;
+          })
+          let top = null;
+          let height = null;
+          let parent = null;
+          if (lineIds.length > 0) {
+              //compute the position of the single el (top and bottom and make a div)
+              const el = window.document.getElementById(lineIds[0]);
+              top = el.offsetTop;
+              height = el.offsetHeight;
+              parent = el.parentElement.parentElement;
+            if (lineIds.length > 1) {
+              const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+              const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+              height = bottom - top;
+            }
+            if (top !== null && height !== null && parent !== null) {
+              // cook up a div (if necessary) and position it 
+              let div = window.document.getElementById("code-annotation-line-highlight");
+              if (div === null) {
+                div = window.document.createElement("div");
+                div.setAttribute("id", "code-annotation-line-highlight");
+                div.style.position = 'absolute';
+                parent.appendChild(div);
+              }
+              div.style.top = top - 2 + "px";
+              div.style.height = height + 4 + "px";
+              div.style.left = 0;
+              let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+              if (gutterDiv === null) {
+                gutterDiv = window.document.createElement("div");
+                gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+                gutterDiv.style.position = 'absolute';
+                const codeCell = window.document.getElementById(targetCell);
+                const gutter = codeCell.querySelector('.code-annotation-gutter');
+                gutter.appendChild(gutterDiv);
+              }
+              gutterDiv.style.top = top - 2 + "px";
+              gutterDiv.style.height = height + 4 + "px";
+            }
+            selectedAnnoteEl = annoteEl;
+          }
+        };
+        const unselectCodeLines = () => {
+          const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+          elementsIds.forEach((elId) => {
+            const div = window.document.getElementById(elId);
+            if (div) {
+              div.remove();
+            }
+          });
+          selectedAnnoteEl = undefined;
+        };
+          // Handle positioning of the toggle
+      window.addEventListener(
+        "resize",
+        throttle(() => {
+          elRect = undefined;
+          if (selectedAnnoteEl) {
+            selectCodeLines(selectedAnnoteEl);
+          }
+        }, 10)
+      );
+      function throttle(fn, ms) {
+      let throttle = false;
+      let timer;
+        return (...args) => {
+          if(!throttle) { // first call gets through
+              fn.apply(this, args);
+              throttle = true;
+          } else { // all the others get throttled
+              if(timer) clearTimeout(timer); // cancel #2
+              timer = setTimeout(() => {
+                fn.apply(this, args);
+                timer = throttle = false;
+              }, ms);
+          }
+        };
+      }
+        // Attach click handler to the DT
+        const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+        for (const annoteDlNode of annoteDls) {
+          annoteDlNode.addEventListener('click', (event) => {
+            const clickedEl = event.target;
+            if (clickedEl !== selectedAnnoteEl) {
+              unselectCodeLines();
+              const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+              if (activeEl) {
+                activeEl.classList.remove('code-annotation-active');
+              }
+              selectCodeLines(clickedEl);
+              clickedEl.classList.add('code-annotation-active');
+            } else {
+              // Unselect the line
+              unselectCodeLines();
+              clickedEl.classList.remove('code-annotation-active');
+            }
+          });
+        }
+    const findCites = (el) => {
+      const parentEl = el.parentElement;
+      if (parentEl) {
+        const cites = parentEl.dataset.cites;
+        if (cites) {
+          return {
+            el,
+            cites: cites.split(' ')
+          };
+        } else {
+          return findCites(el.parentElement)
+        }
+      } else {
+        return undefined;
+      }
+    };
+    var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+    for (var i=0; i<bibliorefs.length; i++) {
+      const ref = bibliorefs[i];
+      const citeInfo = findCites(ref);
+      if (citeInfo) {
+        tippyHover(citeInfo.el, function() {
+          var popup = window.document.createElement('div');
+          citeInfo.cites.forEach(function(cite) {
+            var citeDiv = window.document.createElement('div');
+            citeDiv.classList.add('hanging-indent');
+            citeDiv.classList.add('csl-entry');
+            var biblioDiv = window.document.getElementById('ref-' + cite);
+            if (biblioDiv) {
+              citeDiv.innerHTML = biblioDiv.innerHTML;
+            }
+            popup.appendChild(citeDiv);
+          });
+          return popup.innerHTML;
+        });
+      }
+    }
+  });
+  </script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

@@ -1,0 +1,20 @@
+- path: "courses/uva-cps1-cpste/fall2026.html"
+  title: "CPS1: Cyber-Physical Systems Technology and Ethics"
+  description: "[[Fall 2026](courses/uva-cps1-cpste/fall2026.html)]{.underline}"
+  date: "2026-7"
+  image: "courses/images/uva-cps1-cpste.png"
+  categories: ["Graduate"]
+
+- path: "courses/uva-cs6501-wsiot/fall2026.html"
+  title: "CS6501: Wireless Sensing for the Internet of Things"
+  description: "[[Fall 2026](courses/uva-cs6501-wsiot/fall2026.html)]{.underline}, [[Fall 2025](courses/uva-cs6501-wsiot/fall2025.html)]{.underline}, [[Fall 2024](courses/uva-cs6501-wsiot/fall2024.html)]{.underline}"
+  date: "2026-7"
+  image: "courses/images/uva-cs6501-wsiot.png"
+  categories: ["Graduate"]
+
+- path: "courses/uva-csece4501-wiot/spring2026.html"
+  title: "CS/ECE4501: Wireless for the Internet of Things"
+  description: "[[Spring 2026](courses/uva-csece4501-wiot/spring2026.html)]{.underline}, [[Spring 2025](courses/uva-csece4501-wiot/spring2025.html)]{.underline}"
+  date: "2026-1"
+  image: "courses/images/uva-csece4501-wiot.png"
+  categories: ["Undergraduate"]
