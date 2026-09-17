@@ -13,8 +13,8 @@ categories: ["Graduate"]
 - Lecture time: 3:30pm-4:45pm MoWe
 - Location: Rice Hall 340
 - Office hours: 
-	- Kun Qian: Wednesday 10-11am, Thursday 10-11am in Olsson 267
-  - Shunqiang Feng: TBD
+	- Kun Qian: Wednesday 11-12am, 2-3pm in Olsson 267
+  - Shunqiang Feng: Monday 2-3pm, Tuesday 2-3pm at Cube NE-6 in the Link Lab
   
 ## Course Description
 

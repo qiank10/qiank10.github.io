@@ -15,7 +15,7 @@ categories: ["Graduate"]
 - Location: Rice Hall 340
 - Office hours: 
 	- Rider Foley: Monday 2-4pm in Thornton A218
-  - Kun Qian: Wednesday 10-11am, Thursday 10-11am in Olsson 267
+  - Kun Qian: Wednesday 11-12am, 2-3pm in Olsson 267
 
 ## Course Description
 

@@ -1,9 +1,23 @@
-- path: "../wink.html#lab-equipment"
-  title: "60 GHz SDR"
-  description: "RayNet (MCube) SDR platform with 1T2R and 8x8 phased array"
-  date: "2025-4"
-  image: "equipment/images/equipment_default.png"
-  categories: ["Communication", "Sensing"]
+# - path: "../wink.html#lab-equipment"
+#   title: "60 GHz SDR"
+#   description: "RayNet (MCube) SDR platform with 1T2R and 8x8 phased array"
+#   date: "2025-4"
+#   image: "equipment/images/equipment_default.png"
+#   categories: ["Communication", "Sensing"]
+
+- path: "https://www.stereolabs.com/store/products/zed-2i"
+  title: "Stereo Camera"
+  description: "ZED 2i Stereo Camera"
+  date: "2026-9"
+  image: "equipment/images/zed2i.png"
+  categories: ["Sensing"]
+
+- path: "https://www.robosense.ai/en/IncrementalComponents/Fairy"
+  title: "3D Lidar"
+  description: "RoboSense Fairy 96-Channel 3D LiDAR Sensor"
+  date: "2026-9"
+  image: "equipment/images/robosense.png"
+  categories: ["Sensing"]
 
 - path: "https://www.pi-rad.io/home"
   title: "FR3 (6-24 GHz) SDR"
@@ -28,7 +42,7 @@
 
 - path: "https://www.ettus.com/all-products/ub210-kit/"
   title: "Sub-6 GHz SDR"
-  description: "USRP B210 with 2x2 MIMO"
+  description: "USRP B210/X310 with 2x2 MIMO"
   date: "2024-6"
   image: "equipment/images/usrp-b210.png"
   categories: ["Communication", "Sensing"]
@@ -48,28 +62,28 @@
   categories: ["Communication", "Sensing"]
 
 - path: "https://www.digikey.com/en/products/detail/texas-instruments/MMWCAS-RF-EVM/10661739"
-  title: "77 GHz Radar"
+  title: "77 GHz 12x16 MIMO Radar"
   description: "TI's 77 GHz Cascaded radar with 12T16R"
   date: "2024-5"
   image: "equipment/images/ti-cascaded.png"
   categories: ["Sensing"]
 
 - path: "https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/eval-tinyrad.html"
-  title: "24 GHz Radar"
+  title: "24 GHz 2x4 MIMO Radar"
   description: "TINYRAD 24 GHz radar with 2T4R"
   date: "2024-4"
   image: "equipment/images/tinyrad.png"
   categories: ["Sensing"]
 
 - path: "https://www.ti.com/tool/IWR1843BOOST"
-  title: "77 GHz Radar"
+  title: "77 GHz 3x4 MIMO Radar"
   description: "TI's 77 GHz Single-chip radar with 3T4R"
   date: "2024-4"
   image: "equipment/images/ti-single.png"
   categories: ["Communication", "Sensing"]
 
 - path: "https://www.infineon.com/evaluation-board/DEMO-BGT60TR13C"
-  title: "60 GHz IoT Radar"
+  title: "60 GHz 1x3 IoT Radar"
   description: "Infineon BGT60TR13C 60 GHz radar with 1T3R"
   date: "2024-3"
   image: "equipment/images/infineon.png"
