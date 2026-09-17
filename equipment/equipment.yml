@@ -55,7 +55,7 @@
   categories: ["Communication", "Sensing"]
 
 - path: "https://www.impinj.com/zh-cn/products/readers/impinj-speedway"
-  title: "RFID Reader"
+  title: "RFID"
   description: "Impinj R420 UHF RFID Reader with 4 distributable antennas"
   date: "2024-5"
   image: "equipment/images/rfid.png"

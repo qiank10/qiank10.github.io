@@ -14,7 +14,7 @@ listing:
         - news/*.yml
       type: grid
       max-items: 6
-      fields: [date, title, description]
+      fields: [date, title, description, categories]
       max-description-length: 500
       sort:
         - "date desc"

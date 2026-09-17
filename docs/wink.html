@@ -106,34 +106,6 @@ ul.task-list li input[type="checkbox"] {
   
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-undergrad .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-description','listing-date','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-undergrad'] = new List('listing-undergrad', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-equipment .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -276,7 +248,6 @@ window.Quarto = {
   <li><a href="#lab-members" id="toc-lab-members" class="nav-link active" data-scroll-target="#lab-members">Lab Members</a>
   <ul class="collapse">
   <li><a href="#ph.d.-students" id="toc-ph.d.-students" class="nav-link" data-scroll-target="#ph.d.-students">Ph.D.&nbsp;Students</a></li>
-  <li><a href="#undergraduate-students" id="toc-undergraduate-students" class="nav-link" data-scroll-target="#undergraduate-students">Undergraduate Students</a></li>
   <li><a href="#alumni" id="toc-alumni" class="nav-link" data-scroll-target="#alumni">Alumni</a></li>
   </ul></li>
   <li><a href="#lab-equipment" id="toc-lab-equipment" class="nav-link" data-scroll-target="#lab-equipment">Lab Equipment</a></li>
@@ -382,56 +353,9 @@ Jan, 2025
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
 <!-- ### Master's Students -->
-</section>
-<section id="undergraduate-students" class="level3">
-<h3 data-anchor-id="undergraduate-students">Undergraduate Students</h3>
-<div id="listing-undergrad" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-4">
-<div class="g-col-1" data-index="0" data-listing-date-sort="1754020800000" data-listing-file-modified-sort="1789657661718" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
-<a href="./wink.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="people/images/people_default.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Ninglan Lei
-</h5>
-<div class="card-text listing-description delink">
-<p>Computer Science</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Aug, 2025
-</div>
-</div>
-</div>
-</div></a>
-</div>
-<div class="g-col-1" data-index="1" data-listing-date-sort="1722484800000" data-listing-file-modified-sort="1789657661718" data-listing-reading-time-sort="1" data-listing-word-count-sort="134">
-<a href="./wink.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="people/images/people_default.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Zaid Z Contractor
-</h5>
-<div class="card-text listing-description delink">
-<p>Computer Science</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Aug, 2024
-</div>
-</div>
-</div>
-</div></a>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
+<!-- ### Undergraduate Students
+:::{#undergrad}
+::: -->
 </section>
 <section id="alumni" class="level3">
 <h3 data-anchor-id="alumni">Alumni</h3>
@@ -616,7 +540,7 @@ WiGig AP (60 GHz)
 </p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-RFID Reader
+RFID
 </h5>
 <div class="listing-categories">
 

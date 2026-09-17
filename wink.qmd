@@ -22,19 +22,19 @@ listing:
       categories: false
       sort-ui: false
       filter-ui: false
-    - id: undergrad
-      contents:
-        - people/undergrad.yml
-      type: grid
-      grid-columns: 4
-      fields: [title, description, date, image]
-      max-description-length: 200
-      sort: 
-        - "date desc"
-      page-size: 100
-      categories: false
-      sort-ui: false
-      filter-ui: false
+    # - id: undergrad
+    #   contents:
+    #     - people/undergrad.yml
+    #   type: grid
+    #   grid-columns: 4
+    #   fields: [title, description, date, image]
+    #   max-description-length: 200
+    #   sort: 
+    #     - "date desc"
+    #   page-size: 100
+    #   categories: false
+    #   sort-ui: false
+    #   filter-ui: false
     - id: equipment
       contents:
         - equipment/*.yml
@@ -75,9 +75,9 @@ The **Wireless Intelligence for Networks and Knowledge (WINK) Lab**, founded by 
 
 <!-- ### Master's Students -->
 
-### Undergraduate Students
+<!-- ### Undergraduate Students
 :::{#undergrad}
-:::
+::: -->
 
 ### Alumni
 

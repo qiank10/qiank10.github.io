@@ -5,7 +5,7 @@ listing:
       contents:
         - news/*.yml
       type: default
-      fields: [title, description, date, image]
+      fields: [title, description, date, image, categories]
       max-description-length: 200
       sort: 
         - "date desc"
