@@ -1,72 +1,30 @@
-# - path: "../wink.html#lab-equipment"
-#   title: "60 GHz SDR"
-#   description: "RayNet (MCube) SDR platform with 1T2R and 8x8 phased array"
-#   date: "2025-4"
-#   image: "equipment/images/equipment_default.png"
-#   categories: ["Communication", "Sensing"]
-
-- path: "https://www.stereolabs.com/store/products/zed-2i"
-  title: "Stereo Camera"
-  description: "ZED 2i Stereo Camera"
+- path: "../wink.html#lab-equipment"
+  title: "Multimodal Sensing Platform"
+  description: "A sensing platform integrating TI MMWCAS 77 GHz radar, RoboSense Fairy lidar, and ZED 2i camera for static/mobile sensing"
   date: "2026-9"
-  image: "equipment/images/zed2i.png"
-  categories: ["Sensing"]
-
-- path: "https://www.robosense.ai/en/IncrementalComponents/Fairy"
-  title: "3D Lidar"
-  description: "RoboSense Fairy 96-Channel 3D LiDAR Sensor"
-  date: "2026-9"
-  image: "equipment/images/robosense.png"
+  image: "equipment/images/mmsp.png"
   categories: ["Sensing"]
 
 - path: "https://www.pi-rad.io/home"
-  title: "FR3 (6-24 GHz) SDR"
-  description: "Pi-Radio SDR platform with 2x2 MIMO"
+  title: "FR3 (6-24 GHz) Testbed"
+  description: "A FR3 testbed with Pi-Radio SDR (2x2 MIMO) and USRP B210/X310"
   date: "2025-2"
   image: "equipment/images/pi-radio.png"
   categories: ["Communication"]
 
 - path: "https://www.sivers-semiconductors.com/wireless/evk02004/"
-  title: "28 GHz SDR"
-  description: "Sivers EVK02004 SDR platform with 4x4 phased array"
+  title: "FR2 (28 GHz) Testbed"
+  description: "A FR2 testbed with Sivers EVK02004 SDR (4x4 phased array) and USRP B210/X310"
   date: "2025-1"
   image: "equipment/images/sivers.png"
   categories: ["Communication"]
 
-- path: "https://www.eravant.com/60-to-90-ghz-25-db-isolation-wr-12-waveguide-e-band-reflective-spst-pin-diode-switch"
+- path: "../wink.html#lab-equipment"
   title: "77 GHz RF Backscatter Prototype"
-  description: "Eravant 77 GHz RF switch and waveguide"
+  description: "A 77 GHz backscatter prototype made from Eravant RF switch and waveguide"
   date: "2024-10"
   image: "equipment/images/eravant.png"
   categories: ["Communication", "Sensing"]
-
-- path: "https://www.ettus.com/all-products/ub210-kit/"
-  title: "Sub-6 GHz SDR"
-  description: "USRP B210/X310 with 2x2 MIMO"
-  date: "2024-6"
-  image: "equipment/images/usrp-b210.png"
-  categories: ["Communication", "Sensing"]
-
-- path: "https://mikrotik.com/product/wap_60g_ap"
-  title: "WiGig AP (60 GHz)"
-  description: "Mikrotik wAP 60G AP with 6x6 phased array"
-  date: "2024-5"
-  image: "equipment/images/mikrotik.png"
-  categories: ["Communication", "Sensing"]
-
-- path: "https://www.impinj.com/zh-cn/products/readers/impinj-speedway"
-  title: "RFID"
-  description: "Impinj R420 UHF RFID Reader with 4 distributable antennas"
-  date: "2024-5"
-  image: "equipment/images/rfid.png"
-  categories: ["Communication", "Sensing"]
-
-- path: "https://www.digikey.com/en/products/detail/texas-instruments/MMWCAS-RF-EVM/10661739"
-  title: "77 GHz 12x16 MIMO Radar"
-  description: "TI's 77 GHz Cascaded radar with 12T16R"
-  date: "2024-5"
-  image: "equipment/images/ti-cascaded.png"
-  categories: ["Sensing"]
 
 - path: "https://www.analog.com/en/resources/evaluation-hardware-and-software/evaluation-boards-kits/eval-tinyrad.html"
   title: "24 GHz 2x4 MIMO Radar"
@@ -75,23 +33,16 @@
   image: "equipment/images/tinyrad.png"
   categories: ["Sensing"]
 
-- path: "https://www.ti.com/tool/IWR1843BOOST"
-  title: "77 GHz 3x4 MIMO Radar"
-  description: "TI's 77 GHz Single-chip radar with 3T4R"
-  date: "2024-4"
-  image: "equipment/images/ti-single.png"
-  categories: ["Communication", "Sensing"]
-
-- path: "https://www.infineon.com/evaluation-board/DEMO-BGT60TR13C"
-  title: "60 GHz 1x3 IoT Radar"
-  description: "Infineon BGT60TR13C 60 GHz radar with 1T3R"
-  date: "2024-3"
-  image: "equipment/images/infineon.png"
-  categories: ["Sensing"]
-
 - path: "https://ps.zpj.io/"
   title: "Wi-Fi CSI Testbed"
   description: "PicoScenes Wi-Fi 6/6E testbed with 2x2 MIMO for ISAC research"
   date: "2024-3"
   image: "equipment/images/picoscenes.png"
   categories: ["Communication", "Sensing"]
+
+# - path: "../wink.html#lab-equipment"
+#   title: "60 GHz SDR"
+#   description: "RayNet (MCube) SDR platform with 1T2R and 8x8 phased array"
+#   date: "2025-4"
+#   image: "equipment/images/equipment_default.png"
+#   categories: ["Communication", "Sensing"]
