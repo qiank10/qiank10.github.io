@@ -85,7 +85,7 @@ ul.task-list li input[type="checkbox"] {
     }
 
     const options = {
-      valueNames: ['listing-date','listing-title','listing-description','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-date','listing-title','listing-description','listing-image','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
       page: 18,
     pagination: { item: "<li class='page-item'><a class='page page-link' href='#'></a></li>" },
       searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description"],
@@ -258,9 +258,38 @@ University of Virginia</p>
 <h2 data-anchor-id="latest-news">Latest News</h2>
 <div id="listing-latest-news" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="R3JhbnQ=" data-listing-date-sort="1782878400000">
+<div class="g-col-1" data-index="0" data-categories="R3JhbnQ=" data-listing-date-sort="1790827200000">
 <a href="https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="news/images/meta_aria.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Gifts from Meta
+</h5>
+<div class="listing-categories">
+
+<div class="listing-category" onclick="window.quartoListingCategory('R3JhbnQ='); return false;">Grant</div>
+
+</div>
+<div class="card-text listing-description delink">
+<p>Our research on egocentric RF sensing received Project Aira Gen 2 glasses from Meta. Grateful for the support!</p>
+</div>
+<div class="card-attribution card-text-small end">
+<div class="listing-date">
+Oct, 2026
+</div>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="R3JhbnQ=" data-listing-date-sort="1782878400000">
+<a href="https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="news/images/nvidia.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
 New Grant from NVIDIA
@@ -281,12 +310,15 @@ Jul, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="U2VydmljZQ==" data-listing-date-sort="1777608000000">
+<div class="g-col-1" data-index="2" data-categories="U2VydmljZQ==" data-listing-date-sort="1777608000000">
 <a href="https://sensys.acm.org/2027/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="news/images/sensys27.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Invitated to Serve SenSys 2027 TPC
+Serving in SenSys 2027 TPC
 </h5>
 <div class="listing-categories">
 
@@ -304,35 +336,15 @@ May, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="2" data-categories="UHVibGljYXRpb24=" data-listing-date-sort="1775016000000" data-listing-file-modified-sort="1789659489640" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
-<a href="./news.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-New Publication in MobiSys 2026
-</h5>
-<div class="listing-categories">
-
-<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljYXRpb24='); return false;">Publication</div>
-
-</div>
-<div class="card-text listing-description delink">
-<p>Our recent work, BeamFormer, uses transformers to generate unseen beam measurements, thereby slashing the scanning beams for 6G gMIMO.</p>
-</div>
-<div class="card-attribution card-text-small end">
-<div class="listing-date">
-Apr, 2026
-</div>
-</div>
-</div>
-</div></a>
-</div>
 <div class="g-col-1" data-index="3" data-categories="U2VydmljZQ==" data-listing-date-sort="1775016000000">
 <a href="https://conferences.ieee.org/conferences_events/conferences/conferencedetails/67597" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="news/images/infocom27.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Invitated to Serve INFOCOM 2027 TPC
+Serving in INFOCOM 2027 TPC
 </h5>
 <div class="listing-categories">
 
@@ -353,9 +365,12 @@ Apr, 2026
 <div class="g-col-1" data-index="4" data-categories="U2VydmljZQ==" data-listing-date-sort="1775016000000">
 <a href="https://dl.acm.org/journal/imwut" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="news/images/imwut.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Invitated to Serve IMWUT Editorial Board
+Serving in IMWUT Editorial Board
 </h5>
 <div class="listing-categories">
 
@@ -373,24 +388,27 @@ Apr, 2026
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="5" data-categories="U2VydmljZQ==" data-listing-date-sort="1764565200000">
-<a href="https://www.sigmobile.org/mobihoc/2026/" class="quarto-grid-link">
+<div class="g-col-1" data-index="5" data-categories="UHVibGljYXRpb24=" data-listing-date-sort="1775016000000" data-listing-file-modified-sort="1792608615117" data-listing-reading-time-sort="1" data-listing-word-count-sort="1">
+<a href="./news.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="news/images/mobisys26beamformer.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
 <div class="card-body post-contents">
 <h5 class="no-anchor card-title listing-title">
-Invitated to Serve MobiHoc 2026 TPC
+New Publication in MobiSys 2026
 </h5>
 <div class="listing-categories">
 
-<div class="listing-category" onclick="window.quartoListingCategory('U2VydmljZQ=='); return false;">Service</div>
+<div class="listing-category" onclick="window.quartoListingCategory('UHVibGljYXRpb24='); return false;">Publication</div>
 
 </div>
 <div class="card-text listing-description delink">
-<p>I will serve as an TPC member for MobiHoc’26 (abstract due: 4/13/2026). Please consider submitting.</p>
+<p>Our recent work, BeamFormer, uses transformers to generate unseen beam measurements, thereby slashing the scanning beams for 6G gMIMO.</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
-Dec, 2025
+Apr, 2026
 </div>
 </div>
 </div>

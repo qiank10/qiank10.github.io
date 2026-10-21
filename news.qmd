@@ -4,7 +4,8 @@ listing:
     - id: news
       contents:
         - news/*.yml
-      type: default
+      type: grid
+      grid-columns: 2
       fields: [title, description, date, image, categories]
       max-description-length: 200
       sort: 

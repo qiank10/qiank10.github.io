@@ -1,4 +1,11 @@
 - path: "../research.html#grants"
+  title: "LS2M: Towards Large Spatial Spectrum Model for Beam Management in 6G Communication and Sensing"
+  agency: "NVIDIA Academic Grant Program"
+  role: "PI"
+  duration: "2026.7 - 2026.12"
+  date: "2026-07-01"
+
+- path: "../research.html#grants"
   title: "Spoofing-Resilient and Communication-Compatible MmWave Radar Sensing for Autonomous Systems"
   agency: "Commonwealth Cyber Initiative (CCI)"
   role: "PI"
