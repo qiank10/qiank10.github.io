@@ -1,7 +1,7 @@
-- path: "https://www.nvidia.com/en-us/industries/higher-education-research/academic-grant-program/"
+- path: "https://www.projectaria.com/"
   image: news/images/meta_aria.png
   title: "Gifts from Meta"
-  description: "Our research on egocentric RF sensing received Project Aira Gen 2 glasses from Meta. Grateful for the support!"
+  description: "Our research on egocentric RF sensing received Project Aria Gen 2 glasses from Meta. Grateful for the support!"
   date: "2026-10"
   categories: ["Grant"]
 
@@ -15,14 +15,14 @@
 - path: "https://sensys.acm.org/2027/index.html"
   image: news/images/sensys27.png
   title: "Serving in SenSys 2027 TPC"
-  description: "I will serve as an TPC member for SenSys'27 (abstract due: 5/29/2027). Please consider submitting."
+  description: "I will serve as a TPC member for SenSys'27 (abstract due: 5/29/2027). Please consider submitting."
   date: "2026-5"
   categories: ["Service"]
 
 - path: "https://conferences.ieee.org/conferences_events/conferences/conferencedetails/67597"
   image: news/images/infocom27.png
   title: "Serving in INFOCOM 2027 TPC"
-  description: "I will serve as an TPC member for INFOCOM'27 (abstract due: 7/24/2026). Please consider submitting."
+  description: "I will serve as a TPC member for INFOCOM'27 (abstract due: 7/24/2026). Please consider submitting."
   date: "2026-4"
   categories: ["Service"]
   
@@ -36,21 +36,21 @@
 - path: "https://dl.acm.org/journal/imwut"
   image: news/images/imwut.png
   title: "Serving in IMWUT Editorial Board"
-  description: "I will serve as an Associate Editor for IMWUT since the May round. Please consider submitting."
+  description: "I will serve as an Associate Editor for IMWUT since the May 2026 round. Please consider submitting."
   date: "2026-4"
   categories: ["Service"]
 
 - path: "https://www.sigmobile.org/mobihoc/2026/"
   image: news/images/mobihoc26.png
   title: "Serving in MobiHoc 2026 TPC"
-  description: "I will serve as an TPC member for MobiHoc'26 (abstract due: 4/13/2026). Please consider submitting."
+  description: "I will serve as a TPC member for MobiHoc'26 (abstract due: 4/13/2026). Please consider submitting."
   date: "2025-12"
   categories: ["Service"]
 
 - path: "https://infocom2026.ieee-infocom.org/"
   image: news/images/infocom26.png
   title: "Serving in INFOCOM 2026 TPC"
-  description: "I will serve as an TPC member for INFOCOM'26 (abstract due: 7/24/2025). Please consider submitting."
+  description: "I will serve as a TPC member for INFOCOM'26 (abstract due: 7/24/2025). Please consider submitting."
   date: "2025-5"
   categories: ["Service"]
 

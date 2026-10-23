@@ -61,7 +61,7 @@ title-block-banner: false
 :::{#lab-info}
 :::
 
-The **Wireless Intelligence for Networks and Knowledge (WINK) Lab**, founded by Prof. Kun Qian at the Department of Computer Science, University of Virginia, aims to develop wireless technologies that enable ambient intelligence and ubiquitous connectivity with ensured interpretability, reliability, and security. Our current research focuses on the following areas:
+The **Wireless Intelligence for Networks and Knowledge (WINK) Lab**, operated by Prof. Kun Qian at the Department of Computer Science, University of Virginia, aims to develop wireless technologies that enable ambient intelligence and ubiquitous connectivity with ensured interpretability, reliability, and security. Our current research focuses on the following areas:
 
 - AI for wireless sensing and communication, e.g., generative models
 - Wireless IoT/mobile system and hardware, e.g., backscatter and RIS
@@ -79,9 +79,9 @@ The **Wireless Intelligence for Networks and Knowledge (WINK) Lab**, founded by 
 :::{#undergrad}
 ::: -->
 
-### Alumni
+<!-- ### Alumni
 
-WINK Lab is young and has no alumni yet.
+WINK Lab is young and has no alumni yet. -->
 
 ## Lab Equipment
 
