@@ -1,0 +1,30 @@
+---
+title: "AI for Wireless Communication and Sensing"
+listing:
+    - id: publications
+      contents: 
+        - ../publications/*.yml
+      type: custom
+      sort:
+        - "date desc"
+      page-size: 100
+      template: ../publications.ejs
+      filter-ui: false
+      sort-ui: false
+      categories: false
+      include: 
+        categories: ["AI"]
+page-navigation: false
+title-block-banner: false
+toc: false
+css: ../publications.css
+---
+
+::: {style="float: right; margin-right: 10px;"}
+![](images/ai-for-wireless.png){width="400px"}
+:::
+Wireless signals carry rich information about communication channels and the physical world, but practical systems often have access to only sparse, noisy, and incomplete measurements. We develop AI models that combine knowledge of wireless propagation with data-driven learning to extract useful information from these limited observations. Our research explores generative modeling, spatial channel reconstruction, and multimodal learning to improve sensing capabilities, reduce measurement overhead, and enable efficient beam management. Our goal is to build interpretable and reliable wireless intelligence that adapts to new environments and supports both sensing and communication.
+
+## Related Publications
+::: {#publications}
+:::

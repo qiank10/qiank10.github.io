@@ -4,7 +4,7 @@
   authors: "<u>Shunqiang Feng</u>, Swastik Kanjilal, <b>Kun Qian</b>, Ish Kumar Jain"
   publication: "ACM MobiSys 2026"
   date: "2026-04-06"
-  categories: ["Conference"]
+  categories: ["Conference", "AI"]
   url_pdf: "https://www.dropbox.com/scl/fi/uj93zsyy53xpnh04eqn3d/MobiSys26_BeamFormer_paper.pdf?rlkey=t3zzhlwyzt5iryrpmf5ernnkk&st=20fnngdi&dl=0"
   url_code: "https://github.com/Shunqiang-Feng/BeamFormer"
   url_slides: ""
@@ -14,7 +14,7 @@
   authors: "<b>Kun Qian</b>, Parth Pathak"
   publication: "ACM MobiSys 2025"
   date: "2025-04-07"
-  categories: ["Conference"]
+  categories: ["Conference", "Hardware"]
   url_pdf: "https://www.dropbox.com/scl/fi/19m337suohip7r0jzqztw/MobiSys25_SCR_paper.pdf?rlkey=xmp6ykhvocd32vxmjh1ja0q3y&st=ic3ca7cr&dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/scl/fi/od553q9qtjnyvz2et9ejc/MobiSys25_SCR_slides.pptx?rlkey=bhzwgwbpwq4iinswj1v3pzogr&st=sft67o9y&dl=0"
@@ -24,7 +24,7 @@
   authors: "Xingyu Chen, Zihao Feng, <b>Kun Qian</b>, Xinyu Zhang"
   publication: "IEEE/CVF CVPR 2025"
   date: "2025-04-01"
-  categories: ["Conference"]
+  categories: ["Conference", "AI"]
   url_pdf: "https://www.dropbox.com/scl/fi/7kp5niv1pvwz4pfj9kf0l/CVPR25_RFScape_paper.pdf?rlkey=51q6wbbdba6730q8cmkjiv097&st=cmcjsads&dl=0"
   url_code: ""
   url_slides: ""
@@ -34,7 +34,7 @@
   authors: "Xingyu Chen, Zihao Feng, Ke Sun, <b>Kun Qian</b>, Xinyu Zhang"
   publication: "ACM SenSys 2024"
   date: "2024-10-01"
-  categories: ["Conference"]
+  categories: ["Conference", "AI"]
   url_pdf: "https://www.dropbox.com/scl/fi/fd05dya06xa6baleoo11n/SenSys24_RFCanvas_paper.pdf?rlkey=yel1uhb5dde00xemr3455dan8&st=g5l9ino4&dl=0"
   url_code: ""
   url_slides: ""
@@ -44,7 +44,7 @@
   authors: "John Nolan, <b>Kun Qian</b>, Xinyu Zhang"
   publication: "ACM IMWUT 2024"
   date: "2024-01-01"
-  categories: ["Journal"]
+  categories: ["Journal", "Hardware"]
   url_pdf: "https://www.dropbox.com/scl/fi/fxam06y9wxewr62c2gjn8/IMWUT24_KeyStub_paper.pdf?rlkey=j0babpdzms2qrv3qb4nw2oz8e&dl=0"
   url_code: ""
   url_slides: ""
@@ -54,7 +54,7 @@
   authors: "Timothy Woodford, <b>Kun Qian</b>, Xinyu Zhang"
   publication: "ACM SenSys 2023"
   date: "2023-11-01"
-  categories: ["Conference"]
+  categories: ["Conference", "Hardware"]
   url_pdf: "https://www.dropbox.com/scl/fi/6va1l07fdwte6sfsxljda/SenSys23_Metasight_paper.pdf?rlkey=m86jz9vbvy7hjucvdpo8xvo77&st=l75ip4tf&dl=0"
   url_code: ""
   url_slides: ""
@@ -64,7 +64,7 @@
   authors: "Kai Zheng, <b>Kun Qian</b>, Timothy Woodford, Xinyu Zhang"
   publication: "ACM SenSys 2023"
   date: "2023-11-01"
-  categories: ["Conference"]
+  categories: ["Conference", "Hardware"]
   url_pdf: "https://www.dropbox.com/scl/fi/xa5euch8cj9ld1xcxvhjj/SenSys23_NeuroRadar_paper.pdf?rlkey=x0aniow8m06hdpcqjh0bkeble&st=w6folv4a&dl=0"
   url_code: ""
   url_slides: ""
@@ -74,7 +74,7 @@
   authors: "<b>Kun Qian</b>, Lulu Yao, Kai Zheng, Xinyu Zhang, Tse Nga Ng"
   publication: "ACM MobiCom 2023"
   date: "2023-10-01"
-  categories: ["Journal"]
+  categories: ["Journal", "Hardware"]
   url_pdf: "https://www.dropbox.com/s/91n3wbd6k9wxiaf/MobiCom23_UniScatter_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/scl/fi/zqp4gf1ep9j845x0cydwt/MobiCom23_UniScatter_slides.pptx?rlkey=anydwszk0wegw9puat0j5ovkn&dl=0"
@@ -84,7 +84,7 @@
   authors: "Zheng Yang, Yi Zhang, <b>Kun Qian</b>, Chenshu Wu"
   publication: "USENIX NSDI 2023"
   date: "2023-04-17"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/7eh49ospi5np30q/NSDI23_SLNet_paper.pdf?dl=0"
   url_code: ""
   url_slides: ""
@@ -94,7 +94,7 @@
   authors: "<b>Kun Qian</b>, Lulu Yao, Xinyu Zhang, Tse Nga Ng"
   publication: "ACM MobiCom 2022"
   date: "2022-10-01"
-  categories: ["Conference"]
+  categories: ["Conference", "Hardware"]
   url_pdf: "https://www.dropbox.com/s/si98zg5l7h5ymao/MobiCom22_MilliMirror_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/s/yu1ypja7bjs7yjo/MobiCom22_MilliMirror_slides.pptx?dl=0"
@@ -104,7 +104,7 @@
   authors: "<b>Kun Qian</b>, Zhaoyuan He, Xinyu Zhang"
   publication: "ACM IMWUT 2021"
   date: "2021-09-11"
-  categories: ["Journal"]
+  categories: ["Journal", "Application"]
   url_pdf: "https://www.dropbox.com/s/eonykw3mu91j5rf/UbiComp21_MilliPoint_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/s/nhabz3o4318b26o/UbiComp21_MilliPoint_slides.pptx?dl=0"
@@ -114,7 +114,7 @@
   authors: "<b>Kun Qian</b>, John Nolan, Xinyu Zhang"
   publication: "ACM SIGCOMM 2021"
   date: "2021-08-23"
-  categories: ["Conference"]
+  categories: ["Conference", "Hardware"]
   url_pdf: "https://www.dropbox.com/s/hjb92zty0wjfw2d/SIGCOMM21_RoS_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/scl/fi/hjq7pou9a2g5z0jlk02c2/SIGCOMM21_RoS_slides.pptx"
@@ -124,7 +124,7 @@
   authors: "Yi Zhang, Yue Zheng, <b>Kun Qian</b>, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang"
   publication: "IEEE TPAMI 2021"
   date: "2021-08-01"
-  categories: ["Journal"]
+  categories: ["Journal", "Application"]
   url_pdf: "https://www.dropbox.com/s/d1htz1i81w2w9si/TPAMI21_Widar3.0_paper.pdf?dl=0"
   url_code: ""
   url_slides: ""
@@ -134,7 +134,7 @@
   authors: "<b>Kun Qian</b>, Shilin Zhu, Xinyu Zhang, Li Erran Li"
   publication: "IEEE/CVF CVPR 2021"
   date: "2021-06-19"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/gl8mveo1i8w9re9/CVPR21_MVDNet_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/s/wl3k3wsce1sfcfd/CVPR21_MVDNet_slides.pptx?dl=0"
@@ -154,7 +154,7 @@
   authors: "Renjie Zhao, Timothy Woodford, Teng Wei, <b>Kun Qian</b>, Xinyu Zhang"
   publication: "ACM MobiCom 2020"
   date: "2020-09-21"
-  categories: ["Conference"]
+  categories: ["Conference", "Hardware"]
   url_pdf: "https://www.dropbox.com/s/jznef2lmwk9trgy/MobiCom20_MCube_paper.pdf?dl=0"
   url_code: ""
   url_slides: ""
@@ -174,7 +174,7 @@
   authors: "Jingao Xu, Hengjie Chen, <b>Kun Qian</b>, Erqun Dong, Min Sun, Chenshu Wu, Li Zhang, Zheng Yang"
   publication: "ACM IMWUT 2019"
   date: "2019-09-09"
-  categories: ["Journal"]
+  categories: ["Journal", "Application"]
   url_pdf: "https://www.dropbox.com/s/gix5fjwveu3r0kj/IMWUT19_iVR_paper.pdf?dl=0"
   url_code: ""
   url_slides: ""
@@ -184,7 +184,7 @@
   authors: "Yue Zheng, Yi Zhang, <b>Kun Qian</b>, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang"
   publication: "ACM MobiSys 2019"
   date: "2019-06-17"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/5g632rd4dy1tvbk/MobiSys19_Widar3.0_paper.pdf?dl=0"
   url_code: "http://tns.thss.tsinghua.edu.cn/widar3.0/"
   url_slides: "https://www.dropbox.com/s/g6bclo9r6gonpil/MobiSys19_Widar3.0_slides.pptx?dl=0"
@@ -194,7 +194,7 @@
   authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu"
   publication: "IEEE TMC 2018"
   date: "2018-08-01"
-  categories: ["Journal"]
+  categories: ["Journal", "Application"]
   url_pdf: "https://www.dropbox.com/s/v99yohc8vz5rxki/TMC18_DMUSIC_paper.pdf?dl=0"
   url_code: ""
   url_slides: ""
@@ -204,7 +204,7 @@
   authors: "<b>Kun Qian</b>, Chenshu Wu, Yi Zhang, Guidong Zhang, Zheng Yang, Yunhao Liu"
   publication: "ACM MobiSys 2018"
   date: "2018-06-10"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/t931e50ppveqzoc/MobiSys18_Widar2.0_paper.pdf?dl=0"
   url_code: "http://tns.thss.tsinghua.edu.cn/wifiradar"
   url_slides: "https://www.dropbox.com/s/i2f30pzf7qrzajq/MobiSys18_Widar2.0_slides.pptx?dl=0"
@@ -214,7 +214,7 @@
   authors: "<b>Kun Qian</b>, Chenshu Wu, Fu Xiao, Yue Zheng, Yi Zhang, Zheng Yang"
   publication: "IEEE INFOCOM 2018"
   date: "2018-04-15"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/9myu7ct6tkkasd9/INFOCOM18_ACG_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/s/n1a9a3zxs2o22vo/INFOCOM18_ACG_slides.pptx?dl=0"
@@ -224,7 +224,7 @@
   authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Fugui He, Tianzhang Xing"
   publication: "ACM TECS 2018"
   date: "2018-01-01"
-  categories: ["Journal"]
+  categories: ["Journal", "Application"]
   url_pdf: "https://www.dropbox.com/s/fxra3epbfvbkoe4/TECS18_PADS_paper.pdf?dl=0"
   url_code: ""
   url_slides: ""
@@ -234,7 +234,7 @@
   authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Kyle Jamieson"
   publication: "ACM MobiHoc 2017"
   date: "2017-07-10"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/3eg1zmwkql7t07j/MobiHoc17_Widar_paper.pdf?dl=0"
   url_code: "http://tns.thss.tsinghua.edu.cn/wifiradar"
   url_slides: "https://www.dropbox.com/s/eu30lbigqg1x9lr/MobiHoc17_Widar_slides.pptx?dl=0"
@@ -244,7 +244,7 @@
   authors: "<b>Kun Qian</b>, Chenshu Wu, Zimu Zhou, Yue Zheng, Zheng Yang, Yunhao Liu"
   publication: "ACM CHI 2017"
   date: "2017-05-06"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/8vzkhh7fk3d0jlx/CHI17_WiDance_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/s/bg9o6213rf43z1t/CHI17_WiDance_slides.pptx?dl=0"
@@ -254,7 +254,7 @@
   authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu"
   publication: "IEEE INFOCOM 2016"
   date: "2016-04-10"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/mpi43v0i5knjjxh/INFOCOM16_TuningbyTurning_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/s/e1at1cxqs5lqq8f/INFOCOM16_TuningByTurning_slides.pptx?dl=0"
@@ -264,7 +264,7 @@
   authors: "Chenshu Wu, Zheng Yang, Zimu Zhou, <b>Kun Qian</b>, Yunhao Liu, Mingyan Liu"
   publication: "IEEE INFOCOM 2015"
   date: "2015-04-26"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/d8nidi75wu71tdw/INFOCOM15_PhaseU_paper.pdf?dl=0"
   url_code: ""
   url_slides: ""
@@ -274,7 +274,7 @@
   authors: "<b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Zimu Zhou"
   publication: "IEEE ICPADS 2014"
   date: "2014-12-16"
-  categories: ["Conference"]
+  categories: ["Conference", "Application"]
   url_pdf: "https://www.dropbox.com/s/u63si4ubr8hn1a5/ICPADS14_PADS_paper.pdf?dl=0"
   url_code: ""
   url_slides: "https://www.dropbox.com/scl/fi/rpw1s9g3gs39skewany00/ICPADS14_PADS_slides.pptx?rlkey=eopc3aemk3pe803s9mv3kudyc&dl=0"

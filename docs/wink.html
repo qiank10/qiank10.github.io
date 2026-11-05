@@ -78,7 +78,63 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-phd .list');
+    const listingTargetEl = window.document.querySelector('#listing-research .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-description','listing-image',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-research'] = new List('listing-research', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-grants .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-title','listing-agency','listing-role','listing-duration','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
+      
+      searchColumns: ["listing-title","listing-agency","listing-role","listing-duration","listing-date"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-grants'] = new List('listing-grants', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-graduate .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -91,7 +147,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-phd'] = new List('listing-phd', options);
+    window['quarto-listings']['listing-graduate'] = new List('listing-graduate', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -164,6 +220,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="publications.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -192,8 +249,8 @@ window.Quarto = {
 <span class="menu-text">WINK Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research.html"> 
-<span class="menu-text">Research</span></a>
+    <a class="nav-link" href="./publications.html"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
@@ -245,11 +302,13 @@ window.Quarto = {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#lab-members" id="toc-lab-members" class="nav-link active" data-scroll-target="#lab-members">Lab Members</a>
+  <li><a href="#research" id="toc-research" class="nav-link active" data-scroll-target="#research">Research</a></li>
+  <li><a href="#grants" id="toc-grants" class="nav-link" data-scroll-target="#grants">Grants</a></li>
+  <li><a href="#members" id="toc-members" class="nav-link" data-scroll-target="#members">Members</a>
   <ul class="collapse">
-  <li><a href="#ph.d.-students" id="toc-ph.d.-students" class="nav-link" data-scroll-target="#ph.d.-students">Ph.D.&nbsp;Students</a></li>
+  <li><a href="#graduates" id="toc-graduates" class="nav-link" data-scroll-target="#graduates">Graduates</a></li>
   </ul></li>
-  <li><a href="#lab-equipment" id="toc-lab-equipment" class="nav-link" data-scroll-target="#lab-equipment">Lab Equipment</a></li>
+  <li><a href="#equipment" id="toc-equipment" class="nav-link" data-scroll-target="#equipment">Equipment</a></li>
   </ul>
 </nav>
     </div>
@@ -273,18 +332,93 @@ window.Quarto = {
 </div>  
 </div>
 
-<p>The <strong>Wireless Intelligence for Networks and Knowledge (WINK) Lab</strong>, operated by Prof.&nbsp;Kun Qian at the Department of Computer Science, University of Virginia, aims to develop wireless technologies that enable ambient intelligence and ubiquitous connectivity with ensured interpretability, reliability, and security. Our current research focuses on the following areas:</p>
-<ul>
-<li>AI for wireless sensing and communication, e.g., generative models</li>
-<li>Wireless IoT/mobile system and hardware, e.g., backscatter and RIS</li>
-<li>Applications of wireless sensing, e.g., health, transportation, environment</li>
-</ul>
-<section id="lab-members" class="level2">
-<h2 data-anchor-id="lab-members">Lab Members</h2>
-<section id="ph.d.-students" class="level3">
-<h3 data-anchor-id="ph.d.-students">Ph.D.&nbsp;Students</h3>
-<div id="listing-phd" class="quarto-listing quarto-listing-container-grid">
-<div class="list grid quarto-listing-cols-4">
+<p>The <strong>Wireless Intelligence for Networks and Knowledge (WINK) Lab</strong>, run by Prof.&nbsp;Kun Qian at the Department of Computer Science, University of Virginia, aims to develop wireless technologies that enable ambient intelligence and ubiquitous connectivity with ensured interpretability, reliability, and security. Our research focuses on the following areas.</p>
+<section id="research" class="level2">
+<h2 data-anchor-id="research">Research</h2>
+<div id="listing-research" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-2">
+<div class="g-col-1" data-index="0" data-listing-file-modified-sort="1793909877702" data-listing-reading-time-sort="1" data-listing-word-count-sort="95">
+<a href="./research/ai-for-wireless.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="research/images/ai-for-wireless.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+AI for Wireless
+</h5>
+<div class="card-text listing-description delink">
+<p>Wireless signals carry rich information about communication channels and the physical world, but practical systems often have access to only sparse, noisy, and incomplete measurements. We develop AI…</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="1" data-listing-file-modified-sort="1793909871165" data-listing-reading-time-sort="1" data-listing-word-count-sort="104">
+<a href="./research/wireless-systems-and-hardware.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="research/images/wireless-systems-and-hardware.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Wireless Systems and Hardware
+</h5>
+<div class="card-text listing-description delink">
+<p>The capabilities of wireless systems depend on both how signals are processed and how they interact with surroundings. We design wireless hardware and systems that create new opportunities for…</p>
+</div>
+</div>
+</div></a>
+</div>
+<div class="g-col-1" data-index="2" data-listing-file-modified-sort="1793909875403" data-listing-reading-time-sort="1" data-listing-word-count-sort="107">
+<a href="./research/applications-of-wireless-sensing.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img loading="lazy" src="research/images/applications-of-wireless-sensing.png" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Applications of Wireless Sensing
+</h5>
+<div class="card-text listing-description delink">
+<p>Wireless sensing offers new ways to understand people, objects, and activities in everyday environments. We investigate how Wi-Fi, radar, and backscatter technologies can capture human motion…</p>
+</div>
+</div>
+</div></a>
+</div>
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="grants" class="level2">
+<h2 data-anchor-id="grants">Grants</h2>
+<div id="listing-grants" class="quarto-listing quarto-listing-container-custom">
+<div class="list publication-list">
+
+    <div class="publication-item" data-index="0" data-listing-date-sort="1782878400000">
+        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="../wink.html#grants">LS2M: Towards Large Spatial Spectrum Model for Beam Management in 6G Communication and Sensing</a></p>
+        <p class="publication-metadata">NVIDIA Academic Grant Program, <b>PI</b>, <i>2026.7 - 2026.12</i></p>
+    </div>
+
+    <div class="publication-item" data-index="1" data-listing-date-sort="1735707600000">
+        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="../wink.html#grants">Spoofing-Resilient and Communication-Compatible MmWave Radar Sensing for Autonomous Systems</a></p>
+        <p class="publication-metadata">Commonwealth Cyber Initiative (CCI), <b>PI</b>, <i>2025 - 2026</i></p>
+    </div>
+
+    <div class="publication-item" data-index="2" data-listing-date-sort="1725163200000">
+        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2403124">NeTS: Medium: Generative Channel Cartography for Giga MIMO Networks on the 6G Upper Mid-band</a></p>
+        <p class="publication-metadata">National Science Foundation (NSF), <b>PI</b>, <i>2024 - 2028</i></p>
+    </div>
+
+</div>
+<div class="listing-no-matching d-none">No matching items</div>
+</div>
+</section>
+<section id="members" class="level2">
+<h2 data-anchor-id="members">Members</h2>
+<section id="graduates" class="level3">
+<h3 data-anchor-id="graduates">Graduates</h3>
+<div id="listing-graduate" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-listing-date-sort="1754020800000">
 <a href="https://klaw-2003.github.io/JianyuLuo/" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
@@ -296,7 +430,7 @@ window.Quarto = {
 Jianyu Luo
 </h5>
 <div class="card-text listing-description delink">
-<p>Computer Engineering</p>
+<p>CpE PhD</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -317,7 +451,7 @@ Aug, 2025
 Mohan Zhao
 </h5>
 <div class="card-text listing-description delink">
-<p>Computer Engineering</p>
+<p>CpE PhD</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -338,7 +472,7 @@ Jan, 2025
 Shunqiang Feng
 </h5>
 <div class="card-text listing-description delink">
-<p>Computer Science</p>
+<p>CS PhD</p>
 </div>
 <div class="card-attribution card-text-small end">
 <div class="listing-date">
@@ -351,7 +485,6 @@ Jan, 2025
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-<!-- ### Master's Students -->
 <!-- ### Undergraduate Students
 :::{#undergrad}
 ::: -->
@@ -360,8 +493,8 @@ Jan, 2025
 WINK Lab is young and has no alumni yet. -->
 </section>
 </section>
-<section id="lab-equipment" class="level2">
-<h2 data-anchor-id="lab-equipment">Lab Equipment</h2>
+<section id="equipment" class="level2">
+<h2 data-anchor-id="equipment">Equipment</h2>
 <p>WINK Lab possesses a variety of wireless communication and sensing equipment. We are open to collaborations and welcome visitors to our lab. If you are interested in our research or have any questions, please feel free to contact <a href="mailto:kqian@virginia.edu">Prof.&nbsp;Kun Qian</a>.</p>
 
 
@@ -370,12 +503,6 @@ WINK Lab is young and has no alumni yet. -->
 </section>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-equipment">
-<div class="listing-actions-group">
-    <div class="input-group input-group-sm quarto-listing-filter">
-      <span class="input-group-text"><i class="bi bi-search"></i></span>
-      <input type="text" class="search form-control" placeholder="Filter">
-    </div>
-</div>
 <div class="list grid quarto-listing-cols-3">
 <div class="g-col-1" data-index="0" data-categories="U2Vuc2luZw==" data-listing-date-sort="1788235200000">
 <a href="../wink.html#lab-equipment" class="quarto-grid-link">

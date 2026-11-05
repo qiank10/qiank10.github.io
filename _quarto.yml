@@ -11,8 +11,8 @@ website:
         href: index.qmd
       - text: WINK Lab
         href: wink.qmd
-      - text: Research
-        href: research.qmd
+      - text: Publications
+        href: publications.qmd
       - text: Teaching
         href: teaching.qmd
       - text: Service

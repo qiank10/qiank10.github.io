@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Selected Publications"
 listing:
     - id: publications
       contents: 
@@ -8,26 +8,14 @@ listing:
       sort:
         - "date desc"
       page-size: 100
-      categories: false
       template: publications.ejs
-    - id: grants
-      contents: 
-        - grants/*.yml
-      type: custom
-      sort:
-        - "date desc"
-      page-size: 100
+      filter-ui: true
+      sort-ui: true
       categories: false
-      template: grants.ejs
 page-navigation: false
 title-block-banner: false
-css: research.css
+css: publications.css
 ---
 
-## Selected Publications
 ::: {#publications}
-:::
-
-## Grants
-::: {#grants}
 :::

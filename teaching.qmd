@@ -10,10 +10,11 @@ listing:
         - "date desc"
       page-size: 100
       max-description-length: 10000
-      categories: true
-      sort-ui: true
-      filter-ui: true
+      categories: false
+      sort-ui: false
+      filter-ui: false
 # date-format: "MMM, YYYY"
 page-navigation: false
 title-block-banner: false
+toc: false
 ---

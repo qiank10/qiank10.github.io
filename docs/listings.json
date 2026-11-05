@@ -1,7 +1,11 @@
 [
   {
     "listing": "/wink.html",
-    "items": []
+    "items": [
+      "/research/ai-for-wireless.html",
+      "/research/wireless-systems-and-hardware.html",
+      "/research/applications-of-wireless-sensing.html"
+    ]
   },
   {
     "listing": "/service.html",
@@ -10,13 +14,11 @@
     ]
   },
   {
-    "listing": "/news.html",
-    "items": [
-      "/news.html"
-    ]
+    "listing": "/research/applications-of-wireless-sensing.html",
+    "items": []
   },
   {
-    "listing": "/awards.html",
+    "listing": "/publications.html",
     "items": []
   },
   {
@@ -26,7 +28,21 @@
     ]
   },
   {
-    "listing": "/research.html",
+    "listing": "/awards.html",
+    "items": []
+  },
+  {
+    "listing": "/news.html",
+    "items": [
+      "/news.html"
+    ]
+  },
+  {
+    "listing": "/research/ai-for-wireless.html",
+    "items": []
+  },
+  {
+    "listing": "/research/wireless-systems-and-hardware.html",
     "items": []
   },
   {

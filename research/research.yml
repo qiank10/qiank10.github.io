@@ -1,0 +1,14 @@
+- path: "ai-for-wireless.qmd"
+  title: "AI for Wireless"
+  description: "Wireless signals carry rich information about communication channels and the physical world, but practical systems often have access to only sparse, noisy, and incomplete measurements. We develop AI models that combine knowledge of wireless propagation with data-driven learning to extract useful information from these limited observations. Our research explores generative modeling, spatial channel reconstruction, and multimodal learning to improve sensing capabilities, reduce measurement overhead, and enable efficient beam management. Our goal is to build interpretable and reliable wireless intelligence that adapts to new environments and supports both sensing and communication."
+  image: "research/images/ai-for-wireless.png"
+
+- path: "wireless-systems-and-hardware.qmd"
+  title: "Wireless Systems and Hardware"
+  description: "The capabilities of wireless systems depend on both how signals are processed and how they interact with surroundings. We design wireless hardware and systems that create new opportunities for energy-efficient sensing and communication. Our research spans backscatter devices that communicate by modulating reflected signals, passive and reconfigurable surfaces that shape radio propagation, and platforms that integrate sensing and communication. By jointly designing hardware, signal processing, and control algorithms, we seek to expand wireless coverage, improve sensing performance, and reduce deployment and maintenance costs. These efforts provide building blocks for low-power IoT devices, unobtrusive wearable sensors, and adaptable wireless infrastructure."
+  image: "research/images/wireless-systems-and-hardware.png"
+
+- path: "applications-of-wireless-sensing.qmd"
+  title: "Applications of Wireless Sensing"
+  description: "Wireless sensing offers new ways to understand people, objects, and activities in everyday environments. We investigate how Wi-Fi, radar, and backscatter technologies can capture human motion, physiological activity, and spatial information to support applications in health monitoring, transportation, and environmental perception. Our research combines complementary sensing modalities and develops methods that remain reliable under movement, occlusion, interference, and changing surroundings. We also study how to protect wireless sensing systems against spoofing and manipulation. Through system prototyping and experimental evaluation, we aim to translate advances in wireless technology into practical tools for continuous health monitoring, safer autonomous systems, and more responsive living environments."
+  image: "research/images/applications-of-wireless-sensing.png"

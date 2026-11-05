@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Research – Kun Qian</title>
+<title>Selected Publications – Kun Qian</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -104,34 +104,6 @@ ul.task-list li input[type="checkbox"] {
       window['quarto-listing-loaded']();
     }
   })
-  
-
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-grants .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
-
-    const options = {
-      valueNames: ['listing-title','listing-agency','listing-role','listing-duration','listing-date',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] }],
-      
-      searchColumns: ["listing-title","listing-agency","listing-role","listing-duration","listing-date"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-grants'] = new List('listing-grants', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
   </script>
 
   <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
@@ -165,7 +137,7 @@ window.Quarto = {
 </script>
 
 <link rel="stylesheet" href="styles.css">
-<link rel="stylesheet" href="research.css">
+<link rel="stylesheet" href="publications.css">
 </head>
 
 <body class="nav-fixed quarto-light">
@@ -194,8 +166,8 @@ window.Quarto = {
 <span class="menu-text">WINK Lab</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./research.html" aria-current="page"> 
-<span class="menu-text">Research</span></a>
+    <a class="nav-link active" href="./publications.html" aria-current="page"> 
+<span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./teaching.html"> 
@@ -242,22 +214,15 @@ window.Quarto = {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">On this page</h2>
-   
-  <ul>
-  <li><a href="#selected-publications" id="toc-selected-publications" class="nav-link active" data-scroll-target="#selected-publications">Selected Publications</a></li>
-  <li><a href="#grants" id="toc-grants" class="nav-link" data-scroll-target="#grants">Grants</a></li>
-  </ul>
-</nav>
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
+        
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Research</h1>
+<h1 class="title">Selected Publications</h1>
 </div>
 
 
@@ -274,15 +239,53 @@ window.Quarto = {
 </header>
 
 
-<section id="selected-publications" class="level2">
-<h2 class="anchored" data-anchor-id="selected-publications">Selected Publications</h2>
 <div id="listing-publications" class="quarto-listing quarto-listing-container-custom">
+<div class="listing-actions-group">
+   <div class="input-group input-group-sm quarto-listing-sort">
+    <span class="input-group-text"><i class="bi bi-sort-down"></i></span>
+    <select id="listing-publications-sort" class="form-select" aria-label="Order By" onchange="window['quarto-listings']['listing-publications'].sort(this.options[this.selectedIndex].value, { order: this.options[this.selectedIndex].getAttribute('data-direction')})">
+      <option value="" disabled="" selected="" hidden="">Order By</option>
+      <option value="index" data-direction="asc">Default</option>
+      <option value="listing-title" data-direction="asc">
+        Title
+      </option>
+      <option value="listing-authors" data-direction="asc">
+        authors
+      </option>
+      <option value="listing-publication" data-direction="asc">
+        publication
+      </option>
+      <option value="listing-date-sort" data-direction="asc">
+        Date - Oldest
+      </option>
+      <option value="listing-date-sort" data-direction="desc">
+        Date - Newest
+      </option>
+      <option value="listing-categories" data-direction="asc">
+        Categories
+      </option>
+      <option value="listing-url_pdf" data-direction="asc">
+        url_pdf
+      </option>
+      <option value="listing-url_code" data-direction="asc">
+        url_code
+      </option>
+      <option value="listing-url_slides" data-direction="asc">
+        url_slides
+      </option>
+    </select>
+  </div>
+    <div class="input-group input-group-sm quarto-listing-filter">
+      <span class="input-group-text"><i class="bi bi-search"></i></span>
+      <input type="text" class="search form-control" placeholder="Filter">
+    </div>
+</div>
 <div class="list publication-list">
 
     
     
     
-    <div class="publication-item" data-index="0" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1775448000000">
+    <div class="publication-item" data-index="0" data-categories="Q29uZmVyZW5jZSUyQ0FJ" data-listing-date-sort="1775448000000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3745756.3809229">BeamFormer: Transformer-based Beam Management for 6G Networks</a></p>
         <p class="publication-metadata"><u>Shunqiang Feng</u>, Swastik Kanjilal, <b>Kun Qian</b>, Ish Kumar Jain</p>
         <p class="publication-metadata"><i>ACM MobiSys 2026</i></p>
@@ -302,7 +305,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="1" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1743998400000">
+    <div class="publication-item" data-index="1" data-categories="Q29uZmVyZW5jZSUyQ0hhcmR3YXJl" data-listing-date-sort="1743998400000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3711875.3729155">Toward Spoofing-Resilient and Communication-Integrated MmWave Radar Sensing</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Parth Pathak</p>
         <p class="publication-metadata"><i>ACM MobiSys 2025</i></p>
@@ -322,7 +325,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="2" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1743480000000">
+    <div class="publication-item" data-index="2" data-categories="Q29uZmVyZW5jZSUyQ0FJ" data-listing-date-sort="1743480000000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://openaccess.thecvf.com/content/CVPR2025/html/Chen_Radio_Frequency_Ray_Tracing_with_Neural_Object_Representation_for_Enhanced_CVPR_2025_paper.html">Radio Frequency Ray Tracing with Neural Object Representation for Enhanced RF Modeling</a></p>
         <p class="publication-metadata">Xingyu Chen, Zihao Feng, <b>Kun Qian</b>, Xinyu Zhang</p>
         <p class="publication-metadata"><i>IEEE/CVF CVPR 2025</i></p>
@@ -340,7 +343,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="3" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1727755200000">
+    <div class="publication-item" data-index="3" data-categories="Q29uZmVyZW5jZSUyQ0FJ" data-listing-date-sort="1727755200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3666025.3699351">RFCanvas: Modeling RF Channel by Fusing Visual Priors and Few-shot RF Measurements</a></p>
         <p class="publication-metadata">Xingyu Chen, Zihao Feng, Ke Sun, <b>Kun Qian</b>, Xinyu Zhang</p>
         <p class="publication-metadata"><i>ACM SenSys 2024</i></p>
@@ -358,7 +361,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="4" data-categories="Sm91cm5hbA==" data-listing-date-sort="1704085200000">
+    <div class="publication-item" data-index="4" data-categories="Sm91cm5hbCUyQ0hhcmR3YXJl" data-listing-date-sort="1704085200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/abs/10.1145/3631442">KeyStub: A Passive RFID-based Keypad Interface Using Resonant Stubs</a></p>
         <p class="publication-metadata">John Nolan, <b>Kun Qian</b>, Xinyu Zhang</p>
         <p class="publication-metadata"><i>ACM IMWUT 2024</i></p>
@@ -376,7 +379,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="5" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1698811200000">
+    <div class="publication-item" data-index="5" data-categories="Q29uZmVyZW5jZSUyQ0hhcmR3YXJl" data-listing-date-sort="1698811200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3625687.3625803">Metasight: High-Resolution NLoS Radar with Efficient Metasurface Encoding</a></p>
         <p class="publication-metadata">Timothy Woodford, <b>Kun Qian</b>, Xinyu Zhang</p>
         <p class="publication-metadata"><i>ACM SenSys 2023</i></p>
@@ -394,7 +397,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="6" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1698811200000">
+    <div class="publication-item" data-index="6" data-categories="Q29uZmVyZW5jZSUyQ0hhcmR3YXJl" data-listing-date-sort="1698811200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3625687.3625788">NeuroRadar: A Neuromorphic Radar Sensor for Low-Power IoT Systems</a></p>
         <p class="publication-metadata">Kai Zheng, <b>Kun Qian</b>, Timothy Woodford, Xinyu Zhang</p>
         <p class="publication-metadata"><i>ACM SenSys 2023</i></p>
@@ -412,7 +415,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="7" data-categories="Sm91cm5hbA==" data-listing-date-sort="1696132800000">
+    <div class="publication-item" data-index="7" data-categories="Sm91cm5hbCUyQ0hhcmR3YXJl" data-listing-date-sort="1696132800000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3570361.3592526">UniScatter: a Metamaterial Backscatter Tag for Wideband Joint Communication and Radar Sensing</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Lulu Yao, Kai Zheng, Xinyu Zhang, Tse Nga Ng</p>
         <p class="publication-metadata"><i>ACM MobiCom 2023</i></p>
@@ -432,7 +435,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="8" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1681704000000">
+    <div class="publication-item" data-index="8" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1681704000000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://www.usenix.org/Conference/nsdi23/presentation/yang-zheng">SLNet: A Spectrogram Learning Neural Network for Deep Wireless Sensing</a></p>
         <p class="publication-metadata">Zheng Yang, Yi Zhang, <b>Kun Qian</b>, Chenshu Wu</p>
         <p class="publication-metadata"><i>USENIX NSDI 2023</i></p>
@@ -450,7 +453,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="9" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1664596800000">
+    <div class="publication-item" data-index="9" data-categories="Q29uZmVyZW5jZSUyQ0hhcmR3YXJl" data-listing-date-sort="1664596800000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/abs/10.1145/3495243.3517024">MilliMirror: 3D Printed Reflecting Surface for Millimeter-Wave Coverage Expansion</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Lulu Yao, Xinyu Zhang, Tse Nga Ng</p>
         <p class="publication-metadata"><i>ACM MobiCom 2022</i></p>
@@ -470,7 +473,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="10" data-categories="Sm91cm5hbA==" data-listing-date-sort="1631332800000">
+    <div class="publication-item" data-index="10" data-categories="Sm91cm5hbCUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1631332800000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/abs/10.1145/3432221">3D Point Cloud Generation with Millimeter-Wave Radar</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Zhaoyuan He, Xinyu Zhang</p>
         <p class="publication-metadata"><i>ACM IMWUT 2021</i></p>
@@ -490,7 +493,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="11" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1629691200000">
+    <div class="publication-item" data-index="11" data-categories="Q29uZmVyZW5jZSUyQ0hhcmR3YXJl" data-listing-date-sort="1629691200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3452296.3472896">RoS: Passive Smart Surface for Roadside-to-Vehicle Communication</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, John Nolan, Xinyu Zhang</p>
         <p class="publication-metadata"><i>ACM SIGCOMM 2021</i></p>
@@ -510,7 +513,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="12" data-categories="Sm91cm5hbA==" data-listing-date-sort="1627790400000">
+    <div class="publication-item" data-index="12" data-categories="Sm91cm5hbCUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1627790400000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://ieeexplore.ieee.org/document/9516988">Widar3.0: Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi</a></p>
         <p class="publication-metadata">Yi Zhang, Yue Zheng, <b>Kun Qian</b>, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang</p>
         <p class="publication-metadata"><i>IEEE TPAMI 2021</i></p>
@@ -528,7 +531,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="13" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1624075200000">
+    <div class="publication-item" data-index="13" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1624075200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://ieeexplore.ieee.org/document/9578621">Robust Multimodal Vehicle Detection in Foggy Weather using Complementary Lidar and Radar Signals</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Shilin Zhu, Xinyu Zhang, Li Erran Li</p>
         <p class="publication-metadata"><i>IEEE/CVF CVPR 2021</i></p>
@@ -568,7 +571,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="15" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1600660800000">
+    <div class="publication-item" data-index="15" data-categories="Q29uZmVyZW5jZSUyQ0hhcmR3YXJl" data-listing-date-sort="1600660800000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3372224.3380892">M-Cube: A Millimeter-Wave Massive MIMO Software Radio</a></p>
         <p class="publication-metadata">Renjie Zhao, Timothy Woodford, Teng Wei, <b>Kun Qian</b>, Xinyu Zhang</p>
         <p class="publication-metadata"><i>ACM MobiCom 2020</i></p>
@@ -604,7 +607,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="17" data-categories="Sm91cm5hbA==" data-listing-date-sort="1568001600000">
+    <div class="publication-item" data-index="17" data-categories="Sm91cm5hbCUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1568001600000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/abs/10.1145/3351272">iVR: Integrated Vision and Radio Localization with Zero Human Effort</a></p>
         <p class="publication-metadata">Jingao Xu, Hengjie Chen, <b>Kun Qian</b>, Erqun Dong, Min Sun, Chenshu Wu, Li Zhang, Zheng Yang</p>
         <p class="publication-metadata"><i>ACM IMWUT 2019</i></p>
@@ -622,7 +625,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="18" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1560744000000">
+    <div class="publication-item" data-index="18" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1560744000000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3307334.3326081">Zero-Effort Cross-Domain Gesture Recognition with Wi-Fi</a></p>
         <p class="publication-metadata">Yue Zheng, Yi Zhang, <b>Kun Qian</b>, Guidong Zhang, Yunhao Liu, Chenshu Wu, Zheng Yang</p>
         <p class="publication-metadata"><i>ACM MobiSys 2019</i></p>
@@ -644,7 +647,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="19" data-categories="Sm91cm5hbA==" data-listing-date-sort="1533096000000">
+    <div class="publication-item" data-index="19" data-categories="Sm91cm5hbCUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1533096000000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://ieeexplore.ieee.org/document/8122023">Enabling Phased Array Signal Processing for Mobile WiFi Devices</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu</p>
         <p class="publication-metadata"><i>IEEE TMC 2018</i></p>
@@ -662,7 +665,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="20" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1528603200000">
+    <div class="publication-item" data-index="20" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1528603200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3210240.3210314">Widar2.0: Passive Human Tracking with a Single Wi-Fi Link</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Chenshu Wu, Yi Zhang, Guidong Zhang, Zheng Yang, Yunhao Liu</p>
         <p class="publication-metadata"><i>ACM MobiSys 2018</i></p>
@@ -684,7 +687,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="21" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1523764800000">
+    <div class="publication-item" data-index="21" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1523764800000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://ieeexplore.ieee.org/document/8485978">Acousticcardiogram: Monitoring Heartbeats using Acoustic Signals on Smart Devices</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Chenshu Wu, Fu Xiao, Yue Zheng, Yi Zhang, Zheng Yang</p>
         <p class="publication-metadata"><i>IEEE INFOCOM 2018</i></p>
@@ -704,7 +707,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="22" data-categories="Sm91cm5hbA==" data-listing-date-sort="1514782800000">
+    <div class="publication-item" data-index="22" data-categories="Sm91cm5hbCUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1514782800000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3157677">Enabling Contactless Detection of Moving Humans with Dynamic Speeds Using CSI</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Fugui He, Tianzhang Xing</p>
         <p class="publication-metadata"><i>ACM TECS 2018</i></p>
@@ -722,7 +725,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="23" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1499659200000">
+    <div class="publication-item" data-index="23" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1499659200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3084041.3084067">Widar: Decimeter-Level Passive Tracking via Velocity Monitoring with Commodity Wi-Fi</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Kyle Jamieson</p>
         <p class="publication-metadata"><i>ACM MobiHoc 2017</i></p>
@@ -744,7 +747,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="24" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1494043200000">
+    <div class="publication-item" data-index="24" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1494043200000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://dl.acm.org/doi/10.1145/3025453.3025678">Inferring Motion Direction using Commodity Wi-Fi for Interactive Exergames</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Chenshu Wu, Zimu Zhou, Yue Zheng, Zheng Yang, Yunhao Liu</p>
         <p class="publication-metadata"><i>ACM CHI 2017</i></p>
@@ -764,7 +767,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="25" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1460260800000">
+    <div class="publication-item" data-index="25" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1460260800000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://ieeexplore.ieee.org/document/7524452">Tuning by Turning: Enabling Phased Array Signal Processing for WiFi with Inertial Sensors</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Zimu Zhou, Xu Wang, Yunhao Liu</p>
         <p class="publication-metadata"><i>IEEE INFOCOM 2016</i></p>
@@ -784,7 +787,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="26" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1430020800000">
+    <div class="publication-item" data-index="26" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1430020800000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://ieeexplore.ieee.org/document/7218588">PhaseU: Real-time LOS Identification with WiFi</a></p>
         <p class="publication-metadata">Chenshu Wu, Zheng Yang, Zimu Zhou, <b>Kun Qian</b>, Yunhao Liu, Mingyan Liu</p>
         <p class="publication-metadata"><i>IEEE INFOCOM 2015</i></p>
@@ -802,7 +805,7 @@ window.Quarto = {
     
     
     
-    <div class="publication-item" data-index="27" data-categories="Q29uZmVyZW5jZQ==" data-listing-date-sort="1418706000000">
+    <div class="publication-item" data-index="27" data-categories="Q29uZmVyZW5jZSUyQ0FwcGxpY2F0aW9u" data-listing-date-sort="1418706000000">
         <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://ieeexplore.ieee.org/document/7097784">PADS: Passive Detection of Moving Targets with Dynamic Speed using PHY Layer Information</a></p>
         <p class="publication-metadata"><b>Kun Qian</b>, Chenshu Wu, Zheng Yang, Yunhao Liu, Zimu Zhou</p>
         <p class="publication-metadata"><i>IEEE ICPADS 2014</i></p>
@@ -822,34 +825,9 @@ window.Quarto = {
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
 </div>
-</section>
-<section id="grants" class="level2">
-<h2 class="anchored" data-anchor-id="grants">Grants</h2>
-<div id="listing-grants" class="quarto-listing quarto-listing-container-custom">
-<div class="list publication-list">
-
-    <div class="publication-item" data-index="0" data-listing-date-sort="1782878400000">
-        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="../research.html#grants">LS2M: Towards Large Spatial Spectrum Model for Beam Management in 6G Communication and Sensing</a></p>
-        <p class="publication-metadata">NVIDIA Academic Grant Program, <b>PI</b>, <i>2026.7 - 2026.12</i></p>
-    </div>
-
-    <div class="publication-item" data-index="1" data-listing-date-sort="1735707600000">
-        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="../research.html#grants">Spoofing-Resilient and Communication-Compatible MmWave Radar Sensing for Autonomous Systems</a></p>
-        <p class="publication-metadata">Commonwealth Cyber Initiative (CCI), <b>PI</b>, <i>2025 - 2026</i></p>
-    </div>
-
-    <div class="publication-item" data-index="2" data-listing-date-sort="1725163200000">
-        <p class="publication-title"><i class="far fa-file-alt pub-icon" style="font-size:medium"></i> <a href="https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2403124">NeTS: Medium: Generative Channel Cartography for Giga MIMO Networks on the 6G Upper Mid-band</a></p>
-        <p class="publication-metadata">National Science Foundation (NSF), <b>PI</b>, <i>2024 - 2028</i></p>
-    </div>
-
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div>
 
 
 
-</section>
 
 <a onclick="window.scrollTo(0, 0); return false;" role="button" id="quarto-back-to-top"><i class="bi bi-arrow-up"></i> Back to top</a></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">

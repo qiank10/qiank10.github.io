@@ -1,0 +1,30 @@
+---
+title: "Wireless Systems and Hardware"
+listing:
+    - id: publications
+      contents: 
+        - ../publications/*.yml
+      type: custom
+      sort:
+        - "date desc"
+      page-size: 100
+      template: ../publications.ejs
+      filter-ui: false
+      sort-ui: false
+      categories: false
+      include: 
+        categories: ["Application"]
+page-navigation: false
+title-block-banner: false
+toc: false
+css: ../publications.css
+---
+
+::: {style="float: right; margin-right: 10px;"}
+![](images/applications-of-wireless-sensing.png){width="400px"}
+:::
+Wireless sensing offers new ways to understand people, objects, and activities in everyday environments. We investigate how Wi-Fi, radar, and backscatter technologies can capture human motion, physiological activity, and spatial information to support applications in health monitoring, transportation, and environmental perception. Our research combines complementary sensing modalities and develops methods that remain reliable under movement, occlusion, interference, and changing surroundings. We also study how to protect wireless sensing systems against spoofing and manipulation. Through system prototyping and experimental evaluation, we aim to translate advances in wireless technology into practical tools for continuous health monitoring, safer autonomous systems, and more responsive living environments.
+
+## Related Publications
+::: {#publications}
+:::
