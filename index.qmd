@@ -16,6 +16,7 @@ listing:
       max-items: 6
       fields: [date, title, description, image, categories]
       max-description-length: 500
+      image-height: "180px"
       sort:
         - "date desc"
         - "title desc"

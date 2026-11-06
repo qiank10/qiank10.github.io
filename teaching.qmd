@@ -5,11 +5,13 @@ listing:
       contents:
         - courses/*.yml
       type: grid
+      grid-columns: 2
       fields: [image, description, title, subtitle, categories]
       sort:
         - "date desc"
       page-size: 100
       max-description-length: 10000
+      image-height: "200px"
       categories: false
       sort-ui: false
       filter-ui: false

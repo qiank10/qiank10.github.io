@@ -15,9 +15,8 @@ listing:
       type: grid
       grid-columns: 2
       fields: [title, description, image]
-      max-description-length: 200
-      sort: 
-        - "date desc"
+      max-description-length: 80
+      image-height: "200px"
       page-size: 100
       categories: false
       sort-ui: false
@@ -38,6 +37,7 @@ listing:
       grid-columns: 3
       fields: [title, description, date, image]
       max-description-length: 200
+      image-height: "200px"
       sort: 
         - "date desc"
       page-size: 100
@@ -51,6 +51,7 @@ listing:
     #   grid-columns: 3
     #   fields: [title, description, date, image]
     #   max-description-length: 200
+    #   image-height: "200px"
     #   sort: 
     #     - "date desc"
     #   page-size: 100
@@ -64,6 +65,7 @@ listing:
       grid-columns: 3
       fields: [title, description, image, categories]
       max-description-length: 200
+      image-height: "200px"
       sort: 
         - "date desc"
       page-size: 100
