@@ -13,7 +13,7 @@ listing:
       contents: 
         - news/*.yml
       type: grid
-      max-items: 6
+      max-items: 3
       fields: [date, title, description, image, categories]
       max-description-length: 500
       image-height: "180px"
