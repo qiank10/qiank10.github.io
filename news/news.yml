@@ -1,3 +1,10 @@
+- path: "https://sensys.acm.org/2027/index.html"
+  image: news/images/mobisys27.png
+  title: "Serving in MobiSys 2027 TPC"
+  description: "I will serve as a TPC member for MobiSys'27 (abstract due: 11/27/2027). Please consider submitting."
+  date: "2026-11"
+  categories: ["Service"]
+  
 - path: "https://www.projectaria.com/"
   image: news/images/meta_aria.png
   title: "Gifts from Meta"
